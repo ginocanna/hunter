@@ -1,5 +1,6 @@
 msubtitles:
-  - source: https://raw.githubusercontent.com/ginocanna/hunter-hunter
+  - source: https://raw.githubusercontent.com/ginocanna/hunter-hunter/main
+  
     subtitles:
       - season: 2
         items:
