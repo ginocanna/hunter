@@ -3,6 +3,12 @@ msubtitles:
     subtitles:
       - season: 2
         items:
+          - path: [OURFanSub] Hunter X Hunter - 59.srt
+            episode: 1
+          - path: [OURFanSub] Hunter X Hunter - 60.srt
+            episode: 2
+          - path: [OURFanSub] Hunter X Hunter - 61.srt
+            episode: 3
           - path: Hunter.x.Hunter.S01E62.WEBRip.it.srt
             episode: 4
           - path: Hunter.x.Hunter.S01E63.WEBRip.it.srt
