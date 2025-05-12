@@ -1,0 +1,25 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/ginocanna/hunter-hunter/main/01
+    subtitles:
+      - season: 2
+        items:
+          - path: [OURFanSub] Hunter X Hunter - 59.srt
+            episode: 1
+          - path: [OURFanSub] Hunter X Hunter - 60.srt
+            episode: 2
+          - path: [OURFanSub] Hunter X Hunter - 61.srt
+            episode: 3
+          - path: Hunter.x.Hunter.S01E62.WEBRip.it.srt
+            episode: 4
+          - path: Hunter.x.Hunter.S01E63.WEBRip.it.srt
+            episode: 5
+          - path: Hunter.x.Hunter.S01E64.WEBRip.it.srt
+            episode: 6
+          - path: Hunter.x.Hunter.S01E65.WEBRip.it.srt
+            episode: 7
+          - path: Hunter.x.Hunter.S01E66.WEBRip.it.srt
+            episode: 8
+          - path: Hunter.x.Hunter.S01E67.WEBRip.it.srt
+            episode: 9
+          - path: Hunter.x.Hunter.S01E68.WEBRip.it.srt
+            episode: 10 
