@@ -1,0 +1,1460 @@
+1
+00:00:07,549 --> 00:00:08,675
+Tranquilli.
+
+2
+00:00:09,676 --> 00:00:11,469
+Non siamo qui per interferire.
+
+3
+00:00:11,970 --> 00:00:13,638
+Anzi, vogliamo collaborare.
+
+4
+00:00:14,264 --> 00:00:15,140
+Collaborare?
+
+5
+00:00:15,724 --> 00:00:20,395
+Sì. Se otteniamo il punteggio più alto
+e vinciamo l'ultima carta,
+
+6
+00:00:20,478 --> 00:00:22,647
+ve la vendiamo per 2,5 miliardi.
+
+7
+00:00:23,648 --> 00:00:26,776
+È solo il 5% della ricompensa totale,
+
+8
+00:00:26,860 --> 00:00:28,653
+quindi non è male, no?
+
+9
+00:00:29,904 --> 00:00:30,739
+<i>Capisco.</i>
+
+10
+00:00:31,239 --> 00:00:33,616
+<i>Non hanno sentito parlare di Battera.</i>
+
+11
+00:00:35,618 --> 00:00:37,996
+Certo. Se avrete il punteggio più alto.
+
+12
+00:00:39,456 --> 00:00:43,418
+Anche gli altri vogliono fare un accordo
+per vendere l'ultima carta?
+
+13
+00:00:43,501 --> 00:00:48,923
+Visto che il gioco sta per finire, sperano
+di ottenere parte della ricompensa.
+
+14
+00:00:49,507 --> 00:00:52,761
+{\an8}Pare che affronteranno il quiz in squadre.
+
+15
+00:00:53,428 --> 00:00:54,721
+Cosa dovremmo fare?
+
+16
+00:00:55,221 --> 00:00:58,308
+- Facciamolo da soli!
+- Sì.
+
+17
+00:00:58,808 --> 00:01:01,269
+Chi ha il punteggio più basso
+viene punito.
+
+18
+00:01:01,352 --> 00:01:02,312
+D'accordo!
+
+19
+00:01:03,730 --> 00:01:04,731
+<i>Santo cielo.</i>
+
+20
+00:01:05,231 --> 00:01:06,566
+<i>Sono proprio identici.</i>
+
+21
+00:01:07,317 --> 00:01:09,319
+<i>Dopo aver lottato fino alla morte,</i>
+
+22
+00:01:09,402 --> 00:01:13,615
+<i>sono così spensierati di fronte</i>
+<i>alla sfida finale del gioco.</i>
+
+23
+00:01:14,199 --> 00:01:18,036
+<i>Quei due si sono divertiti</i>
+<i>più di chiunque altro a giocare.</i>
+
+24
+00:01:18,912 --> 00:01:20,747
+<i>Continuate così fino alla fine.</i>
+
+25
+00:02:41,035 --> 00:02:45,957
+{\an8}GLI AMICI DI GING E I VERI AMICI
+
+26
+00:02:47,417 --> 00:02:51,337
+<i>Il concorso a quiz aperto</i>
+<i>a tutti i giocatori sta per iniziare.</i>
+
+27
+00:02:52,046 --> 00:02:55,383
+Ora avrà inizio il quiz.
+
+28
+00:02:55,967 --> 00:02:57,385
+Prima domanda.
+
+29
+00:02:57,468 --> 00:03:00,722
+Qual è il nome dell'anziano
+
+30
+00:03:00,805 --> 00:03:04,017
+<i>che ha dato un indizio importante</i>
+<i>sulla carta N°01?</i>
+
+31
+00:03:04,100 --> 00:03:05,226
+<i>A. Hira.</i>
+
+32
+00:03:05,310 --> 00:03:06,769
+<i>B. Hida.</i>
+
+33
+00:03:06,853 --> 00:03:08,271
+<i>C. Hiso.</i>
+
+34
+00:03:08,354 --> 00:03:09,647
+<i>D. Mayu.</i>
+
+35
+00:03:09,731 --> 00:03:10,690
+<i>E. Hima.</i>
+
+36
+00:03:11,608 --> 00:03:14,319
+Non so neanche la prima!
+Ci sono cinque scelte?
+
+37
+00:03:17,155 --> 00:03:22,202
+<i>Qual è la condizione per ottenere</i>
+<i>la carta N°17, Soffio d'angelo?</i>
+
+38
+00:03:29,083 --> 00:03:30,752
+Ho preso il Bombarolo.
+
+39
+00:03:40,136 --> 00:03:43,389
+La carta N°84, Collana del cavaliere,
+
+40
+00:03:43,473 --> 00:03:46,601
+<i>è il premio per quale torneo mensile?</i>
+
+41
+00:03:46,684 --> 00:03:47,518
+Sì!
+
+42
+00:03:47,602 --> 00:03:50,563
+B. SASSO-CARTA-FORBICI
+C. TIRO ALLA FUNE CON DUE UOMINI
+
+43
+00:03:51,272 --> 00:03:52,232
+Ok!
+
+44
+00:03:56,236 --> 00:03:58,029
+<i>E ora, l'ultima domanda.</i>
+
+45
+00:03:58,947 --> 00:04:01,491
+<i>Qual è il nome della carta N°000?</i>
+
+46
+00:04:01,574 --> 00:04:03,451
+A. Banchetto dell'amministratore.
+
+47
+00:04:03,534 --> 00:04:05,578
+B. Invito dell'amministratore.
+
+48
+00:04:05,662 --> 00:04:07,789
+C. Ricevimento dell'amministratore.
+
+49
+00:04:08,873 --> 00:04:09,791
+<i>Com'era?</i>
+
+50
+00:04:09,874 --> 00:04:11,793
+E. INVITO DELL'AMMINISTRATORE
+
+51
+00:04:16,547 --> 00:04:17,548
+<i>Il quiz è finito.</i>
+
+52
+00:04:18,091 --> 00:04:21,594
+<i>Ora annuncerò il giocatore</i>
+<i>con il punteggio più alto.</i>
+
+53
+00:04:25,807 --> 00:04:29,394
+<i>Questo giocatore ha totalizzato</i>
+<i>87 punti su 100.</i>
+
+54
+00:04:32,605 --> 00:04:33,940
+<i>Il suo nome è…</i>
+
+55
+00:04:36,401 --> 00:04:37,694
+<i>Gon.</i>
+
+56
+00:04:38,778 --> 00:04:40,905
+Evviva!
+
+57
+00:04:40,989 --> 00:04:42,448
+Abbiamo 100 carte!
+
+58
+00:04:46,035 --> 00:04:46,995
+Ce l'hai fatta!
+
+59
+00:04:47,078 --> 00:04:49,539
+È difficile ammetterlo, ma ci hai battuti.
+
+60
+00:04:49,622 --> 00:04:50,456
+Grazie.
+
+61
+00:04:51,165 --> 00:04:53,376
+Significa che verrai penalizzato.
+
+62
+00:04:53,459 --> 00:04:54,502
+Dannazione!
+
+63
+00:04:54,585 --> 00:04:56,337
+Quanti punti ho fatto?
+
+64
+00:05:08,141 --> 00:05:10,143
+Invito dell'amministratore?
+
+65
+00:05:11,060 --> 00:05:14,480
+<i>Sembra che solo chi ha</i>
+<i>la targhetta sia invitato</i>.
+
+66
+00:05:14,564 --> 00:05:16,941
+Limeiro è la capitale, eh?
+
+67
+00:05:17,442 --> 00:05:19,319
+Devo andarci solo?
+
+68
+00:05:19,819 --> 00:05:21,821
+Ti aspetteremo vicino al castello.
+
+69
+00:05:29,662 --> 00:05:31,831
+Ce l'ha fatta.
+
+70
+00:05:31,914 --> 00:05:34,375
+Quel ragazzo ha ottenuto tutte le carte.
+
+71
+00:05:34,959 --> 00:05:39,005
+Ehi, sfidiamoci mettendo
+tutte le carte in gioco.
+
+72
+00:05:39,088 --> 00:05:42,008
+Mi spiace, ma non è una richiesta.
+
+73
+00:05:58,983 --> 00:06:01,444
+Prendo solo una carta Accompagnamento.
+
+74
+00:06:01,527 --> 00:06:03,112
+Non funzionerà.
+
+75
+00:06:03,196 --> 00:06:05,073
+Non siamo mai stati a Limeiro.
+
+76
+00:06:05,156 --> 00:06:07,492
+E che mi dici di Deriva?
+
+77
+00:06:07,575 --> 00:06:09,577
+Siamo già stati in altre città.
+
+78
+00:06:10,411 --> 00:06:15,249
+Allora userò Deriva per trovare Limeiro
+e tornare a prendervi.
+
+79
+00:06:15,333 --> 00:06:17,710
+Accompagnamento poi dovrebbe funzionare!
+
+80
+00:06:18,211 --> 00:06:19,170
+Deriva!
+
+81
+00:06:30,264 --> 00:06:31,099
+Tombola!
+
+82
+00:06:34,060 --> 00:06:35,812
+ACCOMPAGNAMENTO
+
+83
+00:06:35,895 --> 00:06:37,271
+- Andiamo, Gon.
+- Ok!
+
+84
+00:06:38,606 --> 00:06:40,733
+Accompagnamento. Limeiro!
+
+85
+00:06:44,445 --> 00:06:46,239
+Che ragazzi talentuosi.
+
+86
+00:06:46,322 --> 00:06:48,783
+Si sono sbarazzati dei fratelli Bellam.
+
+87
+00:06:48,866 --> 00:06:50,743
+Naturalmente.
+
+88
+00:06:50,827 --> 00:06:53,246
+Hanno eliminato loro i Bombaroli!
+
+89
+00:06:55,331 --> 00:06:56,249
+<i>È vero.</i>
+
+90
+00:06:57,375 --> 00:06:59,252
+<i>Rispetto a quando ci siamo conosciuti,</i>
+
+91
+00:06:59,335 --> 00:07:02,130
+<i>ora quei due ragazzi sono molto più forti.</i>
+
+92
+00:07:02,755 --> 00:07:06,509
+<i>Ma sono ancora più deboli di Genthru.</i>
+
+93
+00:07:07,176 --> 00:07:09,804
+<i>Avranno escogitato</i>
+<i>una strategia formidabile.</i>
+
+94
+00:07:11,139 --> 00:07:12,181
+<i>Beh, non importa.</i>
+
+95
+00:07:12,682 --> 00:07:15,685
+<i>Ti darò la ricompensa</i>
+<i>per aver completato il gioco.</i>
+
+96
+00:07:16,644 --> 00:07:18,020
+Forza magnetica.
+
+97
+00:07:18,521 --> 00:07:19,730
+Chrollo Lucilfer!
+
+98
+00:07:23,860 --> 00:07:27,321
+<i>Torno alla realtà per diventare ricco.</i>
+
+99
+00:07:27,405 --> 00:07:29,031
+<i>esorcizzando Nen.</i>
+
+100
+00:07:34,412 --> 00:07:36,247
+Chissà lui che ne pensa.
+
+101
+00:07:36,330 --> 00:07:37,331
+Cosa vuoi dire?
+
+102
+00:07:37,415 --> 00:07:40,168
+Ora potrà incontrare Ging,
+
+103
+00:07:40,877 --> 00:07:43,379
+suo padre, lo stava cercando.
+
+104
+00:08:02,231 --> 00:08:05,401
+{\an8}Benvenuti al castello di Greed Island.
+
+105
+00:08:09,739 --> 00:08:10,656
+Prego, entrate.
+
+106
+00:08:18,331 --> 00:08:19,540
+Che discarica!
+
+107
+00:08:19,624 --> 00:08:22,168
+Lui è Gon, il vincitore.
+
+108
+00:08:22,251 --> 00:08:25,379
+Eh? Ti stavo aspettando!
+
+109
+00:08:26,005 --> 00:08:28,382
+Sei il figlio di Ging, vero?
+
+110
+00:08:28,466 --> 00:08:29,842
+Vieni. Siediti.
+
+111
+00:08:30,426 --> 00:08:34,013
+Dove mi siedo?
+
+112
+00:08:34,096 --> 00:08:36,098
+Come? Non c'è spazio?
+
+113
+00:08:36,641 --> 00:08:38,226
+Createne un po' allora.
+
+114
+00:08:38,809 --> 00:08:40,228
+Così!
+
+115
+00:08:45,733 --> 00:08:47,610
+Eh? Dove l'ho messo?
+
+116
+00:08:48,402 --> 00:08:49,612
+Oh, eccolo!
+
+117
+00:08:50,988 --> 00:08:51,864
+Tieni.
+
+118
+00:08:52,448 --> 00:08:54,909
+L'Invito dell'amministratore.
+
+119
+00:08:54,992 --> 00:08:56,869
+Il premio per il vincitore.
+
+120
+00:08:57,453 --> 00:08:59,163
+Che ne pensi? Forte, vero?
+
+121
+00:08:59,247 --> 00:09:00,748
+Sei sorpreso?
+
+122
+00:09:01,332 --> 00:09:04,168
+Ci sono 10.000 abitanti in questa città.
+
+123
+00:09:04,710 --> 00:09:07,004
+Tra loro è possibile che…
+
+124
+00:09:08,297 --> 00:09:10,132
+Ci hai creduto?
+
+125
+00:09:10,216 --> 00:09:14,512
+Ti aspettavi fosse Ging l'amministratore?
+
+126
+00:09:14,595 --> 00:09:16,097
+Niente affatto!
+
+127
+00:09:16,180 --> 00:09:18,766
+Non pensavo che Ging sarebbe stato qui.
+
+128
+00:09:18,849 --> 00:09:20,560
+Oh, capisco!
+
+129
+00:09:20,643 --> 00:09:21,936
+Meglio,
+
+130
+00:09:22,019 --> 00:09:23,729
+perché non è qui.
+
+131
+00:09:23,813 --> 00:09:25,064
+Dwun.
+
+132
+00:09:25,565 --> 00:09:27,316
+Pensiamo alla faccenda?
+
+133
+00:09:27,400 --> 00:09:28,734
+Scusa.
+
+134
+00:09:31,821 --> 00:09:37,118
+Ascoltami. Dato che ora
+hai tutte le 100 carte richieste,
+
+135
+00:09:37,618 --> 00:09:40,288
+resta una sola cosa da fare.
+
+136
+00:09:41,080 --> 00:09:42,290
+Vediamo…
+
+137
+00:09:42,373 --> 00:09:43,874
+Eccolo!
+
+138
+00:09:46,377 --> 00:09:47,253
+Tieni.
+
+139
+00:09:48,129 --> 00:09:49,130
+Aprilo.
+
+140
+00:09:50,423 --> 00:09:54,635
+Puoi mettere tre carte prestabilite
+in quel raccoglitore.
+
+141
+00:09:55,177 --> 00:09:59,348
+Queste tre carte possono essere portate
+nel mondo reale e usate.
+
+142
+00:09:59,932 --> 00:10:04,687
+Tuttavia, non puoi prendere
+più copie della stessa carta.
+
+143
+00:10:04,770 --> 00:10:11,235
+Puoi scegliere solo tre delle 100
+carte prestabilite nel tuo raccoglitore.
+
+144
+00:10:13,779 --> 00:10:14,655
+E ora,
+
+145
+00:10:14,739 --> 00:10:17,908
+sei arrivato alla fine del gioco.
+
+146
+00:10:18,492 --> 00:10:22,622
+Vuoi il finale normale
+o il finale fatto apposta per te?
+
+147
+00:10:22,705 --> 00:10:23,789
+Apposta per me?
+
+148
+00:10:23,873 --> 00:10:25,458
+Esatto.
+
+149
+00:10:25,541 --> 00:10:27,168
+Quale scegli?
+
+150
+00:10:28,919 --> 00:10:30,504
+Scelgo quello normale.
+
+151
+00:10:30,588 --> 00:10:32,798
+Interessante. Perché quello?
+
+152
+00:10:32,882 --> 00:10:35,885
+Perché non ho completato il gioco da solo.
+
+153
+00:10:35,968 --> 00:10:38,804
+Se scelgo il normale
+posso vederlo con gli amici?
+
+154
+00:10:39,805 --> 00:10:41,140
+Capisco.
+
+155
+00:10:41,223 --> 00:10:42,558
+- Dwun.
+- Sì?
+
+156
+00:10:43,309 --> 00:10:45,603
+Smettila di tormentarlo.
+
+157
+00:10:45,686 --> 00:10:49,565
+Mi dispiace.
+Non c'è un finale specifico per te.
+
+158
+00:10:49,649 --> 00:10:51,567
+Come? Davvero?
+
+159
+00:10:51,651 --> 00:10:53,903
+Ma c'è un messaggio che possiamo darti
+
+160
+00:10:53,986 --> 00:10:56,322
+ora che hai finito il gioco.
+
+161
+00:10:58,783 --> 00:11:01,994
+Scusa se non ci siamo presentati prima.
+
+162
+00:11:02,495 --> 00:11:03,371
+Sono List.
+
+163
+00:11:03,871 --> 00:11:04,997
+Lui è Dwun.
+
+164
+00:11:05,081 --> 00:11:07,416
+Beh, credo che tu lo sappia già,
+
+165
+00:11:07,500 --> 00:11:09,085
+siamo amici di tuo padre.
+
+166
+00:11:10,169 --> 00:11:14,090
+<i>Questo gioco è stato creato</i>
+<i>da tuo padre e da altri dieci.</i>
+
+167
+00:11:14,674 --> 00:11:20,680
+<i>Il nome "Greed Island" è composto</i>
+<i>dalla prima lettera dei nomi dei creatori.</i>
+
+168
+00:11:20,763 --> 00:11:21,597
+GREED ISLAND
+
+169
+00:11:21,681 --> 00:11:24,475
+<i>Dato che tuo padre era al comando,</i>
+
+170
+00:11:24,558 --> 00:11:27,019
+<i>volevamo una parola che iniziasse con "G"</i>
+
+171
+00:11:27,103 --> 00:11:28,813
+<i>e abbiamo scelto "Greed".</i>
+
+172
+00:11:29,397 --> 00:11:30,940
+<i>Hai conosciuto Razor?</i>
+
+173
+00:11:31,023 --> 00:11:33,401
+<i>Lui è "R" e io "L."</i>
+
+174
+00:11:34,110 --> 00:11:36,529
+<i>La ragazza che ha spiegato le regole</i>
+
+175
+00:11:36,612 --> 00:11:39,240
+<i>e la ragazza all'uscita dell'isola</i>
+<i>sono sorelle gemelle.</i>
+
+176
+00:11:39,323 --> 00:11:40,825
+<i>Si chiamano Eta ed Elena.</i>
+
+177
+00:11:40,908 --> 00:11:42,993
+<i>I loro nomi iniziano per "E."</i>
+
+178
+00:11:44,370 --> 00:11:46,831
+<i>La prossima è "D", giusto?</i>
+
+179
+00:11:47,331 --> 00:11:49,583
+Non vuoi saperlo? Certo che sì, vero?
+
+180
+00:11:49,667 --> 00:11:51,085
+Vero?
+
+181
+00:11:51,168 --> 00:11:52,837
+Certo…
+
+182
+00:11:53,462 --> 00:11:54,755
+Ok, ascolta bene.
+
+183
+00:11:55,589 --> 00:11:58,342
+Vedi, quel Ging
+
+184
+00:11:59,301 --> 00:12:01,887
+è davvero
+
+185
+00:12:01,971 --> 00:12:05,057
+un perfetto idiota!
+
+186
+00:12:07,184 --> 00:12:09,019
+Mi chiamo Dwun!
+
+187
+00:12:09,103 --> 00:12:10,855
+Qual è la prima lettera?
+
+188
+00:12:10,938 --> 00:12:13,107
+Eh? Non è "D"?
+
+189
+00:12:13,190 --> 00:12:15,985
+Lo pensi anche tu?
+
+190
+00:12:16,068 --> 00:12:17,737
+Beh, ha senso.
+
+191
+00:12:17,820 --> 00:12:19,947
+{\an8}Sei il figlio di Ging, dopotutto.
+
+192
+00:12:20,030 --> 00:12:22,032
+Perché la lettera successiva è "D…"
+
+193
+00:12:22,116 --> 00:12:23,868
+È W!
+
+194
+00:12:24,535 --> 00:12:28,164
+{\an8}W-D-W-U-N-E.
+
+195
+00:12:28,247 --> 00:12:29,373
+Wdwune!
+
+196
+00:12:29,457 --> 00:12:30,750
+È il mio nome!
+
+197
+00:12:30,833 --> 00:12:35,296
+A proposito, anche i miei amici
+pensavano che iniziasse con la "D"!
+
+198
+00:12:36,172 --> 00:12:39,550
+Per questo, quando stavamo
+decidendo il nome del gioco,
+
+199
+00:12:39,633 --> 00:12:42,136
+ho chiarito
+che il mio nome inizia per "W."
+
+200
+00:12:42,219 --> 00:12:44,764
+E che pensi abbia detto
+quell'idiota di Ging?
+
+201
+00:12:45,473 --> 00:12:47,767
+Capisco. Allora togli la "W".
+
+202
+00:12:48,392 --> 00:12:51,854
+D'ora in poi,
+il tuo nome si scriverà DWUN.
+
+203
+00:12:52,396 --> 00:12:53,689
+Dwun.
+
+204
+00:12:56,192 --> 00:12:57,651
+Riesci a crederci?
+
+205
+00:12:58,235 --> 00:13:00,821
+Ha cambiato il mio nome senza chiederlo!
+
+206
+00:13:00,905 --> 00:13:03,949
+Tutto per far funzionare
+il titolo del gioco!
+
+207
+00:13:04,033 --> 00:13:05,576
+La cosa sorprendente
+
+208
+00:13:05,659 --> 00:13:09,580
+è che Ging l'ha fatto cambiare legalmente
+solo un minuto dopo.
+
+209
+00:13:09,663 --> 00:13:11,916
+Gli bastarono telefono e computer.
+
+210
+00:13:12,625 --> 00:13:14,001
+Sai cos'è la cosa peggiore?
+
+211
+00:13:14,084 --> 00:13:15,920
+Non ha solo tolto la "W".
+
+212
+00:13:16,003 --> 00:13:17,922
+Ha tolto anche la "E"!
+
+213
+00:13:18,005 --> 00:13:21,258
+Ma la tua fortuna è migliorata
+grazie a questo.
+
+214
+00:13:21,759 --> 00:13:24,470
+Sì, immagino. Ma da allora…
+
+215
+00:13:59,588 --> 00:14:03,592
+Ogni tre carte raccolte
+dovevo andare la porto.
+
+216
+00:14:04,176 --> 00:14:06,720
+Hai sentito parlare molto
+di tuo padre, no?
+
+217
+00:14:06,804 --> 00:14:07,972
+Sì.
+
+218
+00:14:08,055 --> 00:14:11,141
+Ma hanno detto che non sanno dove sia ora.
+
+219
+00:14:11,225 --> 00:14:12,476
+Capisco.
+
+220
+00:14:12,560 --> 00:14:15,980
+Immagino che il gioco
+non dia alcun indizio.
+
+221
+00:14:16,772 --> 00:14:19,859
+Beh, quel messaggio c'era fin dall'inizio.
+
+222
+00:14:19,942 --> 00:14:21,443
+È vero.
+
+223
+00:14:21,944 --> 00:14:25,281
+Come sceglieremo le tre carte?
+
+224
+00:14:25,364 --> 00:14:27,741
+Perché non ne scegliamo una ciascuno?
+
+225
+00:14:28,409 --> 00:14:30,619
+Allora scelgo Pianeta blu!
+
+226
+00:14:31,245 --> 00:14:33,163
+Questa è quella che voglio!
+
+227
+00:14:33,914 --> 00:14:36,375
+Non vedo l'ora di vederlo dal vivo!
+
+228
+00:14:37,334 --> 00:14:38,878
+E tu, Killua?
+
+229
+00:14:39,378 --> 00:14:41,672
+Ci sto ancora pensando.
+
+230
+00:14:42,172 --> 00:14:43,424
+Gon, hai deciso?
+
+231
+00:14:43,507 --> 00:14:45,384
+Sì, diciamo di sì.
+
+232
+00:14:45,467 --> 00:14:46,886
+Davvero? Quale?
+
+233
+00:14:47,386 --> 00:14:48,637
+Beh…
+
+234
+00:14:49,597 --> 00:14:51,223
+- Questa.
+- Quale?
+
+235
+00:14:52,725 --> 00:14:55,060
+Aspetta, perché hai scelto quella?
+
+236
+00:14:55,603 --> 00:14:56,604
+Capisco!
+
+237
+00:14:57,104 --> 00:14:58,272
+Ho capito.
+
+238
+00:14:58,355 --> 00:15:00,900
+Puoi prendere solo carte prestabilite.
+
+239
+00:15:01,650 --> 00:15:03,277
+Sì. Molto interessante.
+
+240
+00:15:04,028 --> 00:15:05,654
+Quando l'hai deciso?
+
+241
+00:15:07,239 --> 00:15:08,782
+Appena l'ho vista.
+
+242
+00:15:09,617 --> 00:15:12,077
+<i>Ma solo questa non basterà.</i>
+
+243
+00:15:12,161 --> 00:15:13,996
+<i>Sì. Ci serve anche questa.</i>
+
+244
+00:15:14,079 --> 00:15:15,372
+Come?
+
+245
+00:15:15,456 --> 00:15:17,291
+Pensi che funzionerà?
+
+246
+00:15:17,374 --> 00:15:20,794
+Sì. Se vuoi usarla, è l'unico modo.
+
+247
+00:15:20,878 --> 00:15:23,672
+Ehi! Di che parlate?
+
+248
+00:15:24,298 --> 00:15:26,634
+A te sta bene Pianeta blu, Bisky?
+
+249
+00:15:27,259 --> 00:15:30,220
+Spiegatemi cosa sta succedendo!
+
+250
+00:15:39,521 --> 00:15:42,149
+<i>Congratulazioni</i>
+<i>per aver completato il gioco.</i>
+
+251
+00:15:42,900 --> 00:15:48,155
+<i>Scegliete tre carte prestabilite</i>
+<i>dal vostro raccoglitore.</i>
+
+252
+00:15:50,783 --> 00:15:54,453
+<i>Avete scelto la N°002</i>
+<i>Striscia di costa.</i>
+
+253
+00:15:54,954 --> 00:15:57,039
+<i>N°081, Pianeta blu.</i>
+
+254
+00:15:57,581 --> 00:16:00,000
+<i>e N°084, Collana del crociato.</i>
+
+255
+00:16:00,501 --> 00:16:03,504
+<i>È questa la vostra decisione finale?</i>
+
+256
+00:16:03,587 --> 00:16:04,463
+Sì.
+
+257
+00:16:05,506 --> 00:16:07,424
+Allora ecco il tuo anello.
+
+258
+00:16:08,008 --> 00:16:09,426
+Bravo.
+
+259
+00:16:11,804 --> 00:16:15,307
+Grazie, Elena!
+
+260
+00:16:16,892 --> 00:16:18,102
+Ti sei ricordato?
+
+261
+00:16:18,602 --> 00:16:19,561
+Grazie.
+
+262
+00:16:21,271 --> 00:16:22,648
+Addio.
+
+263
+00:16:32,408 --> 00:16:34,118
+- Bentornati.
+- Grazie.
+
+264
+00:16:35,494 --> 00:16:38,706
+Siamo davvero tornati nel mondo reale?
+
+265
+00:16:39,289 --> 00:16:40,666
+Non vedo la differenza.
+
+266
+00:16:40,749 --> 00:16:43,544
+Tecnicamente non abbiamo mai lasciato
+il mondo reale.
+
+267
+00:16:43,627 --> 00:16:45,295
+Ehi, sbrigati!
+
+268
+00:16:45,379 --> 00:16:46,880
+Fuori il raccoglitore!
+
+269
+00:16:46,964 --> 00:16:47,965
+Libro!
+
+270
+00:16:53,637 --> 00:16:54,555
+Trasformazione!
+
+271
+00:16:59,560 --> 00:17:01,770
+Ci siamo! È quello che volevo!
+
+272
+00:17:02,354 --> 00:17:05,232
+Pianeta Blu!
+L'ho sognato per così tanto tempo!
+
+273
+00:17:08,068 --> 00:17:09,945
+Sono felicissima!
+
+274
+00:17:10,029 --> 00:17:12,406
+Come dovrei chiamarti? Pianetino?
+
+275
+00:17:12,489 --> 00:17:13,866
+Oppure "Bluetto"?
+
+276
+00:17:13,949 --> 00:17:17,327
+"Pianetino"? Mi piace!
+Ti chiamerò Pianetino!
+
+277
+00:17:20,706 --> 00:17:24,835
+Siete contenti
+delle carte che avete scelto?
+
+278
+00:17:24,918 --> 00:17:27,212
+Sì. Sono le migliori. Giusto?
+
+279
+00:17:27,296 --> 00:17:28,130
+Sì.
+
+280
+00:17:29,089 --> 00:17:30,632
+Allora ce ne andiamo?
+
+281
+00:17:30,716 --> 00:17:31,633
+Sì.
+
+282
+00:17:32,217 --> 00:17:33,135
+Trasformazione!
+
+283
+00:17:37,639 --> 00:17:39,141
+Lascia fare a me, Killua.
+
+284
+00:17:45,814 --> 00:17:48,650
+ACCOMPAGNAMENTO
+
+285
+00:17:49,318 --> 00:17:51,403
+Sì, ha funzionato!
+
+286
+00:17:51,487 --> 00:17:52,446
+Ok!
+
+287
+00:17:52,529 --> 00:17:54,073
+Ho capito.
+
+288
+00:17:54,656 --> 00:17:58,660
+Hai usato Trasformazione per fare
+di Accompagnamento una prestabilita
+
+289
+00:17:58,744 --> 00:18:01,955
+e poi hai usato Collana del crociato
+per riconvertirla.
+
+290
+00:18:02,456 --> 00:18:04,291
+Che idea intelligente.
+
+291
+00:18:05,250 --> 00:18:08,504
+Ma mi sorprende
+che abbiate fatto tutto
+
+292
+00:18:08,587 --> 00:18:12,508
+per scegliere Accompagnamento
+rispetto a una prestabilita.
+
+293
+00:18:12,591 --> 00:18:13,425
+Sì.
+
+294
+00:18:14,093 --> 00:18:17,096
+Ma quando ho iniziato a giocare,
+
+295
+00:18:17,179 --> 00:18:21,141
+se non fossi stato il primo,
+forse non mi sarebbe venuta l'idea.
+
+296
+00:18:22,643 --> 00:18:24,812
+Ricordi quando giocavamo a morra?
+
+297
+00:18:24,895 --> 00:18:26,271
+Morra cinese?
+
+298
+00:18:26,355 --> 00:18:27,189
+Sì.
+
+299
+00:18:29,024 --> 00:18:30,943
+<i>Sono entrato per primo</i>
+
+300
+00:18:31,819 --> 00:18:34,363
+<i>e ho aspettato Killua</i>
+<i>al punto di partenza.</i>
+
+301
+00:18:34,446 --> 00:18:36,323
+<i>Non c'era nessuno intorno a me,</i>
+
+302
+00:18:36,865 --> 00:18:39,827
+<i>quindi la prima persona</i>
+<i>che avrei dovuto incontrare</i>
+
+303
+00:18:39,910 --> 00:18:42,788
+<i>era Goreinu, la seconda persona a entrare.</i>
+
+304
+00:18:43,413 --> 00:18:46,333
+<i>Ma quando ho controllato</i>
+<i>il mio raccoglitore,</i>
+
+305
+00:18:46,416 --> 00:18:50,003
+<i>pareva che avessi incontrato</i>
+<i>qualcuno prima di Goreinu.</i>
+
+306
+00:18:50,087 --> 00:18:51,171
+NIGG
+
+307
+00:18:51,255 --> 00:18:52,381
+GING
+
+308
+00:18:52,464 --> 00:18:56,301
+<i>Il nome di Ging è scritto "G-I-N-G."</i>
+
+309
+00:18:56,969 --> 00:19:00,597
+<i>Capisco! Quindi "Nigg" era</i>
+<i>un anagramma per il suo nome!</i>
+
+310
+00:19:03,100 --> 00:19:07,980
+<i>Probabilmente già sono venuto qui</i>
+<i>con Ging da piccolo.</i>
+
+311
+00:19:10,649 --> 00:19:13,610
+<i>Sento che Ging voleva dirmi qualcosa.</i>
+
+312
+00:19:14,820 --> 00:19:17,948
+<i>"Se sei disposto</i>
+<i>a rinunciare a tutto per incontrarmi,</i>
+
+313
+00:19:18,031 --> 00:19:20,993
+<i>diventa abbastanza forte</i>
+<i>da completare il gioco."</i>
+
+314
+00:19:21,076 --> 00:19:22,119
+<i>O una cosa così.</i>
+
+315
+00:19:28,709 --> 00:19:31,628
+La tua tenacia è davvero notevole.
+
+316
+00:19:32,254 --> 00:19:35,132
+Cosa farai quando incontrerai Ging?
+
+317
+00:19:35,716 --> 00:19:38,177
+Lo presenterò a Killua, ovviamente!
+
+318
+00:19:38,719 --> 00:19:41,471
+E gli dirò che è il mio migliore amico!
+
+319
+00:19:43,015 --> 00:19:44,641
+Idiota! Smettila!
+
+320
+00:19:45,142 --> 00:19:46,268
+È imbarazzante.
+
+321
+00:19:47,519 --> 00:19:50,022
+Sul serio.
+
+322
+00:19:50,647 --> 00:19:52,441
+Smettila…
+
+323
+00:19:59,907 --> 00:20:01,158
+Non ce la faccio.
+
+324
+00:20:01,783 --> 00:20:05,078
+Deve essere la mia età. Piango facilmente!
+
+325
+00:20:06,705 --> 00:20:10,083
+Ehi, Bisky, vuoi incontrare Ging con noi?
+
+326
+00:20:12,377 --> 00:20:14,922
+No, passo.
+
+327
+00:20:15,839 --> 00:20:18,133
+Non mi interessano uomini con figli.
+
+328
+00:20:20,469 --> 00:20:21,511
+Capisco.
+
+329
+00:20:24,348 --> 00:20:28,644
+<i>Se rimango con loro,</i>
+<i>potrei sentirmi come un genitore.</i>
+
+330
+00:20:31,271 --> 00:20:33,690
+Allora ,Bisky,,abbi cura di te.
+
+331
+00:20:33,774 --> 00:20:36,109
+Anche voi.
+
+332
+00:20:39,112 --> 00:20:40,614
+Grazie infinite!
+
+333
+00:20:41,114 --> 00:20:41,949
+Osu!
+
+334
+00:20:53,168 --> 00:20:54,461
+Accompagnamento!
+
+335
+00:20:55,170 --> 00:20:56,213
+Nigg!
+
+336
+00:21:10,310 --> 00:21:11,228
+A presto.
+
+337
+00:21:33,208 --> 00:21:37,838
+<i>Gon ha completato il gioco di suo padre</i>
+<i>ed è più forte che mai.</i>
+
+338
+00:21:38,505 --> 00:21:43,302
+<i>Ma c'è davvero Ging ad attenderlo?</i>
+
+339
+00:22:58,627 --> 00:23:02,005
+<i>Ecco il tutorial di Greed Island!</i>
+
+340
+00:23:02,756 --> 00:23:04,758
+Oggi abbiamo completato Greed Island, no?
+
+341
+00:23:05,425 --> 00:23:07,886
+E abbiamo presentato un sacco di carte!
+
+342
+00:23:07,969 --> 00:23:09,971
+Io le ho presentate!
+
+343
+00:23:10,055 --> 00:23:10,889
+Tu giochi e…
+
+344
+00:23:13,809 --> 00:23:15,727
+<i>- Game over!</i>
+<i>- Game over!</i>
+
+345
+00:23:21,983 --> 00:23:24,653
+<i>Prossimamente, "Incontro e intesa!"</i>
+
+346
+00:23:24,736 --> 00:23:26,238
+<i>- Ehi, Killua!</i>
+<i>- Sì?</i>
+
+347
+00:23:26,321 --> 00:23:29,157
+<i>Incontro e intesa.</i>
+
+348
+00:23:29,241 --> 00:23:30,867
+Sottotitoli: Paolo Manieri

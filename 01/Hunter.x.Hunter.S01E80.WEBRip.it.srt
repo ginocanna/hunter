@@ -1,0 +1,1117 @@
+1
+00:00:06,923 --> 00:00:08,466
+Che facciamo, Zaikahal?
+
+2
+00:00:16,599 --> 00:00:20,353
+SCRITTO DA YOSHIHIRO TOGASHI
+
+3
+00:01:34,844 --> 00:01:39,349
+{\an8}MALVAGIO E TERRIBILE
+
+4
+00:01:44,687 --> 00:01:46,606
+<i>Il suo nome è Gyro.</i>
+
+5
+00:01:46,689 --> 00:01:49,359
+<i>Ed è il capo di NGL nell'ombra.</i>
+
+6
+00:01:52,904 --> 00:01:56,491
+<i>Gyro ha passato i primi 12 anni</i>
+
+7
+00:01:56,574 --> 00:01:58,618
+<i>in un campo edile.</i>
+
+8
+00:01:59,369 --> 00:02:01,121
+<i>Quando disse la prima parola,</i>
+
+9
+00:02:01,204 --> 00:02:04,624
+<i>aveva imparato a posare i mattoni</i>
+
+10
+00:02:04,707 --> 00:02:06,668
+<i>e a impastare il cemento.</i>
+
+11
+00:02:06,751 --> 00:02:10,588
+<i>Suo padre lo costrinse a sgobbare</i>
+
+12
+00:02:10,672 --> 00:02:13,675
+<i>finché Gyro non lo uccise e fuggì.</i>
+
+13
+00:02:17,303 --> 00:02:21,599
+<i>Suo padre, che ha cresciuto Gyro da solo,</i>
+<i>era un uomo tranquillo.</i>
+
+14
+00:02:23,726 --> 00:02:26,020
+<i>Quando suo padre tornava dal lavoro,</i>
+
+15
+00:02:26,104 --> 00:02:28,857
+<i>beveva alcolici solo</i>
+<i>finché non andava a letto.</i>
+
+16
+00:02:28,940 --> 00:02:31,901
+<i>Parlava di rado con Gyro</i>
+
+17
+00:02:31,985 --> 00:02:35,155
+<i>che era nella letto superiore.</i>
+
+18
+00:02:36,531 --> 00:02:38,449
+<i>Gyro sapeva parlare a malapena</i>
+
+19
+00:02:38,533 --> 00:02:42,412
+<i>prima dei sette anni.</i>
+
+20
+00:02:44,622 --> 00:02:47,292
+<i>Quando Gyro tornava dal lavoro,</i>
+
+21
+00:02:47,375 --> 00:02:49,794
+<i>non gli era permesso di alzarsi dal letto</i>
+
+22
+00:02:49,878 --> 00:02:53,214
+<i>se non per andare in bagno.</i>
+
+23
+00:02:53,715 --> 00:02:55,800
+<i>Poteva andarci due volte al giorno</i>
+
+24
+00:02:56,551 --> 00:02:59,596
+<i>e solo prima delle 21:00.</i>
+
+25
+00:03:00,388 --> 00:03:02,807
+<i>Il legno marcio del letto scricchiolava</i>
+
+26
+00:03:02,891 --> 00:03:06,060
+<i>ogni volta che si girava nel sonno.</i>
+
+27
+00:03:06,144 --> 00:03:08,646
+<i>Suo padre odiava quel suono.</i>
+
+28
+00:03:11,399 --> 00:03:14,611
+<i>Dopo che suo padre lo picchiò duramente</i>
+
+29
+00:03:14,694 --> 00:03:17,238
+<i>a causa di quel rumore,</i>
+
+30
+00:03:17,322 --> 00:03:21,326
+<i>Gyro ha imparato a dormire senza muoversi.</i>
+
+31
+00:03:22,785 --> 00:03:27,957
+<i>Ha anche imparato a controllare</i>
+<i>la vescica di notte</i>
+
+32
+00:03:28,041 --> 00:03:32,295
+<i>e a tenere una bottiglia di liquore vuota</i>
+<i>quando non ce la faceva più.</i>
+
+33
+00:03:34,130 --> 00:03:37,217
+<i>"Non creare problemi agli altri."</i>
+
+34
+00:03:37,926 --> 00:03:43,806
+<i>Era l'unica lezione</i>
+<i>che gli aveva insegnato suo padre.</i>
+
+35
+00:03:45,141 --> 00:03:49,520
+<i>Fin da piccolo, Gyro</i>
+<i>ha fatto del suo meglio per attenervisi</i>
+
+36
+00:03:49,604 --> 00:03:52,607
+<i>imparando dai suoi errori.</i>
+
+37
+00:03:53,691 --> 00:03:57,779
+<i>Dato che suo padre</i>
+<i>non gli aveva mai comprato un giocattolo</i>
+
+38
+00:03:57,862 --> 00:04:02,325
+<i>questa lezione era il suo unico regalo.</i>
+
+39
+00:04:03,493 --> 00:04:06,412
+<i>Nel suo piccolo mondo,</i>
+
+40
+00:04:06,496 --> 00:04:09,540
+<i>suo padre era come un Dio per lui.</i>
+
+41
+00:04:09,624 --> 00:04:13,795
+<i>E per quanto suo padre</i>
+<i>potesse essere crudele,</i>
+
+42
+00:04:13,878 --> 00:04:16,589
+<i>Gyro continuò a idolatrarlo</i>
+
+43
+00:04:16,673 --> 00:04:20,969
+<i>e a credere</i>
+<i>che suo padre avesse bisogno di lui.</i>
+
+44
+00:04:21,052 --> 00:04:23,596
+<i>Questa convinzione derivava da due fatti.</i>
+
+45
+00:04:24,389 --> 00:04:30,019
+<i>Quando Gyro aveva cinque anni,</i>
+<i>una grave febbre di poco non lo uccise.</i>
+
+46
+00:04:30,103 --> 00:04:34,899
+<i>Suo padre rimase sveglio tutta la notte</i>
+<i>portandogli sempre asciugamani puliti.</i>
+
+47
+00:04:37,277 --> 00:04:38,820
+<i>E l'altro motivo era</i>
+
+48
+00:04:39,862 --> 00:04:45,827
+<i>che suo padre</i>
+<i>non gli aveva mai ordinato di andarsene.</i>
+
+49
+00:04:46,786 --> 00:04:50,790
+<i>Gyro era fiero di questi due fatti.</i>
+
+50
+00:04:51,916 --> 00:04:53,584
+Che idiota.
+
+51
+00:04:53,668 --> 00:04:58,047
+Non ti ha cacciato
+perché hai portato dei soldi!
+
+52
+00:04:59,299 --> 00:05:00,550
+<i>Anche se pensava</i>
+
+53
+00:05:01,301 --> 00:05:04,387
+<i>a quella possibilità,</i>
+
+54
+00:05:04,470 --> 00:05:09,892
+<i>Gyro impazzì quando il giovane</i>
+<i>più grande lo portò alla luce.</i>
+
+55
+00:05:10,727 --> 00:05:15,106
+<i>Pur pentendosi</i>
+<i>di aver rivelato il suo segreto,</i>
+
+56
+00:05:15,189 --> 00:05:17,275
+<i>Gyro era furioso con sé stesso.</i>
+
+57
+00:05:17,358 --> 00:05:19,694
+<i>Il suo orgoglio era stato ferito,</i>
+
+58
+00:05:19,777 --> 00:05:22,905
+<i>era sopraffatto dalla rabbia</i>
+<i>e attaccò i giovani.</i>
+
+59
+00:05:24,365 --> 00:05:27,910
+<i>Il giovane aveva sempre preso in giro</i>
+<i>il ragazzo timido,</i>
+
+60
+00:05:27,994 --> 00:05:31,622
+<i>così quando si ribellò</i>
+<i>era pieno di rabbia</i>
+
+61
+00:05:31,706 --> 00:05:36,336
+<i>al punto che neanche metterlo al tappeto</i>
+<i>lo avrebbe soddisfatto.</i>
+
+62
+00:05:37,462 --> 00:05:40,340
+<i>Lo colpì in faccia,</i>
+
+63
+00:05:40,423 --> 00:05:44,344
+<i>gli sputò addosso e gli diede</i>
+<i>il colpo di grazia…</i>
+
+64
+00:05:44,427 --> 00:05:49,891
+Quando stavi male,
+un vicino si è preso cura di te!
+
+65
+00:05:49,974 --> 00:05:54,103
+Tuo padre beveva da solo,
+come sempre.
+
+66
+00:05:56,189 --> 00:05:59,984
+Stavi delirando, quindi non lo sapevi.
+
+67
+00:06:00,068 --> 00:06:03,863
+Ma quella notte,
+il vicino ha litigato con tuo padre.
+
+68
+00:06:04,655 --> 00:06:08,701
+Gli chiese cosa avrebbe fatto
+se suo figlio fosse morto.
+
+69
+00:06:08,785 --> 00:06:13,247
+Lascia che ti dica cos'ha risposto.
+
+70
+00:06:13,956 --> 00:06:15,208
+Non importa.
+
+71
+00:06:15,291 --> 00:06:17,835
+Non m'importa se muore.
+
+72
+00:06:17,919 --> 00:06:19,796
+Hai sentito?
+
+73
+00:06:21,381 --> 00:06:23,758
+<i>Mentre Gyro ascoltava il giovane,</i>
+
+74
+00:06:24,425 --> 00:06:26,844
+<i>vide qualcosa di inconcepibile.</i>
+
+75
+00:06:36,479 --> 00:06:39,941
+<i>Suo padre lo guardò negli occhi,</i>
+
+76
+00:06:40,024 --> 00:06:43,861
+<i>non gli prestò attenzione e se ne andò.</i>
+
+77
+00:06:45,822 --> 00:06:49,409
+<i>Fu allora che Gyro capì.</i>
+
+78
+00:06:52,036 --> 00:06:55,331
+<i>All'universo non frega niente di me.</i>
+
+79
+00:06:56,707 --> 00:07:01,921
+<i>A mio padre non importa se vivo o muoio.</i>
+
+80
+00:07:02,004 --> 00:07:04,924
+<i>In altre parole, la mia vita non ha senso.</i>
+
+81
+00:07:06,884 --> 00:07:09,303
+<i>Se vivo, porto i soldi.</i>
+
+82
+00:07:09,387 --> 00:07:12,515
+<i>Se muoio, libererò un po' di spazio.</i>
+
+83
+00:07:12,598 --> 00:07:13,850
+<i>Tutto qui.</i>
+
+84
+00:07:14,517 --> 00:07:20,815
+<i>Mio padre mi ha detto</i>
+<i>di non creare problemi agli altri</i>
+
+85
+00:07:20,898 --> 00:07:24,861
+<i>altri per evitare inconvenienti</i>
+<i>a sé stesso.</i>
+
+86
+00:07:24,944 --> 00:07:29,031
+<i>Non è mai stata una lezione</i>
+<i>per aiutare suo figlio.</i>
+
+87
+00:07:29,115 --> 00:07:32,368
+<i>Era per il suo bene.</i>
+
+88
+00:07:33,286 --> 00:07:36,456
+<i>In quella lezione,</i>
+<i>altri" significava mio padre.</i>
+
+89
+00:07:36,539 --> 00:07:41,461
+<i>No. Significava "umani".</i>
+
+90
+00:07:45,923 --> 00:07:48,342
+<i>Non creare problemi agli umani.</i>
+
+91
+00:07:50,553 --> 00:07:53,222
+<i>Sicuramente non sono umano.</i>
+
+92
+00:07:55,975 --> 00:07:58,728
+<i>Alla fine, il ragazzo si alzò</i>
+
+93
+00:07:58,811 --> 00:08:02,273
+<i>e afferrò un martello nei paraggi.</i>
+
+94
+00:08:10,323 --> 00:08:14,327
+<i>Nove anni dopo, Gyro fondò NGL.</i>
+
+95
+00:08:14,410 --> 00:08:15,912
+<i>Nove anni dopo,</i>
+
+96
+00:08:15,995 --> 00:08:20,082
+<i>NGL divenne una nazione con lui come re.</i>
+
+97
+00:08:21,876 --> 00:08:26,547
+<i>Gyro voleva rovinare</i>
+<i>la vita del mondo intero.</i>
+
+98
+00:08:26,631 --> 00:08:33,095
+<i>La droga D² era solo il primo passo.</i>
+
+99
+00:08:45,775 --> 00:08:46,943
+Yunju!
+
+100
+00:08:47,568 --> 00:08:51,489
+Hai consegnato quegli umani
+a Colt così facilmente.
+
+101
+00:08:52,949 --> 00:08:54,700
+Non avevo voglia di litigare.
+
+102
+00:08:54,784 --> 00:08:57,411
+In ogni caso,
+il cibo arriverà alla Regina.
+
+103
+00:08:58,162 --> 00:09:00,456
+Voglio solo godermi la caccia.
+
+104
+00:09:03,334 --> 00:09:08,631
+<i>Gyro. Maledetto, avrei dovuto mangiarlo!</i>
+
+105
+00:09:10,091 --> 00:09:13,511
+Ascoltami! Prenderò il controllo
+di questa fabbrica!
+
+106
+00:09:14,136 --> 00:09:16,722
+Da oggi, questa è la mia fortezza!
+
+107
+00:09:34,323 --> 00:09:36,576
+È fantastico!
+
+108
+00:09:53,217 --> 00:09:57,179
+<i>Si mette male.</i>
+<i>Queste creature sono troppo pericolose!</i>
+
+109
+00:09:57,263 --> 00:09:58,264
+Guardate!
+
+110
+00:10:07,565 --> 00:10:09,066
+Cosa...
+
+111
+00:10:11,944 --> 00:10:16,324
+succede in questo posto?
+
+112
+00:10:28,127 --> 00:10:30,463
+Cosa? Trovati altri soldati morti?
+
+113
+00:10:30,546 --> 00:10:33,716
+Sì, sono stati scoperti
+tre soldati di Zazan.
+
+114
+00:10:34,342 --> 00:10:37,178
+E poi, uno dei miei è scomparso.
+
+115
+00:10:37,261 --> 00:10:40,931
+La comunicazione è stata interrotta
+e non è tornata.
+
+116
+00:10:41,015 --> 00:10:44,560
+La squadra di Yunju si è occupata
+degli umani con le armi.
+
+117
+00:10:45,061 --> 00:10:49,106
+Significa che ci sono altri umani
+che ci stanno resistendo?
+
+118
+00:10:49,857 --> 00:10:51,859
+Così pare.
+
+119
+00:10:51,942 --> 00:10:56,822
+Ma i soldati morti sono stati uccisi
+da qualcosa che non era una pistola.
+
+120
+00:10:57,365 --> 00:11:00,785
+Qualcosa? Che cosa?
+
+121
+00:11:01,327 --> 00:11:02,620
+E che ne so?
+
+122
+00:11:03,120 --> 00:11:05,665
+Forse una nuova arma
+che non abbiamo visto.
+
+123
+00:11:08,918 --> 00:11:10,544
+Dove sono i cadaveri?
+
+124
+00:11:10,628 --> 00:11:12,672
+Peggy li sta esaminando.
+
+125
+00:11:13,297 --> 00:11:15,800
+Questo è stato ucciso da una pistola.
+
+126
+00:11:15,883 --> 00:11:19,387
+Ne sono sicuro, i proiettili
+sono ancora dentro il corpo.
+
+127
+00:11:19,929 --> 00:11:22,056
+Ma non sono sicuro degli altri.
+
+128
+00:11:22,682 --> 00:11:25,142
+Il cranio è stato perforato.
+
+129
+00:11:25,226 --> 00:11:27,853
+Sì, ma non con una pistola.
+
+130
+00:11:28,396 --> 00:11:33,150
+E ho avuto difficoltà a capire
+la spiegazione dei soldati.
+
+131
+00:11:33,943 --> 00:11:37,822
+Le comunicazioni dei soldati
+sono semplici e dirette.
+
+132
+00:11:37,905 --> 00:11:42,743
+Dicono che un umano abbia imitato lo sparo
+e non sia uscito nessun proiettile,
+
+133
+00:11:42,827 --> 00:11:46,330
+ma qualcosa ha perforato il cranio
+del soldato e sono morti.
+
+134
+00:11:46,414 --> 00:11:50,626
+Alcuni soldati non possono vedere
+e sentire cosa sta succedendo?
+
+135
+00:11:51,168 --> 00:11:52,128
+Esatto.
+
+136
+00:11:52,837 --> 00:11:57,550
+Quei soldati hanno detto
+di aver sentito un proiettile sparato.
+
+137
+00:12:00,010 --> 00:12:02,888
+Possiedono abilità che noi non abbiamo.
+
+138
+00:12:02,972 --> 00:12:06,475
+Gli umani potrebbero essere
+avversari più duri del previsto.
+
+139
+00:12:06,976 --> 00:12:09,061
+Se gli umani hanno questo potere,
+
+140
+00:12:09,145 --> 00:12:12,231
+una volta ereditati i loro geni
+lo avremo anche noi.
+
+141
+00:12:12,314 --> 00:12:14,150
+Ci manca solo il tratto.
+
+142
+00:12:14,650 --> 00:12:16,610
+Non capisci.
+
+143
+00:12:17,445 --> 00:12:20,740
+La forza degli umani
+sta nella loro capacità di imparare.
+
+144
+00:12:20,823 --> 00:12:23,909
+Se scoprono che la Regina
+è dove siamo vulnerabili,
+
+145
+00:12:23,993 --> 00:12:28,122
+faranno di tutto per ucciderla.
+
+146
+00:12:29,415 --> 00:12:31,751
+Sei tu che non capisci!
+
+147
+00:12:32,585 --> 00:12:37,465
+Significa che dobbiamo fare tutto
+il possibile per tenerla al sicuro.
+
+148
+00:12:38,215 --> 00:12:39,258
+Mi sbaglio?
+
+149
+00:12:41,927 --> 00:12:44,263
+No, hai ragione.
+
+150
+00:12:46,265 --> 00:12:49,518
+<i>Esatto. La proteggerò.</i>
+
+151
+00:12:51,353 --> 00:12:54,023
+- Proteggerò Reina!
+- Reina?
+
+152
+00:12:56,692 --> 00:12:58,194
+Chi è Reina?
+
+153
+00:12:58,277 --> 00:13:00,946
+Cosa? Sei tu che hai detto quel nome!
+
+154
+00:13:01,030 --> 00:13:03,616
+Davvero? Non ho detto niente.
+
+155
+00:13:04,200 --> 00:13:05,618
+Te lo sarai immaginato.
+
+156
+00:13:06,827 --> 00:13:12,291
+Ad ogni modo, il problema
+è che gli umani possiedono più armi
+
+157
+00:13:12,374 --> 00:13:14,794
+in grado di sconfiggere i nostri soldati.
+
+158
+00:13:16,420 --> 00:13:17,546
+Cosa dovremmo fare?
+
+159
+00:13:17,630 --> 00:13:19,882
+Usare le loro armi contro di loro.
+
+160
+00:13:20,716 --> 00:13:24,553
+Li ripagherò con la stessa moneta.
+
+161
+00:13:24,637 --> 00:13:28,557
+Solo soldati del nostro rango
+sanno manipolare armi complesse.
+
+162
+00:13:28,641 --> 00:13:32,019
+Ma gli umani non lo sanno.
+
+163
+00:13:32,853 --> 00:13:36,565
+- Devono essere molto spaventati.
+- Capisco.
+
+164
+00:13:38,901 --> 00:13:42,738
+Sei uno stratega migliore di me.
+
+165
+00:13:47,660 --> 00:13:48,953
+Reina?
+
+166
+00:13:56,752 --> 00:14:00,047
+Non ha funzionato.
+Nessuno ha ricevuto il messaggio.
+
+167
+00:14:00,130 --> 00:14:04,635
+Quindi tutti gli altri Hunter con cui ero
+in contatto sono stati eliminati.
+
+168
+00:14:04,718 --> 00:14:06,095
+Capisco.
+
+169
+00:14:07,179 --> 00:14:08,222
+Andiamocene.
+
+170
+00:14:09,473 --> 00:14:12,476
+Quelle creature
+sono troppo difficili da affrontare.
+
+171
+00:14:13,352 --> 00:14:16,939
+Dobbiamo andarcene e dire
+al mondo cosa sta succedendo.
+
+172
+00:14:17,565 --> 00:14:19,275
+Così formeranno un esercito.
+
+173
+00:14:19,775 --> 00:14:23,153
+Qualunque cosa. Scappiamo!
+
+174
+00:14:23,654 --> 00:14:25,948
+O saremo tutti…
+
+175
+00:14:40,880 --> 00:14:42,798
+È qui!
+
+176
+00:14:51,891 --> 00:14:53,642
+Scappa!
+
+177
+00:14:53,726 --> 00:14:55,436
+Ne arriveranno altri!
+
+178
+00:14:55,978 --> 00:15:01,233
+Un attimo.
+Ho detto di catturare vivi gli umani.
+
+179
+00:15:01,817 --> 00:15:04,904
+Dobbiamo consegnarli freschi
+alla Regina.
+
+180
+00:15:05,696 --> 00:15:08,616
+- Un volto umano.
+- Cos'è quella cosa?
+
+181
+00:15:08,699 --> 00:15:10,784
+Aprite il fuoco!
+
+182
+00:15:11,452 --> 00:15:13,746
+{\an8}FRECCIA ARANCIONE
+
+183
+00:15:18,334 --> 00:15:20,753
+<i>Ha afferrato la freccia con facilità,</i>
+
+184
+00:15:20,836 --> 00:15:23,589
+<i>la più veloce delle mie Frecce Arcobaleno.</i>
+
+185
+00:15:25,090 --> 00:15:28,552
+Cosa? Era chiaramente visibile.
+
+186
+00:15:28,636 --> 00:15:32,765
+Le reclute non l'hanno visto?
+
+187
+00:15:33,682 --> 00:15:35,684
+Quindi l'energia vitale
+
+188
+00:15:35,768 --> 00:15:41,023
+che circonda il tuo corpo
+è ciò che alimenta quest'arma?
+
+189
+00:15:41,774 --> 00:15:46,528
+Sarai un pasto magnifico per la Regina.
+
+190
+00:15:57,790 --> 00:16:00,084
+Balda!
+
+191
+00:16:10,302 --> 00:16:13,347
+Oh, no!
+
+192
+00:16:13,430 --> 00:16:17,351
+Ho morso senza pensarci.
+
+193
+00:16:18,602 --> 00:16:22,147
+Zazan si arrabbierà di nuovo!
+
+194
+00:16:22,773 --> 00:16:24,233
+Bastardo.
+
+195
+00:16:28,195 --> 00:16:30,781
+Un momento.
+
+196
+00:16:30,864 --> 00:16:33,033
+Ho le mani occupate.
+
+197
+00:16:37,830 --> 00:16:39,456
+Prendi questo!
+
+198
+00:16:46,922 --> 00:16:50,134
+Come sempre,
+sei una vergogna in battaglia.
+
+199
+00:16:50,217 --> 00:16:51,844
+Zazan.
+
+200
+00:16:51,927 --> 00:16:54,513
+Perché non lasci cadere
+ciò che hai in mano?
+
+201
+00:16:55,973 --> 00:16:57,307
+Hai ragione.
+
+202
+00:16:58,017 --> 00:16:59,852
+- Torniamo indietro.
+- Come?
+
+203
+00:17:00,394 --> 00:17:03,188
+Dato che abbiamo del cibo eccellente.
+
+204
+00:17:03,731 --> 00:17:05,858
+Probabilmente ha il valore nutritivo
+
+205
+00:17:05,941 --> 00:17:08,819
+di mille esseri umani normali.
+
+206
+00:17:10,446 --> 00:17:12,865
+Ben fatto, Pike.
+
+207
+00:17:18,203 --> 00:17:19,204
+Zazan!
+
+208
+00:17:19,288 --> 00:17:21,248
+Sono molto grato per la tua lode.
+
+209
+00:17:21,331 --> 00:17:23,792
+Tu mi onori!
+
+210
+00:17:23,876 --> 00:17:27,463
+- Non dimenticare il cibo.
+- Giusto.
+
+211
+00:17:32,051 --> 00:17:35,304
+<i>Non posso salvarlo da sola.</i>
+<i>Devo chiamare aiuto!</i>
+
+212
+00:17:39,516 --> 00:17:41,560
+<i>C'è ancora tempo!</i>
+
+213
+00:17:42,144 --> 00:17:45,814
+<i>Anche se lo prendono,</i>
+<i>non lo mangiano subito.</i>
+
+214
+00:17:56,700 --> 00:17:58,035
+<i>Per favore…</i>
+
+215
+00:17:58,118 --> 00:18:01,580
+<i>Trovate un Hunter con un’aura forte!</i>
+
+216
+00:18:08,253 --> 00:18:10,339
+<i>Devo tornare in fretta al confine!</i>
+
+217
+00:18:11,131 --> 00:18:13,342
+<i>Dovrebbero esserci altri Hunter...</i>
+
+218
+00:18:40,953 --> 00:18:43,372
+Che divertimento...
+
+219
+00:18:49,211 --> 00:18:54,216
+Cacciare è troppo divertente!
+
+220
+00:18:57,719 --> 00:18:59,638
+AIUTO!
+
+221
+00:18:59,721 --> 00:19:01,640
+AIUTO! FORMICAIO DI CHIMERE
+
+222
+00:19:01,723 --> 00:19:03,642
+{\an8}ZONA ROCCIOSA
+
+223
+00:19:03,725 --> 00:19:05,644
+RIFERIRE ALL'ASSOCIAZIONE HUNTER
+
+224
+00:19:19,283 --> 00:19:20,909
+Sarà pericoloso.
+
+225
+00:19:23,245 --> 00:19:24,913
+Ma mi accompagnereste?
+
+226
+00:19:24,997 --> 00:19:26,456
+Naturalmente.
+
+227
+00:19:26,540 --> 00:19:28,292
+Siamo professionisti.
+
+228
+00:19:31,128 --> 00:19:35,007
+Sig.na Interprete.
+Scusa, ma abbiamo fretta.
+
+229
+00:19:35,716 --> 00:19:36,800
+Sì.
+
+230
+00:19:36,884 --> 00:19:39,845
+I cavalli possono muoversi
+un po' più velocemente.
+
+231
+00:19:40,679 --> 00:19:42,639
+Non saranno abbastanza veloci.
+
+232
+00:19:44,099 --> 00:19:47,436
+Voglio che torniate al confine,
+che troviate gli altri
+
+233
+00:19:47,936 --> 00:19:50,063
+e riferiate all'Associazione Hunter
+
+234
+00:19:50,147 --> 00:19:52,107
+Queste creature sono pericolose.
+
+235
+00:19:52,191 --> 00:19:53,192
+Capito.
+
+236
+00:19:53,275 --> 00:19:55,068
+Attento, Kite.
+
+237
+00:19:55,152 --> 00:19:56,403
+Già.
+
+238
+00:19:57,404 --> 00:19:59,531
+Se non state al passo vi lascio qui.
+
+239
+00:19:59,615 --> 00:20:01,408
+Siamo dietro di te.
+
+240
+00:20:02,034 --> 00:20:03,285
+Siamo pronti!
+
+241
+00:20:11,835 --> 00:20:13,170
+Andiamo.
+
+242
+00:20:45,035 --> 00:20:47,496
+Questo è un bossolo.
+
+243
+00:20:48,163 --> 00:20:51,083
+Qui non è permesso
+niente di meccanico, vero?
+
+244
+00:20:52,292 --> 00:20:54,962
+Quindi, i governanti clandestini di NGL
+
+245
+00:20:55,587 --> 00:20:58,799
+fabbricavano armi oltre alla droga.
+
+246
+00:20:58,882 --> 00:21:01,885
+Ma a giudicare da questo…
+
+247
+00:21:01,969 --> 00:21:03,762
+Non è stato fatto da un umano.
+
+248
+00:21:05,097 --> 00:21:07,766
+Molto probabilmente era una formichimera.
+
+249
+00:21:10,560 --> 00:21:15,065
+Se le formichimere usano le pistole…
+
+250
+00:21:17,442 --> 00:21:21,280
+Odio considerare la possibilità,
+ma forse i governanti clandestini
+
+251
+00:21:21,905 --> 00:21:24,616
+Sono già stati dati in pasto alla Regina.
+
+252
+00:21:26,535 --> 00:21:31,248
+<i>Cosa succederà se le formichimere</i>
+<i>nascono con i loro geni?</i>
+
+253
+00:21:34,126 --> 00:21:40,424
+<i>NGL e Chimera Ants.</i>
+<i>È la peggiore combinazione immaginabile.</i>
+
+254
+00:21:41,425 --> 00:21:44,845
+Ciò potrebbe creare
+un rischio biologico senza precedenti.
+
+255
+00:21:47,806 --> 00:21:50,642
+<i>La situazione</i>
+
+256
+00:21:50,726 --> 00:21:53,270
+<i>ha preso una brutta piega.</i>
+
+257
+00:23:20,774 --> 00:23:23,026
+<i>Prossimo episodio: "Inizia la lotta."</i>
+
+258
+00:23:23,110 --> 00:23:24,945
+<i>- Pronto.</i>
+<i>- Pronti.</i>
+
+259
+00:23:25,570 --> 00:23:26,405
+<i>Gon!</i>
+
+260
+00:23:26,488 --> 00:23:28,281
+Sottotitoli: Paolo Manieri

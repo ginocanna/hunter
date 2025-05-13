@@ -1,0 +1,1167 @@
+1
+00:00:01,042 --> 00:00:05,547
+<i>Ci permette di avere dei nomi?</i>
+
+2
+00:00:05,630 --> 00:00:06,965
+<i>Cos'è un nome?</i>
+
+3
+00:00:07,048 --> 00:00:09,676
+<i>È come un codice che può essere usato</i>
+
+4
+00:00:09,759 --> 00:00:11,970
+<i>per identificare ognuno di noi.</i>
+
+5
+00:00:13,847 --> 00:00:17,475
+<i>Nomi. È divertente.</i>
+
+6
+00:00:19,561 --> 00:00:21,938
+<i>Le tre guardie reali del re.</i>
+
+7
+00:00:22,022 --> 00:00:25,734
+<i>Vi nominerò io stessa.</i>
+
+8
+00:00:27,193 --> 00:00:30,947
+SCRITTO DA YOSHIHIRO TOGASHI
+
+9
+00:01:45,271 --> 00:01:49,692
+{\an8}LE OMBRE DI NGL
+
+10
+00:01:49,776 --> 00:01:51,444
+YORKNEW CITY
+
+11
+00:01:51,528 --> 00:01:52,737
+{\an8}UNIONE MITENE
+
+12
+00:01:52,821 --> 00:01:55,240
+<i>Cercando la formichimera gigante,</i>
+
+13
+00:01:55,323 --> 00:01:58,827
+<i>Il gruppo di Kite</i>
+<i>è arrivato nell'Unione Mitene.</i>
+
+14
+00:01:58,910 --> 00:02:01,538
+<i>Ora viaggiano dalla Repubblica di Rokario</i>
+
+15
+00:02:01,621 --> 00:02:04,374
+<i>alla vicina Regione Autonoma di NGL.</i>
+
+16
+00:02:07,627 --> 00:02:09,671
+NGL?
+
+17
+00:02:09,754 --> 00:02:14,050
+Credono che vivere in modo
+naturale sia sempre meglio.
+
+18
+00:02:14,634 --> 00:02:17,220
+Saranno anche strani a vivere lì,
+
+19
+00:02:17,303 --> 00:02:20,557
+ma anche voi siete strani
+venendo qui in visita.
+
+20
+00:02:20,640 --> 00:02:23,476
+Non ho idea di cosa stia succedendo,
+
+21
+00:02:23,560 --> 00:02:28,189
+ma solo oggi ho
+guidato in dieci gruppi simili.
+
+22
+00:02:28,273 --> 00:02:31,359
+- Dieci gruppi?
+- Sì.
+
+23
+00:02:33,069 --> 00:02:37,657
+Allora, sembra che siamo
+tra gli ultimi ad arrivare.
+
+24
+00:02:40,660 --> 00:02:43,204
+Probabilmente sono
+altre squadre di Hunter.
+
+25
+00:02:43,288 --> 00:02:45,832
+Stanno tutti cercando gli insetti giganti?
+
+26
+00:02:45,915 --> 00:02:49,502
+Sì. Quei veterani sono bravi.
+
+27
+00:02:49,586 --> 00:02:52,297
+Sono riusciti a ottenere
+queste informazioni.
+
+28
+00:02:52,839 --> 00:02:59,179
+Ma ci sono insetti abbastanza
+grandi da attaccare gli umani?
+
+29
+00:02:59,262 --> 00:03:02,223
+Sfida il buon senso.
+
+30
+00:03:02,307 --> 00:03:06,311
+Ma quella voce che hanno
+sentito al trasmettitore…
+
+31
+00:03:06,978 --> 00:03:11,149
+<i>Mostri… insetti giganti!</i>
+
+32
+00:03:13,276 --> 00:03:16,029
+Potrebbe essere
+un altro tipo di organismo.
+
+33
+00:03:17,113 --> 00:03:19,699
+NGL è una grande riserva naturale,
+
+34
+00:03:19,782 --> 00:03:22,452
+si dice che sia abitata
+da molti organismi
+
+35
+00:03:22,535 --> 00:03:25,663
+che non sono stati segnalati
+in ambienti accademici.
+
+36
+00:03:26,372 --> 00:03:30,543
+Non sarebbe strano se ci fossero
+insetti che attaccano gli umani.
+
+37
+00:03:31,377 --> 00:03:33,838
+Anche se non ci sono insetti giganti,
+
+38
+00:03:33,922 --> 00:03:37,300
+questo viaggio varrà la pena
+se confermiamo l'esistenza
+
+39
+00:03:37,383 --> 00:03:39,177
+di organismi non identificati.
+
+40
+00:03:39,719 --> 00:03:42,597
+Come nuovo Hunter di Bestie Magiche,
+
+41
+00:03:42,680 --> 00:03:44,933
+devo produrre risultati.
+
+42
+00:03:45,808 --> 00:03:49,604
+Ora che sono qui, devo ottenere qualcosa.
+
+43
+00:04:05,119 --> 00:04:08,957
+Secondo gli scout
+che sono usciti stamattina,
+
+44
+00:04:09,707 --> 00:04:12,669
+è stato scoperto un nuovo villaggio umano
+
+45
+00:04:12,752 --> 00:04:15,797
+nel settore MA18, a sud-est.
+
+46
+00:04:16,506 --> 00:04:21,844
+Ci sono 12 case con dentro
+tra i 12 o 60 abitanti.
+
+47
+00:04:21,928 --> 00:04:25,056
+Ehi, è piuttosto grande.
+
+48
+00:04:25,139 --> 00:04:28,017
+Immagino che ci siano ancora
+dei grandi villaggi.
+
+49
+00:04:28,101 --> 00:04:31,854
+Pensavo avessimo già ripulito quell'area.
+
+50
+00:04:31,938 --> 00:04:37,110
+Aggiungerò questo villaggio
+alla nostra lista di obiettivi.
+
+51
+00:04:37,193 --> 00:04:39,279
+Colt, puoi andare?
+
+52
+00:04:39,362 --> 00:04:40,530
+Ricevuto.
+
+53
+00:04:40,613 --> 00:04:41,990
+Cos'è questo, Peggy?
+
+54
+00:04:42,073 --> 00:04:43,783
+Non mandi me?
+
+55
+00:04:43,866 --> 00:04:48,913
+Cheetu, devi andare
+a nord-ovest come previsto.
+
+56
+00:04:49,414 --> 00:04:50,748
+Zazan, accompagnalo.
+
+57
+00:04:51,332 --> 00:04:54,794
+Non ci sono più
+grandi villaggi nel nord-ovest.
+
+58
+00:04:54,877 --> 00:04:59,257
+Anche se ci fossero, probabilmente
+non ci sono umani giovani e forti.
+
+59
+00:04:59,340 --> 00:05:02,635
+È più divertente inseguirli.
+
+60
+00:05:02,719 --> 00:05:05,888
+Cheetu! Non andiamo
+a caccia per divertimento.
+
+61
+00:05:05,972 --> 00:05:08,182
+Serviamo la Regina.
+
+62
+00:05:08,891 --> 00:05:13,021
+Dobbiamo solo catturare
+il numero richiesto di umani.
+
+63
+00:05:13,104 --> 00:05:15,189
+Lo so, Colt.
+
+64
+00:05:15,273 --> 00:05:17,317
+Finiremo il lavoro.
+
+65
+00:05:17,400 --> 00:05:18,401
+Giusto, Zazan?
+
+66
+00:05:18,484 --> 00:05:20,903
+Soddisferò la quota.
+
+67
+00:05:20,987 --> 00:05:24,449
+Ma non occorre che tu mi dica
+come cacciare la mia preda.
+
+68
+00:05:25,325 --> 00:05:27,827
+Farò le cose a modo mio!
+
+69
+00:05:27,910 --> 00:05:31,414
+È divertente cacciare
+gli umani quando scappano.
+
+70
+00:05:31,956 --> 00:05:33,166
+Come hai detto?
+
+71
+00:05:33,249 --> 00:05:35,960
+Beh, è così..
+
+72
+00:05:36,044 --> 00:05:40,256
+Andiamo, Zazan.
+Colt, non agitarti troppo.
+
+73
+00:05:40,340 --> 00:05:45,094
+Sarà più facile se impari a rilassarti.
+
+74
+00:05:46,596 --> 00:05:48,556
+Osano fare le cose a modo loro?
+
+75
+00:05:48,639 --> 00:05:51,184
+Di questo passo,
+i loro squadroni cadranno!
+
+76
+00:05:51,851 --> 00:05:57,148
+Anche se l'uso dei nomi
+è utile per guidare le truppe,
+
+77
+00:05:57,648 --> 00:06:00,777
+non vogliamo incoraggiare l'individualità.
+
+78
+00:06:00,860 --> 00:06:04,906
+Il loro comportamento potrebbe
+portare a crisi nella catena comando.
+
+79
+00:06:04,989 --> 00:06:06,699
+Prenderemo delle precauzioni.
+
+80
+00:06:06,783 --> 00:06:09,827
+Sono d'accordo che bisogna fare qualcosa.
+
+81
+00:06:09,911 --> 00:06:11,871
+Meleoron e Yunju
+
+82
+00:06:11,954 --> 00:06:16,209
+devono ancora presentarsi
+a un consiglio di guerra.
+
+83
+00:06:16,292 --> 00:06:19,253
+Meleoron! Smettila
+di nasconderti e fatti vedere!
+
+84
+00:06:25,510 --> 00:06:30,640
+Tanto per essere chiari,
+non è colpa mia se Yunju è assente.
+
+85
+00:06:30,723 --> 00:06:34,060
+Ti stavi nascondendo
+perché pensavi di essere incolpato?
+
+86
+00:06:34,143 --> 00:06:37,605
+Dovresti essere un capo squadriglia.
+
+87
+00:06:37,688 --> 00:06:40,441
+Dov'è Yunju? Perché non è qui?
+
+88
+00:06:41,192 --> 00:06:43,611
+Visto? Sono io quello che viene sgridato.
+
+89
+00:06:43,694 --> 00:06:45,613
+Ecco perché non volevo uscire.
+
+90
+00:06:45,696 --> 00:06:47,698
+È sempre colpa mia.
+
+91
+00:06:47,782 --> 00:06:50,576
+Tu sei colpevole
+per aver nascosto la verità.
+
+92
+00:06:50,660 --> 00:06:52,620
+- E poi…
+- Parlo io!
+
+93
+00:06:52,703 --> 00:06:56,082
+Non volevo coprirlo.
+
+94
+00:06:57,166 --> 00:07:00,628
+È scappato da solo
+per dare la caccia agli umani.
+
+95
+00:07:00,711 --> 00:07:03,214
+Cosa? Verso quale settore?
+
+96
+00:07:03,297 --> 00:07:05,425
+È stato scoperto un nuovo villaggio?
+
+97
+00:07:05,508 --> 00:07:06,801
+Non è quello!
+
+98
+00:07:06,884 --> 00:07:10,346
+Ricordi gli umani che hanno reagito?
+
+99
+00:07:10,847 --> 00:07:12,890
+Quelli armati di pistole.
+
+100
+00:07:13,474 --> 00:07:19,689
+Yunju voleva tanto
+farli diventare i suoi animali.
+
+101
+00:07:39,208 --> 00:07:41,544
+Forza! Che stai facendo?
+
+102
+00:07:41,627 --> 00:07:43,337
+Ti ho calpestato per sbaglio.
+
+103
+00:07:44,255 --> 00:07:47,675
+Dovreste intrattenerci di più!
+
+104
+00:07:47,758 --> 00:07:49,093
+Esatto!
+
+105
+00:07:52,221 --> 00:07:54,682
+Mettetevi in salvo!
+
+106
+00:07:56,976 --> 00:07:58,769
+Finché non sarete morto.
+
+107
+00:08:03,649 --> 00:08:06,527
+Questo è il confine di NGL.
+
+108
+00:08:06,611 --> 00:08:11,240
+Quei due enormi alberi fungono
+da posto di blocco e ambasciata.
+
+109
+00:08:13,409 --> 00:08:16,537
+Cosa c'è qui in mezzo al nulla?
+
+110
+00:08:16,621 --> 00:08:19,790
+Queste persone sono tutte così strane.
+
+111
+00:08:27,256 --> 00:08:28,674
+Occhi aperti.
+
+112
+00:08:29,217 --> 00:08:31,135
+Le formichimere sono un problema
+
+113
+00:08:31,219 --> 00:08:35,181
+ma NGL è più di un'organizzazione
+di amanti della natura.
+
+114
+00:08:35,264 --> 00:08:36,432
+Ok.
+
+115
+00:08:39,644 --> 00:08:41,604
+Cosa vi porta qui?
+
+116
+00:08:43,022 --> 00:08:44,398
+Siamo a caccia.
+
+117
+00:08:44,482 --> 00:08:48,444
+Un organismo in quarantena
+potrebbe aver invaso questo paese.
+
+118
+00:08:53,324 --> 00:08:55,576
+Se siete Hunter professionisti,
+
+119
+00:08:55,660 --> 00:08:59,580
+non possiamo negarvi l'ingresso.
+
+120
+00:09:00,540 --> 00:09:01,791
+Seguitemi.
+
+121
+00:09:16,556 --> 00:09:18,975
+State usando computer e macchine.
+
+122
+00:09:19,058 --> 00:09:23,354
+Questo posto non è
+all'interno dei confini di NGL.
+
+123
+00:09:23,437 --> 00:09:27,650
+Quest'area è usata per le relazioni estere
+e lo scambio di informazioni.
+
+124
+00:09:27,733 --> 00:09:31,445
+Ci sono strutture simili nel Paese?
+
+125
+00:09:31,529 --> 00:09:33,614
+No, neanche una.
+
+126
+00:09:33,698 --> 00:09:37,660
+Non sono ammesse macchine
+di alcun tipo all'interno di NGL.
+
+127
+00:09:37,743 --> 00:09:42,123
+Naturalmente, i visitatori
+
+128
+00:09:42,206 --> 00:09:44,667
+non possono portarne all'interno.
+
+129
+00:09:45,376 --> 00:09:49,589
+Ciò significa che dovrete
+rimuovere tutto il metallo,
+
+130
+00:09:49,672 --> 00:09:53,676
+il petrolio, il vetro
+o altri oggetti simili addosso a voi.
+
+131
+00:09:54,760 --> 00:09:57,388
+- Compresi i miei occhiali?
+- Sì.
+
+132
+00:09:57,471 --> 00:10:01,851
+Se i vestiti, le cinture, le scarpe
+o la biancheria contengono plastica,
+
+133
+00:10:01,934 --> 00:10:05,271
+sostanze chimiche o metallo,
+dovete toglierli.
+
+134
+00:10:06,063 --> 00:10:10,109
+Non è divertente.
+Ci stai dicendo di spogliarci?
+
+135
+00:10:10,818 --> 00:10:12,653
+Non preoccuparti.
+
+136
+00:10:12,737 --> 00:10:15,990
+Ci sono vestiti naturali
+in vendita al piano di sopra.
+
+137
+00:10:16,699 --> 00:10:21,370
+Inoltre, se ci sono bulloni
+all'interno del corpo, impianti dentali,
+
+138
+00:10:21,996 --> 00:10:26,125
+oro, argento o protesi al silicone
+
+139
+00:10:26,208 --> 00:10:28,169
+che non possono essere rimossi,
+
+140
+00:10:29,420 --> 00:10:31,380
+non ti sarà permesso di entrare.
+
+141
+00:10:33,966 --> 00:10:36,385
+{\an8}NEGOZIO
+
+142
+00:10:37,637 --> 00:10:40,264
+Scommetto che siamo rimasti
+solo noi cinque.
+
+143
+00:10:43,017 --> 00:10:46,395
+Voglio che restiate
+nella città più vicina.
+
+144
+00:10:46,979 --> 00:10:50,441
+Torneremo qui entro due settimane
+e vi contatteremo.
+
+145
+00:10:50,524 --> 00:10:52,234
+Ok.
+
+146
+00:10:53,110 --> 00:10:55,196
+Il posto di blocco è laggiù.
+
+147
+00:10:58,616 --> 00:11:01,911
+Ci sarà un esame fisico
+e un colloquio
+
+148
+00:11:02,703 --> 00:11:05,665
+e metal detector, scan a raggi x
+
+149
+00:11:05,748 --> 00:11:09,418
+e agli ultrasuoni.
+
+150
+00:11:11,212 --> 00:11:13,422
+La sicurezza è piuttosto rigida.
+
+151
+00:11:14,632 --> 00:11:17,301
+Alcune persone hanno contrabbandato armi
+
+152
+00:11:17,385 --> 00:11:20,304
+nascondendo le parti
+all'interno dei loro corpi.
+
+153
+00:11:20,805 --> 00:11:24,517
+<i>È comune che la gente nasconda</i>
+<i>telecamere o cellulari nel retto</i>
+
+154
+00:11:25,059 --> 00:11:28,020
+<i>Alcune persone hanno persino addestrato</i>
+<i>gli animali</i>
+
+155
+00:11:28,104 --> 00:11:31,565
+<i>gli animali a portare</i>
+<i>i loro laptop una volta dentro.</i>
+
+156
+00:11:35,403 --> 00:11:37,613
+Siete tutti puliti.
+
+157
+00:11:39,156 --> 00:11:41,033
+Grazie per la pazienza.
+
+158
+00:11:41,117 --> 00:11:43,536
+Prego, entrate.
+
+159
+00:11:45,955 --> 00:11:49,291
+<i>Benvenuti a NGL.</i>
+
+160
+00:12:03,723 --> 00:12:06,767
+{\an8}Ok, iniziamo la caccia.
+
+161
+00:12:13,816 --> 00:12:17,027
+{\an8}NOLEGGIO CAVALLI, 12.000 AL GIORNO
+
+162
+00:12:21,157 --> 00:12:23,284
+<i>Tracce di insetti giganteschi?</i>
+
+163
+00:12:23,367 --> 00:12:26,579
+Io non ho sentito niente.
+
+164
+00:12:26,662 --> 00:12:29,290
+Anche se esistessero creature simili,
+
+165
+00:12:29,373 --> 00:12:32,710
+i cittadini di questo paese
+non farebbero molto rumore.
+
+166
+00:12:32,793 --> 00:12:36,172
+Se veniamo attaccati
+e uccisi dagli animali,
+
+167
+00:12:36,255 --> 00:12:40,926
+è semplicemente la natura
+che fa il suo corso.
+
+168
+00:12:46,974 --> 00:12:51,979
+{\an8}Comunque, dovremmo seguire la costa
+e controllare i villaggi.
+
+169
+00:12:52,855 --> 00:12:56,275
+Se li esaminiamo tutti
+e non viene fuori niente,
+
+170
+00:12:56,358 --> 00:12:58,986
+probabilmente non è in questo paese.
+
+171
+00:12:59,069 --> 00:13:03,949
+Supponendo che quei
+tizi dicessero la verità.
+
+172
+00:13:04,033 --> 00:13:07,119
+Ci stanno ancora seguendo, vero?
+
+173
+00:13:07,661 --> 00:13:08,496
+Sì.
+
+174
+00:13:09,371 --> 00:13:13,292
+Dicono di essere qui nel caso
+incontrassimo tribù sconosciute
+
+175
+00:13:13,375 --> 00:13:15,461
+per fare interpreti o intermediari.
+
+176
+00:13:15,544 --> 00:13:17,505
+Ma sono qui per tenerci d'occhio.
+
+177
+00:13:18,547 --> 00:13:22,134
+Non mi aspettavo
+che la gente qui ci aiutasse.
+
+178
+00:13:23,844 --> 00:13:29,308
+Il mio istinto mi dice che è qui.
+
+179
+00:13:45,074 --> 00:13:47,243
+Fermo.
+
+180
+00:13:47,827 --> 00:13:49,870
+Se muori, non sarà colpa mia.
+
+181
+00:13:50,371 --> 00:13:56,001
+Un semplice animale non dovrebbe
+dare ordini a un umano superiore!
+
+182
+00:13:56,085 --> 00:13:58,337
+Un semplice animale? Umano superiore?
+
+183
+00:13:59,046 --> 00:14:00,589
+Non capisco.
+
+184
+00:14:02,633 --> 00:14:05,386
+In che modo siamo diversi?
+
+185
+00:14:05,886 --> 00:14:08,180
+Zitto!
+
+186
+00:14:11,809 --> 00:14:13,018
+Santo cielo.
+
+187
+00:14:13,978 --> 00:14:18,941
+I tuoi non ti hanno mai insegnato
+che si risponde a una domanda?
+
+188
+00:14:21,485 --> 00:14:24,196
+Non c'è speranza per te, vecchio.
+
+189
+00:14:33,372 --> 00:14:35,791
+Impegnati di più nella tua prossima vita.
+
+190
+00:14:40,296 --> 00:14:42,047
+Ce l'hai fatta.
+
+191
+00:14:48,137 --> 00:14:51,515
+Se lo uccidi , non possiamo conservarlo.
+
+192
+00:14:53,100 --> 00:14:57,646
+Posso fare le polpette
+da servire la Regina in giornata.
+
+193
+00:14:58,856 --> 00:15:01,692
+Le persone come lui mi irritano.
+
+194
+00:15:02,526 --> 00:15:04,570
+Non sanno stare al loro posto.
+
+195
+00:15:07,573 --> 00:15:11,744
+Preferisco vederli correre impauriti.
+
+196
+00:15:13,037 --> 00:15:17,166
+Ieri ne hai sparato uno
+alla schiena mentre correvano.
+
+197
+00:15:17,666 --> 00:15:20,461
+Se lasciassi me a occuparmene,
+
+198
+00:15:20,544 --> 00:15:23,923
+potrei mettere al sicuro la nostra preda.
+
+199
+00:15:25,007 --> 00:15:28,218
+Quando hai detto "Non muoverti",
+era per me, vero?
+
+200
+00:15:28,844 --> 00:15:32,514
+Stai dando un ordine
+al leader del tuo squadrone, vero?
+
+201
+00:15:37,478 --> 00:15:40,397
+Non essere così arrogante!
+
+202
+00:15:41,023 --> 00:15:44,610
+Ti perdono e lascio perdere.
+
+203
+00:15:45,361 --> 00:15:46,987
+Se ami uccidere così tanto,
+
+204
+00:15:47,071 --> 00:15:50,199
+dovresti offrirti volontario
+nei raccoglitori di cibo.
+
+205
+00:15:55,496 --> 00:15:57,039
+Nessuna speranza.
+
+206
+00:16:09,843 --> 00:16:11,512
+<i>Maledetto Yunju.</i>
+
+207
+00:16:17,768 --> 00:16:18,852
+Zitto!
+
+208
+00:16:19,436 --> 00:16:21,981
+Se non stai zitto, ti mangerò qui!
+
+209
+00:16:22,064 --> 00:16:23,023
+Rammot!
+
+210
+00:16:23,983 --> 00:16:25,025
+Che stai facendo?
+
+211
+00:16:25,609 --> 00:16:27,069
+Cosa sto facendo?
+
+212
+00:16:27,152 --> 00:16:30,489
+Sto trasportando il cibo.
+Non è ovvio?
+
+213
+00:16:30,572 --> 00:16:32,408
+Sii più selettivo con le prede!
+
+214
+00:16:32,491 --> 00:16:34,493
+Quanto spesso devo ripetermi?
+
+215
+00:16:34,576 --> 00:16:37,204
+Quell'umano non serve a niente.
+
+216
+00:16:37,830 --> 00:16:41,500
+E abbiamo già raggiunto la nostra quota.
+Stai perdendo tempo.
+
+217
+00:16:41,583 --> 00:16:44,378
+- Allora lo mangerò io!
+- Come?
+
+218
+00:16:45,421 --> 00:16:48,007
+Prima o poi verrà comunque mangiato.
+
+219
+00:16:54,722 --> 00:16:57,933
+Questo è un ordine, Rammot.
+
+220
+00:17:09,278 --> 00:17:13,115
+Cavolo. Troppi soldati che cercano
+di fare le cose a modo loro.
+
+221
+00:17:24,793 --> 00:17:26,462
+Non vedo alcun problema.
+
+222
+00:17:26,962 --> 00:17:28,672
+Mi piace quello che faccio.
+
+223
+00:17:29,423 --> 00:17:31,592
+Vuoi prendere questo?
+
+224
+00:17:31,675 --> 00:17:33,802
+Immagino sia morto, quindi non puoi.
+
+225
+00:17:34,845 --> 00:17:37,222
+Da quale squadriglia vieni?
+
+226
+00:17:42,519 --> 00:17:45,939
+È Zazan, quella donna cattiva.
+
+227
+00:17:46,607 --> 00:17:48,108
+Avete la mia solidarietà.
+
+228
+00:17:50,486 --> 00:17:53,906
+Potresti unirti alla squadra di Yunju.
+
+229
+00:17:54,531 --> 00:17:58,994
+Ho sentito che possono uccidere
+tutti gli umani che vogliono.
+
+230
+00:17:59,078 --> 00:18:03,999
+Se lo prendi come dono,
+ti lasceranno entrare subito.
+
+231
+00:18:09,880 --> 00:18:11,465
+Cos'è questo?
+
+232
+00:18:11,965 --> 00:18:13,467
+È terribile!
+
+233
+00:18:13,550 --> 00:18:15,803
+Chi è stato?
+
+234
+00:18:17,554 --> 00:18:18,972
+Una pistola?
+
+235
+00:18:19,056 --> 00:18:21,558
+La gente combatte con le armi!
+
+236
+00:18:21,642 --> 00:18:25,229
+Chi potrebbe essere?
+Le armi non sono ammesse a NGL!
+
+237
+00:18:26,188 --> 00:18:28,899
+Sono membri
+dell'organizzazione clandestina
+
+238
+00:18:28,982 --> 00:18:31,026
+che produce D².
+
+239
+00:18:31,110 --> 00:18:32,027
+- Cosa?
+- Cosa?
+
+240
+00:18:32,111 --> 00:18:36,031
+Non credo che queste ferite
+siano state inflitte dagli umani.
+
+241
+00:18:37,199 --> 00:18:39,118
+Significa che…
+
+242
+00:18:39,201 --> 00:18:41,620
+Non posso esserne certo.
+
+243
+00:18:44,081 --> 00:18:47,417
+<i>Ma se il mostro che cerchiamo</i>
+<i>è responsabile di questo,</i>
+
+244
+00:18:48,252 --> 00:18:51,547
+<i>non riusciremo a occuparcene</i>
+<i>con i nostri membri attuali.</i>
+
+245
+00:18:55,884 --> 00:18:58,929
+Eccoli! Mostri!
+
+246
+00:19:00,722 --> 00:19:05,144
+Ponzu! Balda! Pekuba!
+Correte al mio segnale.
+
+247
+00:19:08,856 --> 00:19:10,357
+Intesi?
+
+248
+00:19:16,864 --> 00:19:18,699
+{\an8}Arcobaleno!
+
+249
+00:19:20,033 --> 00:19:21,994
+Freccia Rossa!
+
+250
+00:19:28,500 --> 00:19:29,543
+Ora!
+
+251
+00:19:40,971 --> 00:19:43,015
+Nessuna speranza.
+
+252
+00:20:05,871 --> 00:20:07,206
+Di qua!
+
+253
+00:20:17,883 --> 00:20:20,177
+- Stai bene?
+- Sì.
+
+254
+00:20:21,094 --> 00:20:25,557
+Dovremmo contattare gli altri Hunter.
+
+255
+00:20:25,641 --> 00:20:28,268
+- Puoi farcela, Ponzu?
+- Sì.
+
+256
+00:20:50,499 --> 00:20:53,543
+Cosa? Tutto qui?
+
+257
+00:20:53,627 --> 00:20:57,214
+No, ce ne sono altri.
+
+258
+00:20:59,800 --> 00:21:03,011
+Certo che ce ne sono!
+
+259
+00:21:03,095 --> 00:21:05,681
+Sento l'odore degli umani!
+
+260
+00:21:26,201 --> 00:21:27,744
+Che facciamo, Zaikahal?
+
+261
+00:21:32,374 --> 00:21:35,252
+<i>Le formichimere</i>
+<i>continuano a scatenarsi</i>
+
+262
+00:21:35,335 --> 00:21:38,839
+<i>e hanno conquistato il governo ombra.</i>
+
+263
+00:21:40,257 --> 00:21:42,843
+<i>Una tempesta è in arrivo su NGL.</i>
+
+264
+00:21:42,926 --> 00:21:48,849
+<i>E il gruppo di Gon</i>
+<i>vi è proprio diretto contro.</i>
+
+265
+00:23:18,271 --> 00:23:20,899
+<i>Prossimo episodio: "Malvagio e Tremendo."</i>
+
+266
+00:23:21,775 --> 00:23:23,693
+<i>Gon, che succede? Hai la febbre?</i>
+
+267
+00:23:24,486 --> 00:23:26,154
+<i>Cosa? Un crack alla schiena?</i>
+
+268
+00:23:26,238 --> 00:23:27,739
+<i>Tremendo.</i>
+
+269
+00:23:27,823 --> 00:23:29,408
+Sottotitoli: Paolo Manieri

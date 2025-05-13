@@ -1,0 +1,1339 @@
+1
+00:00:02,877 --> 00:00:05,130
+<i>Ho un dovere da compiere.</i>
+
+2
+00:00:07,007 --> 00:00:08,591
+<i>Devo partorire il Re!</i>
+
+3
+00:00:10,510 --> 00:00:13,972
+<i>Io sono la Regina!</i>
+
+4
+00:00:15,223 --> 00:00:19,477
+SCRITTO DA YOSHIHIRO TOGASHI
+
+5
+00:01:33,259 --> 00:01:37,722
+{\an8}INQUIETUDINE E AVVISTAMENTO
+
+6
+00:01:39,516 --> 00:01:41,643
+<i>Dopo aver usato Accompagnamento,</i>
+
+7
+00:01:41,726 --> 00:01:43,812
+<i>Gon e Killua sono stati trasportati</i>
+
+8
+00:01:43,895 --> 00:01:45,772
+<i>dall'allievo di Ging, Kaito.</i>
+
+9
+00:01:46,523 --> 00:01:50,235
+<i>Dopo che Gon si ricorda</i>
+<i>di aver incontrato Kaito anni prima,</i>
+
+10
+00:01:50,318 --> 00:01:52,821
+<i>capisce che Ging voleva questo incontro</i>
+
+11
+00:01:52,904 --> 00:01:55,615
+<i>e si accresce il suo interesse per Kaito.</i>
+
+12
+00:01:56,991 --> 00:01:59,828
+Ehi, che lavoro fai, Kaito?
+
+13
+00:01:59,911 --> 00:02:01,663
+faccio indagini biologiche.
+
+14
+00:02:01,746 --> 00:02:05,667
+Mi concentro sulla scoperta
+e la ricerca di nuove specie.
+
+15
+00:02:05,750 --> 00:02:08,545
+Avete sentito parlare
+delle tigri di campo?
+
+16
+00:02:09,170 --> 00:02:10,505
+Tigri di campo?
+
+17
+00:02:10,588 --> 00:02:13,049
+Possono usare il fuoco.
+
+18
+00:02:13,133 --> 00:02:16,010
+Usano rami
+che sono stati accesi da un fulmine.
+
+19
+00:02:17,095 --> 00:02:20,390
+A parte certe bestie magiche
+che camminano su due zampe,
+
+20
+00:02:20,473 --> 00:02:22,433
+sono le prime della loro specie.
+
+21
+00:02:22,517 --> 00:02:25,687
+Sono animali che mangiano
+la carne cotta, non cruda.
+
+22
+00:02:25,770 --> 00:02:28,231
+Incredibile. La cucinano davvero.
+
+23
+00:02:28,314 --> 00:02:30,483
+Stanno usando il fuoco!
+
+24
+00:02:30,567 --> 00:02:32,277
+Ehi, ce ne sono altri?
+
+25
+00:02:32,360 --> 00:02:33,528
+Già.
+
+26
+00:02:34,237 --> 00:02:38,199
+Hai detto che la cosa che mi ha attaccato
+era una formichimera?
+
+27
+00:02:38,283 --> 00:02:40,827
+Sì, una formichimera.
+
+28
+00:02:41,786 --> 00:02:44,664
+È in quarantena di prima classe.
+
+29
+00:02:44,747 --> 00:02:48,918
+Di solito, nessuno può avvicinarsi
+a un insetto così pericoloso.
+
+30
+00:02:49,002 --> 00:02:51,212
+Li hai scoperti tu?
+
+31
+00:02:51,296 --> 00:02:54,591
+No. Sono specializzato
+in creature più grandi.
+
+32
+00:02:54,674 --> 00:02:57,177
+Ma ora sto indagando su questi insetti.
+
+33
+00:02:58,219 --> 00:03:00,221
+Qualcosa non mi torna.
+
+34
+00:03:04,976 --> 00:03:09,272
+Ma sembra che ora dovrò trasferirmi
+in un altro posto.
+
+35
+00:03:10,064 --> 00:03:13,234
+Devo fare una telefonata,
+ma non c'è campo.
+
+36
+00:03:13,860 --> 00:03:15,361
+Una chiamata?
+
+37
+00:03:15,445 --> 00:03:16,696
+Lavoro con altri.
+
+38
+00:03:16,779 --> 00:03:18,781
+Sette di noi lavorano in squadra.
+
+39
+00:03:18,865 --> 00:03:22,160
+Devo aspettare il loro arrivo.
+
+40
+00:03:22,243 --> 00:03:24,454
+Quando saranno qui, ve li presenterò.
+
+41
+00:03:24,537 --> 00:03:27,248
+Sono dilettanti,
+ma sono abili Hunter.
+
+42
+00:03:32,837 --> 00:03:34,005
+Cosa?
+
+43
+00:03:34,964 --> 00:03:36,507
+Parli del diavolo.
+
+44
+00:03:39,802 --> 00:03:42,305
+Kaito, chi sono questi bambini?
+
+45
+00:03:42,388 --> 00:03:43,723
+Sono miei amici.
+
+46
+00:03:43,806 --> 00:03:46,267
+Sono venuti a trovarci stando in viaggio.
+
+47
+00:03:47,435 --> 00:03:49,729
+È un piacere incontrarvi qui.
+
+48
+00:03:49,812 --> 00:03:51,522
+Sono Spinner Clow.
+
+49
+00:03:51,606 --> 00:03:54,150
+Io sono Spin! Piacere di conoscervi.
+
+50
+00:03:54,234 --> 00:03:57,403
+Sono Gon Freecss.
+Piacere di conoscerti, Spin.
+
+51
+00:03:58,738 --> 00:04:00,740
+Freecss?
+
+52
+00:04:00,823 --> 00:04:02,742
+Aspetta, lui è…
+
+53
+00:04:02,825 --> 00:04:05,203
+Sì, è il figlio di Ging.
+
+54
+00:04:05,286 --> 00:04:06,579
+- Davvero?
+- Davvero?
+
+55
+00:04:06,663 --> 00:04:08,998
+Anche tu lo sei?
+
+56
+00:04:09,082 --> 00:04:12,669
+No. Mi chiamo Killua Zoldyck.
+
+57
+00:04:13,378 --> 00:04:15,088
+Zoldyck?
+
+58
+00:04:15,171 --> 00:04:17,632
+Correggimi se sbaglio.
+
+59
+00:04:17,715 --> 00:04:20,510
+Ma fai parte
+della famosa famiglia di assassini?
+
+60
+00:04:20,593 --> 00:04:23,513
+Sì, ma ho smesso.
+
+61
+00:04:23,596 --> 00:04:26,182
+E sono entrambi Hunter professionisti.
+
+62
+00:04:26,266 --> 00:04:28,476
+Dovreste mostrare un po' di rispetto.
+
+63
+00:04:28,559 --> 00:04:30,687
+- Fantastico!
+- Fantastico!
+
+64
+00:04:33,523 --> 00:04:35,483
+Cavolo, che shock!
+
+65
+00:04:35,984 --> 00:04:39,570
+Conduciamo indagini biologiche
+con Kaito da tre anni,
+
+66
+00:04:39,654 --> 00:04:43,283
+ma questo è l'organismo più incredibile
+che abbiamo mai visto!
+
+67
+00:04:43,366 --> 00:04:44,742
+Sì, davvero.
+
+68
+00:04:44,826 --> 00:04:48,121
+Non credo che abbiamo finito
+le presentazioni.
+
+69
+00:04:48,204 --> 00:04:51,291
+Sono Monta Yuras. Ma chiamatemi Mon.
+
+70
+00:04:51,374 --> 00:04:53,042
+Piacere di conoscerti, Mon.
+
+71
+00:04:53,126 --> 00:04:54,919
+Io sono Stick Dinner.
+
+72
+00:04:55,003 --> 00:04:57,297
+Cucino io. Sai perché?
+
+73
+00:04:57,380 --> 00:04:59,007
+Perché mi chiamo Dinner.
+
+74
+00:05:01,718 --> 00:05:02,885
+Piacere.
+
+75
+00:05:02,969 --> 00:05:05,930
+Mi chiamo Banana Kavaro.
+
+76
+00:05:06,014 --> 00:05:06,931
+Piacere.
+
+77
+00:05:10,810 --> 00:05:13,479
+Ne abbiamo altri due in squadra.
+
+78
+00:05:13,563 --> 00:05:14,981
+Dove sono Podungo e Lin?
+
+79
+00:05:15,064 --> 00:05:18,151
+Si dirigono
+entrambi verso l'area dell'avvistamento.
+
+80
+00:05:18,234 --> 00:05:20,528
+Si muovono sempre così in fretta.
+
+81
+00:05:20,611 --> 00:05:23,740
+Comunque, avevi ragione, Kaito.
+
+82
+00:05:25,450 --> 00:05:30,997
+Sembra l'artiglio
+di una formichimera regina.
+
+83
+00:05:33,541 --> 00:05:38,463
+Abbiamo fatto delle analisi al computer
+e il risultato corrisponde al 99%.
+
+84
+00:05:38,546 --> 00:05:41,215
+- Posso vederlo?
+- Certo.
+
+85
+00:05:43,092 --> 00:05:45,595
+Questo è un artiglio di formichimera?
+
+86
+00:05:45,678 --> 00:05:47,680
+È grande come un dito umano.
+
+87
+00:05:47,764 --> 00:05:51,517
+- Significa che ci sono formiche enormi?
+- Non lo sappiamo.
+
+88
+00:05:51,601 --> 00:05:54,312
+Forse una è mutata
+ed è cresciuta di tanto?
+
+89
+00:05:54,395 --> 00:05:58,941
+È possibile, anche se potrebbe appartenere
+a una specie completamente diversa.
+
+90
+00:05:59,025 --> 00:06:02,236
+In ogni caso, al momento non lo sappiamo.
+
+91
+00:06:02,779 --> 00:06:04,822
+Per questo stiamo indagando.
+
+92
+00:06:06,282 --> 00:06:09,118
+È iniziato tutto
+con il tizio più patetico.
+
+93
+00:06:09,202 --> 00:06:11,037
+Si chiamava Wong!
+
+94
+00:06:11,120 --> 00:06:13,331
+Era un funzionario dell'Impero Kakin.
+
+95
+00:06:14,332 --> 00:06:17,335
+- Dov'è l'Impero Kakin?
+- Proprio qui.
+
+96
+00:06:17,418 --> 00:06:21,297
+È la terra selvaggia
+nel mezzo del continente Azian.
+
+97
+00:06:21,381 --> 00:06:24,926
+Avevamo appena completato
+un'indagine biologica quando…
+
+98
+00:06:27,553 --> 00:06:28,888
+Magnifico.
+
+99
+00:06:28,971 --> 00:06:33,101
+Hai portato a termine
+200 anni di lavoro per questa agenzia.
+
+100
+00:06:33,184 --> 00:06:37,105
+Sinceramente, mi dispiace
+di non poterti dare un bonus.
+
+101
+00:06:37,188 --> 00:06:40,358
+Non dire così, Wong.
+Ci siamo divertiti.
+
+102
+00:06:41,109 --> 00:06:43,486
+In virtù di ciò,
+
+103
+00:06:43,986 --> 00:06:48,282
+vi raccomanderò ad altre nazioni amiche.
+
+104
+00:06:48,366 --> 00:06:50,410
+Lo apprezziamo molto.
+
+105
+00:06:52,120 --> 00:06:53,955
+Esatto!
+
+106
+00:06:54,038 --> 00:06:55,873
+Divagherò un po'.
+
+107
+00:06:55,957 --> 00:06:58,334
+Credo che parte di una specie strana
+
+108
+00:06:58,418 --> 00:07:00,920
+sia stata portata all'asta Southernpiece.
+
+109
+00:07:01,003 --> 00:07:04,090
+Si sospetta che sia
+di un organismo non identificato,
+
+110
+00:07:04,173 --> 00:07:06,426
+e non poteva figurare nel catalogo.
+
+111
+00:07:06,509 --> 00:07:10,304
+Ma dato che dovevano donarlo
+a un'agenzia governativa,
+
+112
+00:07:10,388 --> 00:07:14,684
+speravano che un Hunter autorizzato
+lo comprasse a un prezzo alto.
+
+113
+00:07:19,897 --> 00:07:22,233
+Da questa parte.
+
+114
+00:07:30,241 --> 00:07:31,617
+Beh, Lin?
+
+115
+00:07:31,701 --> 00:07:34,954
+Appartiene chiaramente
+a un organismo non identificato.
+
+116
+00:07:35,037 --> 00:07:39,000
+Da quello che vedo,
+sembra la zampa di un insetto.
+
+117
+00:07:39,542 --> 00:07:43,963
+Ma nessun insetto conosciuto
+ha zampe così grandi.
+
+118
+00:07:44,547 --> 00:07:48,426
+E l'artiglio mostra tratti
+che non si trovano tra gli insetti.
+
+119
+00:07:48,509 --> 00:07:49,552
+Sì.
+
+120
+00:07:49,635 --> 00:07:52,638
+Una gamba ha due artigli,
+ma questa ne ha sei.
+
+121
+00:07:52,722 --> 00:07:56,809
+Sembra quasi che il tarsi si sia evoluto
+in qualcosa di simile a dita?
+
+122
+00:07:57,310 --> 00:08:02,231
+Sì. E questa parte è spinosa,
+quindi potrebbe essere la tibia.
+
+123
+00:08:02,315 --> 00:08:05,193
+Se prendiamo un campione
+e lo studiamo,
+
+124
+00:08:05,276 --> 00:08:07,195
+ne apprenderemo di più.
+
+125
+00:08:07,278 --> 00:08:10,281
+Puoi darcene una piccola parte?
+
+126
+00:08:10,364 --> 00:08:14,744
+Dato che Wong vi ha mandati da noi
+non possiamo rifiutare.
+
+127
+00:08:17,079 --> 00:08:19,415
+Diamo un'occhiata.
+
+128
+00:08:19,499 --> 00:08:22,126
+Ti manderemo i risultati quando li avremo.
+
+129
+00:08:23,586 --> 00:08:24,670
+Conto su di voi.
+
+130
+00:08:29,300 --> 00:08:30,718
+Formichimera.
+
+131
+00:08:35,890 --> 00:08:38,100
+Dove sono andati Lin e Podungo?
+
+132
+00:08:38,184 --> 00:08:41,604
+Sono andati da qualche parte
+a sud di Yorknew City.
+
+133
+00:08:41,687 --> 00:08:46,108
+La persona che ha trovato la zampa
+d'insetto vive in una città sull'oceano.
+
+134
+00:08:46,192 --> 00:08:48,444
+Mi spiace che non possiate riposare,
+
+135
+00:08:48,528 --> 00:08:50,613
+ma dovremmo affrettarci a seguirli.
+
+136
+00:08:50,696 --> 00:08:54,075
+- Ehi, possiamo venire con te?
+- Cosa?
+
+137
+00:08:55,618 --> 00:08:57,912
+- Certo.
+- Sì!
+
+138
+00:08:57,995 --> 00:08:59,872
+Sono felice di avervi qui.
+
+139
+00:09:00,498 --> 00:09:03,125
+Avere due Hunter professionisti con noi
+
+140
+00:09:03,209 --> 00:09:04,669
+è rassicurante.
+
+141
+00:09:04,752 --> 00:09:08,172
+Uno è il figlio di Ging
+e l'altro è della famiglia Zoldyck!
+
+142
+00:09:08,256 --> 00:09:09,674
+Mi spiace.
+
+143
+00:09:09,757 --> 00:09:11,384
+Non importa.
+
+144
+00:09:14,053 --> 00:09:17,306
+Siete già dei professionisti
+alla vostra età?
+
+145
+00:09:17,807 --> 00:09:20,434
+Non siamo nati col talento.
+
+146
+00:09:20,518 --> 00:09:24,313
+Immagino di avere talento
+nel dire "talento", giusto?
+
+147
+00:09:28,651 --> 00:09:31,320
+<i>In poco tempo sono diventati amici.</i>
+
+148
+00:09:33,364 --> 00:09:39,620
+<i>I bravi Hunter sono benvoluti</i>
+<i>dagli animali e hanno anche buoni amici.</i>
+
+149
+00:09:43,666 --> 00:09:45,960
+<i>Gon potrebbe essere il migliore.</i>
+
+150
+00:09:46,794 --> 00:09:49,839
+<i>Ti troverà presto, Ging.</i>
+
+151
+00:10:15,197 --> 00:10:17,992
+<i>Non basta.</i>
+
+152
+00:10:18,075 --> 00:10:21,746
+{\an8}<i>Mi serve più cibo.</i>
+
+153
+00:10:30,129 --> 00:10:31,547
+Sono passati giorni.
+
+154
+00:10:31,631 --> 00:10:35,051
+No, sono passati mesi
+dall'ultima volta che ha piovuto qui.
+
+155
+00:10:35,134 --> 00:10:38,179
+Il tempo è insolito quest'anno.
+
+156
+00:10:38,262 --> 00:10:43,184
+È possibile che questo influisca
+in qualche modo sulla fauna selvatica.
+
+157
+00:10:43,267 --> 00:10:45,645
+Quindi, l'insetto con la zampa grande
+
+158
+00:10:45,728 --> 00:10:49,398
+potrebbe essere una mutazione
+influenzata da quelle condizioni.
+
+159
+00:10:49,482 --> 00:10:51,525
+Ma perché dovrebbe crescere?
+
+160
+00:10:51,609 --> 00:10:53,444
+Lo fa per sopravvivere, no?
+
+161
+00:10:54,070 --> 00:10:57,573
+Se è più grande, avrà più possibilità
+di procurarsi il cibo.
+
+162
+00:10:57,657 --> 00:11:00,493
+Ma gliene servirebbe di più.
+
+163
+00:11:00,576 --> 00:11:04,789
+Essere più grandi
+non sempre aiuta a sopravvivere.
+
+164
+00:11:04,872 --> 00:11:06,499
+Credo che questo sia legato
+
+165
+00:11:06,999 --> 00:11:10,211
+alla natura unica della formichimera,
+non all'ambiente.
+
+166
+00:11:10,294 --> 00:11:11,212
+Sono d'accordo.
+
+167
+00:11:11,295 --> 00:11:16,092
+Perché si riproducono in modo diverso
+da qualsiasi altro organismo.
+
+168
+00:11:16,175 --> 00:11:17,718
+Cosa vuoi dire?
+
+169
+00:11:17,802 --> 00:11:21,555
+Si riproducono attraverso
+uno speciale processo, la fagogenesi.
+
+170
+00:11:21,639 --> 00:11:24,558
+- Fagogenesi?
+- Cos'è?
+
+171
+00:11:24,642 --> 00:11:25,893
+{\an8}FAGOGENESI
+
+172
+00:11:25,976 --> 00:11:29,480
+{\an8}<i>Quando una regina delle formichimere</i>
+<i>mangia altri organismi,</i>
+
+173
+00:11:29,563 --> 00:11:31,190
+<i>trasmette i suoi tratti</i>
+
+174
+00:11:31,273 --> 00:11:34,235
+<i>da quegli organismi</i>
+<i>alla generazione successiva.</i>
+
+175
+00:11:36,153 --> 00:11:39,365
+<i>E può anche mangiare più specie</i>
+
+176
+00:11:39,448 --> 00:11:43,786
+<i>per trasmettere</i>
+<i>un mix di geni alla sua prole.</i>
+
+177
+00:11:45,788 --> 00:11:49,792
+<i>A ogni cibata,</i>
+<i>depone da una a cinque uova.</i>
+
+178
+00:11:50,543 --> 00:11:54,505
+<i>La prima generazione di nascite</i>
+<i>on ha capacità riproduttive,</i>
+
+179
+00:11:54,588 --> 00:11:56,966
+<i>e diventano</i>
+<i>formiche operaie o soldato.</i>
+
+180
+00:11:57,049 --> 00:12:02,680
+<i>Lavorano al servizio della regina</i>
+<i>e dei suoi eventuali successori.</i>
+
+181
+00:12:03,681 --> 00:12:07,852
+<i>Quei successori sono il re e la regina</i>
+<i>della prossima generazione.</i>
+
+182
+00:12:07,935 --> 00:12:11,814
+<i>La regina cerca sempre di nutrirsi</i>
+<i>dei geni di organismi forti</i>
+
+183
+00:12:11,897 --> 00:12:15,943
+<i>per poterli trasmettere alla sua prole.</i>
+
+184
+00:12:16,777 --> 00:12:21,157
+<i>E può mangiare qualsiasi specie</i>
+<i>che le piaccia fino all'estinzione.</i>
+
+185
+00:12:21,240 --> 00:12:22,908
+All'estinzione?
+
+186
+00:12:22,992 --> 00:12:28,205
+Sì, il suo appetito vorace può portarla
+a mangiare quanto il suo stesso peso
+
+187
+00:12:28,289 --> 00:12:30,166
+molte volte in un solo giorno.
+
+188
+00:12:30,249 --> 00:12:34,670
+Ecco perché le formichimera
+sono in quarantena di classe 1.
+
+189
+00:12:34,754 --> 00:12:38,174
+Quindi, se ti mette gli occhi addosso,
+sei spacciato?
+
+190
+00:12:38,257 --> 00:12:40,843
+Dalle dimensioni di quell'artiglio,
+
+191
+00:12:41,343 --> 00:12:43,429
+sarà lunga almeno due metri.
+
+192
+00:12:43,512 --> 00:12:46,724
+Quella cosa potrebbe divorare
+un umano in un attimo.
+
+193
+00:12:51,645 --> 00:12:53,814
+Esatto.
+
+194
+00:13:00,488 --> 00:13:03,199
+Indietro! Andate via!
+
+195
+00:13:03,282 --> 00:13:04,825
+Kurt.
+
+196
+00:13:04,909 --> 00:13:08,162
+- Reina, stai vicino a me.
+- Ok.
+
+197
+00:13:17,004 --> 00:13:18,464
+Beccati questo!
+
+198
+00:13:27,556 --> 00:13:28,974
+Ora va tutto bene.
+
+199
+00:13:29,058 --> 00:13:30,559
+Grazie, Kurt!
+
+200
+00:13:31,060 --> 00:13:32,978
+Puoi contare sul tuo fratellone.
+
+201
+00:13:33,062 --> 00:13:35,147
+Ti terrò sempre al sicuro!
+
+202
+00:13:35,940 --> 00:13:36,774
+Sì!
+
+203
+00:13:37,274 --> 00:13:38,984
+Ok, andiamo a casa.
+
+204
+00:13:44,281 --> 00:13:46,659
+Mio fratello è stato fantastico!
+
+205
+00:13:47,326 --> 00:13:49,203
+C'era un serpentone e lui:
+
+206
+00:13:49,286 --> 00:13:52,957
+"Indietro! Vattene!" Ciaf!
+
+207
+00:13:53,040 --> 00:13:56,126
+Dai, non agitare il cucchiaio.
+
+208
+00:13:56,210 --> 00:13:57,837
+È maleducazione.
+
+209
+00:13:58,420 --> 00:14:00,381
+Ma è ciò che ha fatto.
+
+210
+00:14:00,464 --> 00:14:02,341
+Sì, lo so.
+
+211
+00:14:03,217 --> 00:14:04,385
+È stato coraggioso.
+
+212
+00:14:04,468 --> 00:14:09,974
+Se arriva un grosso serpente, tua madre
+potrebbe aver paura di muoversi.
+
+213
+00:14:10,933 --> 00:14:13,978
+Sei davvero giovanotto, Kurt.
+
+214
+00:14:15,354 --> 00:14:16,522
+Immagino di sì.
+
+215
+00:14:18,399 --> 00:14:22,570
+Hai già nove anni
+e sei un fratellone affidabile.
+
+216
+00:14:23,404 --> 00:14:27,366
+Devi continuare a badare a Reina.
+
+217
+00:14:27,449 --> 00:14:29,994
+Conto su di te, Kurt.
+
+218
+00:14:30,619 --> 00:14:33,080
+Conto su di te, Kurt.
+
+219
+00:14:33,163 --> 00:14:34,623
+Contate pure su di me!
+
+220
+00:14:34,707 --> 00:14:38,627
+Vi terrò entrambe al sicuro per sempre!
+
+221
+00:14:49,597 --> 00:14:52,558
+<i>Queste stanno per schiudersi.</i>
+
+222
+00:15:12,745 --> 00:15:14,997
+<i>Soldati, ascoltatemi!</i>
+
+223
+00:15:15,080 --> 00:15:18,000
+<i>Il mio dovere è dare alla luce il Re.</i>
+
+224
+00:15:18,751 --> 00:15:20,753
+<i>Per dare alla luce un re forte,</i>
+
+225
+00:15:20,836 --> 00:15:25,424
+<i>ho bisogno di grandi quantità</i>
+<i>di cibo altamente nutriente.</i>
+
+226
+00:15:25,507 --> 00:15:28,677
+<i>Cercate di trovare il cibo migliore!</i>
+
+227
+00:15:35,267 --> 00:15:37,561
+<i>Anche quest'area si schiuderà presto.</i>
+
+228
+00:15:38,562 --> 00:15:42,107
+<i>Mi serve un grande nido</i>
+<i>per dare alla luce un re forte.</i>
+
+229
+00:15:42,191 --> 00:15:44,401
+<i>Devo riposare senza le preoccupazioni</i>
+
+230
+00:15:44,485 --> 00:15:47,863
+<i>dei disturbi esterni</i>
+<i>durante la gravidanza.</i>
+
+231
+00:15:50,074 --> 00:15:52,534
+<i>Per dare alla luce un Re forte</i>
+
+232
+00:15:52,618 --> 00:15:55,371
+<i>mi servono soldati forti.</i>
+
+233
+00:16:01,126 --> 00:16:04,213
+- Stai bene?
+- Sì, grazie.
+
+234
+00:16:07,675 --> 00:16:09,718
+- Ehi, Kurt.
+- Sì.
+
+235
+00:16:09,802 --> 00:16:14,223
+Quando sarò grande ti sposerò.
+
+236
+00:16:15,265 --> 00:16:16,266
+Certo.
+
+237
+00:16:16,809 --> 00:16:20,479
+Domani ci svegliamo presto
+e andiamo a pescare al fiume.
+
+238
+00:16:20,562 --> 00:16:21,730
+Sì.
+
+239
+00:16:22,731 --> 00:16:26,735
+Possiamo cucinare del pesce
+e fare una sorpresa a mamma.
+
+240
+00:16:26,819 --> 00:16:29,154
+Non vedo l'ora.
+
+241
+00:16:39,999 --> 00:16:44,753
+- C'è abbastanza pesce per un banchetto.
+- Sì.
+
+242
+00:16:53,220 --> 00:16:55,305
+Kurt.
+
+243
+00:16:58,892 --> 00:17:00,477
+Kurt!
+
+244
+00:17:00,561 --> 00:17:02,646
+Reina, va tutto bene.
+
+245
+00:17:04,648 --> 00:17:06,025
+Io…
+
+246
+00:17:06,108 --> 00:17:09,236
+Tuo fratello maggiore ti proteggerà!
+
+247
+00:17:11,030 --> 00:17:15,743
+L'ho promesso a mamma! Ti terrò al sicuro!
+
+248
+00:17:18,328 --> 00:17:21,373
+Vattene via!
+
+249
+00:17:29,173 --> 00:17:34,386
+<i>È delizioso e molto nutriente.</i>
+
+250
+00:17:34,470 --> 00:17:36,388
+<i>Questo è il cibo per eccellenza.</i>
+
+251
+00:17:37,598 --> 00:17:40,142
+<i>Mi servono altri di questa specie.</i>
+
+252
+00:17:44,104 --> 00:17:47,357
+Sono quelli di cui ho parlato
+al telefono, Gon e Killua.
+
+253
+00:17:47,983 --> 00:17:50,027
+Sono Lin Koshi.
+
+254
+00:17:50,110 --> 00:17:51,528
+Piacere di conoscervi.
+
+255
+00:17:51,612 --> 00:17:53,781
+Mi chiamo Podungo Lapoy.
+
+256
+00:17:53,864 --> 00:17:55,741
+È un piacere avervi con noi.
+
+257
+00:17:55,824 --> 00:17:59,453
+Sono felice di essere qui, Lin, Podungo.
+
+258
+00:17:59,536 --> 00:18:00,746
+Ehi!
+
+259
+00:18:00,829 --> 00:18:02,081
+Mettiamoci al lavoro.
+
+260
+00:18:02,164 --> 00:18:03,916
+Dov'è stata trovata la gamba?
+
+261
+00:18:04,583 --> 00:18:06,627
+È stata trovata sulla spiaggia.
+
+262
+00:18:06,710 --> 00:18:11,715
+Secondo la gente del posto
+è arrivata a riva.
+
+263
+00:18:20,307 --> 00:18:23,018
+C'è una foresta proprio dietro di noi.
+
+264
+00:18:23,769 --> 00:18:26,021
+Sarà difficile trovare la formichimera
+
+265
+00:18:26,105 --> 00:18:27,564
+se scorrazza lì dentro.
+
+266
+00:18:29,650 --> 00:18:32,861
+Non possiamo essere certi
+che sia ancora viva.
+
+267
+00:18:32,945 --> 00:18:38,450
+Non sappiamo nemmeno se è finita
+sull'isola dove hanno trovato la gamba.
+
+268
+00:18:38,951 --> 00:18:40,702
+Scopriamolo.
+
+269
+00:18:44,540 --> 00:18:46,458
+Tieni, ricorda questo profumo.
+
+270
+00:18:48,669 --> 00:18:50,087
+Ti aiuto anch'io!
+
+271
+00:18:50,170 --> 00:18:51,338
+Come?
+
+272
+00:18:52,756 --> 00:18:55,259
+Ha il naso affinato
+come quello di un cane.
+
+273
+00:19:13,735 --> 00:19:15,863
+Non trova niente.
+
+274
+00:19:16,363 --> 00:19:18,740
+L'odore potrebbe essere scomparso.
+
+275
+00:19:18,824 --> 00:19:20,993
+Pioveva.
+
+276
+00:19:21,076 --> 00:19:22,703
+Neanch'io ho trovato nulla.
+
+277
+00:19:22,786 --> 00:19:24,872
+Allora la formichimera non è qui.
+
+278
+00:19:25,873 --> 00:19:29,710
+Potrebbe essersi arenata altrove.
+
+279
+00:19:30,919 --> 00:19:33,046
+In che direzione scorre la corrente?
+
+280
+00:19:33,755 --> 00:19:35,090
+È complicato.
+
+281
+00:19:35,174 --> 00:19:37,801
+La direzione è invertita
+tra giorno e notte.
+
+282
+00:19:37,885 --> 00:19:39,761
+E cambia anche con le stagioni.
+
+283
+00:19:39,845 --> 00:19:41,847
+Pare che certi giorni sia diverso.
+
+284
+00:19:43,473 --> 00:19:46,727
+Quindi sarà difficile
+individuare un luogo.
+
+285
+00:19:46,810 --> 00:19:48,645
+È troppo presto per arrendersi.
+
+286
+00:19:48,729 --> 00:19:50,772
+Dividiamoci e cerchiamo.
+
+287
+00:19:50,856 --> 00:19:51,815
+Hai ragione.
+
+288
+00:20:07,497 --> 00:20:09,041
+Niente novità.
+
+289
+00:20:09,124 --> 00:20:11,627
+Continuare a cercare alla cieca è inutile.
+
+290
+00:20:12,336 --> 00:20:14,171
+Torniamo a Yorknew City.
+
+291
+00:20:14,254 --> 00:20:18,425
+Potremmo trovare una nuova pista.
+
+292
+00:20:31,772 --> 00:20:35,025
+<i>La sua lunghezza è di almeno due metri.</i>
+
+293
+00:20:35,776 --> 00:20:38,946
+<i>Quella cosa potrebbe divorare</i>
+<i>un umano in un attimo.</i>
+
+294
+00:20:39,947 --> 00:20:44,368
+<i>Un appetito vorace. Fagogenesi.</i>
+
+295
+00:21:02,970 --> 00:21:03,845
+<i>Maestà.</i>
+
+296
+00:21:05,931 --> 00:21:07,349
+<i>Sai parlare?</i>
+
+297
+00:21:08,100 --> 00:21:13,438
+<i>Affinché io possa ricevere,</i>
+<i>comprendere ed eseguire i vostri ordini.</i>
+
+298
+00:21:13,522 --> 00:21:15,315
+<i>Ne sono lieta.</i>
+
+299
+00:21:16,024 --> 00:21:19,611
+<i>Ti nomino capo squadriglia.</i>
+
+300
+00:21:20,320 --> 00:21:21,613
+<i>Le sono molto grato.</i>
+
+301
+00:21:21,697 --> 00:21:23,365
+<i>Ho già una missione per te.</i>
+
+302
+00:21:23,448 --> 00:21:28,453
+<i>Guida tutti i soldati in missione</i>
+<i>per procurarmi il cibo.</i>
+
+303
+00:21:29,371 --> 00:21:33,750
+<i>Cattura altri organismi</i>
+<i>altamente nutrienti per me.</i>
+
+304
+00:21:33,834 --> 00:21:34,960
+<i>Subito!</i>
+
+305
+00:21:46,054 --> 00:21:50,392
+<i>Una formichimera è nata con geni umani.</i>
+
+306
+00:21:50,976 --> 00:21:55,689
+<i>Le peggiori paure di Kite</i>
+<i>si sono avverate.</i>
+
+307
+00:23:21,566 --> 00:23:23,944
+<i>Prossimo episodio:</i>
+<i>"Riproduzione rapida."</i>
+
+308
+00:23:24,027 --> 00:23:26,071
+<i>Mi chiamo Gon Freecss!</i>
+
+309
+00:23:26,154 --> 00:23:27,656
+<i>Mi chiamo Killua Zoldyck!</i>
+
+310
+00:23:28,198 --> 00:23:29,491
+Come ti chiami?

@@ -1,0 +1,1025 @@
+1
+00:00:00,625 --> 00:00:02,877
+<i>Perché ho questo brutto presentimento?</i>
+
+2
+00:00:04,379 --> 00:00:06,381
+<i>Sento che mi sfugge qualcosa.</i>
+
+3
+00:00:13,388 --> 00:00:16,891
+<i>C'è un'ansia che non va via.</i>
+
+4
+00:00:18,143 --> 00:00:21,896
+SCRITTO DA YOSHIHIRO TOGASH
+
+5
+00:01:36,346 --> 00:01:40,809
+{\an8}RISVEGLIO DEL DESTINO
+
+6
+00:01:46,815 --> 00:01:51,903
+<i>Kite, Gon e Killua si sono occupati</i>
+<i>dei soldati di Hagya.</i>
+
+7
+00:01:51,986 --> 00:01:57,826
+<i>Mentre si addentrano in NGL alla ricerca</i>
+<i>del nido delle formichimere,</i>
+
+8
+00:01:58,827 --> 00:02:01,329
+<i>nel castello della Regina,</i>
+
+9
+00:02:01,412 --> 00:02:05,416
+<i>una delle future</i>
+
+10
+00:02:05,500 --> 00:02:09,003
+<i>Tre Guardie Reali</i>
+
+11
+00:02:09,087 --> 00:02:13,299
+<i>sta per risvegliarsi.</i>
+
+12
+00:02:20,473 --> 00:02:24,394
+Che tipo di magia hanno usato?
+
+13
+00:02:24,477 --> 00:02:27,814
+Erano tutti divisi a metà.
+
+14
+00:02:27,897 --> 00:02:29,357
+Notevole.
+
+15
+00:02:30,859 --> 00:02:32,485
+Sembra quasi che sia stato
+
+16
+00:02:32,569 --> 00:02:35,864
+schiacciato da un sasso
+o da un altro oggetto duro.
+
+17
+00:02:35,947 --> 00:02:39,617
+E Baro è quello con un guscio di ferro.
+
+18
+00:02:39,701 --> 00:02:42,120
+Questo è il raro potere degli umani.
+
+19
+00:02:42,203 --> 00:02:43,872
+Sei preoccupato?
+
+20
+00:02:44,956 --> 00:02:48,042
+Il sangue del re della giungla
+scorre nelle mie vene.
+
+21
+00:02:48,126 --> 00:02:50,795
+Pochi umani non possono spaventarmi.
+
+22
+00:02:50,879 --> 00:02:52,422
+Naturalmente.
+
+23
+00:02:53,506 --> 00:02:54,549
+Che sollievo.
+
+24
+00:02:54,632 --> 00:02:58,094
+Pensavo che mi sarei perso
+il banchetto di stasera.
+
+25
+00:02:58,178 --> 00:03:01,806
+Devono essere esseri umani
+estremamente rari.
+
+26
+00:03:01,890 --> 00:03:06,352
+Li faremo a pezzi e li ingoieremo!
+
+27
+00:03:19,199 --> 00:03:20,533
+Ci stanno seguendo.
+
+28
+00:03:22,076 --> 00:03:23,119
+Non da lì.
+
+29
+00:03:26,748 --> 00:03:28,416
+Ce ne sono parecchi.
+
+30
+00:03:30,543 --> 00:03:31,711
+<i>Ascoltatemi.</i>
+
+31
+00:03:31,794 --> 00:03:36,299
+<i>Il vostro compito è distrarre il nemico</i>
+<i>mentre attaccate da lontano.</i>
+
+32
+00:03:36,382 --> 00:03:38,092
+<i>Non avvicinatevi troppo.</i>
+
+33
+00:03:38,843 --> 00:03:40,845
+<i>Il 2° Plotone prenderà la destra,</i>
+
+34
+00:03:40,929 --> 00:03:43,848
+<i>mentre il 3° Plotone</i>
+<i>li prenderà da sinistra.</i>
+
+35
+00:03:44,849 --> 00:03:49,354
+<i>Il mio primo plotone li intrappolerà,</i>
+<i>impedendo loro una ritirata.</i>
+
+36
+00:03:49,437 --> 00:03:50,355
+<i>Andate!</i>
+
+37
+00:04:02,659 --> 00:04:06,162
+<i>Io e Gon non li abbiamo notati.</i>
+
+38
+00:04:06,246 --> 00:04:08,373
+Vengono da sinistra e da destra.
+
+39
+00:04:09,582 --> 00:04:10,959
+Tenete alta la guardia.
+
+40
+00:04:31,062 --> 00:04:32,730
+Diamine.
+
+41
+00:04:32,814 --> 00:04:35,608
+- Gli alberi sono d'intralcio.
+- Sì.
+
+42
+00:04:35,692 --> 00:04:38,736
+Non dovremmo andarcene dalla foresta?
+
+43
+00:04:42,115 --> 00:04:43,825
+Questa è una trappola.
+
+44
+00:04:45,785 --> 00:04:48,663
+<i>Ok, continuate così.</i>
+
+45
+00:04:49,789 --> 00:04:53,251
+<i>Hagya, sta andando tutto secondo i piani.</i>
+
+46
+00:05:00,842 --> 00:05:02,635
+Ottimo lavoro, Flutter.
+
+47
+00:05:06,222 --> 00:05:08,975
+Quando i plotoni porteranno qui le prede
+
+48
+00:05:09,058 --> 00:05:11,769
+un colpo con le mie zanne li ucciderà.
+
+49
+00:05:11,853 --> 00:05:14,897
+- Qualcosa non va.
+- Come?
+
+50
+00:05:14,981 --> 00:05:17,900
+Hai ordinato a Flutter
+di inseguire la preda,
+
+51
+00:05:17,984 --> 00:05:20,486
+mentre tu, nascosto nell'erba,
+tendi un'imboscata.
+
+52
+00:05:20,570 --> 00:05:22,447
+È un po' patetico.
+
+53
+00:05:23,740 --> 00:05:26,284
+Non sei il re della giungla?
+
+54
+00:05:26,367 --> 00:05:30,913
+Un re dovrebbe affrontare la sua preda,
+piuttosto che nascondersi.
+
+55
+00:05:30,997 --> 00:05:35,293
+Salta fuori e ruggisci contro di loro.
+
+56
+00:05:35,376 --> 00:05:38,129
+È molto più fico.
+
+57
+00:05:38,212 --> 00:05:39,630
+Ma sai…
+
+58
+00:05:39,714 --> 00:05:43,634
+È così che caccia il re della giungla.
+
+59
+00:05:43,718 --> 00:05:47,013
+- Taci e osserva!
+- Sì.
+
+60
+00:05:47,096 --> 00:05:51,726
+Beh, non m'importa,
+basta che mangi gli umani rari.
+
+61
+00:05:56,731 --> 00:06:00,109
+Umani rari? Cosa sono?
+
+62
+00:06:00,777 --> 00:06:02,987
+Ti spiego i dettagli dopo.
+
+63
+00:06:03,071 --> 00:06:05,031
+Il suo numero è 4-933.
+
+64
+00:06:05,114 --> 00:06:08,451
+È stato catturato e portato
+dallo squadrone di Zazan.
+
+65
+00:06:08,534 --> 00:06:10,953
+Numero 4-933…
+
+66
+00:06:11,037 --> 00:06:13,081
+Non mi dice nulla.
+
+67
+00:06:13,164 --> 00:06:15,416
+L'avranno dato alla Regina.
+
+68
+00:06:15,500 --> 00:06:20,380
+Il suo appetito è ancora
+più insaziabile di questi tempi.
+
+69
+00:06:20,463 --> 00:06:23,383
+Darà alla luce un re incredibile.
+
+70
+00:06:24,258 --> 00:06:25,176
+Non l'ho visto.
+
+71
+00:06:25,259 --> 00:06:27,845
+Dev'essere già nella pancia della Regina.
+
+72
+00:06:27,929 --> 00:06:31,349
+- Ne sei sicuro?
+- Non è qui.
+
+73
+00:06:31,432 --> 00:06:33,851
+Dove dovrebbe essere?
+
+74
+00:06:33,935 --> 00:06:36,020
+Potrebbe essere scappato?
+
+75
+00:06:36,854 --> 00:06:39,482
+Ogni creatura avvelenata
+dalla nostra tossina
+
+76
+00:06:39,565 --> 00:06:41,901
+resterà paralizzata per almeno un mese.
+
+77
+00:06:41,984 --> 00:06:44,904
+Dopo soli tre giorni,
+non riusciva a muoversi.
+
+78
+00:06:44,987 --> 00:06:48,157
+Non puoi esserne certo con quelli rari.
+
+79
+00:06:48,241 --> 00:06:51,244
+Non sono come gli umani normali.
+
+80
+00:06:51,327 --> 00:06:54,914
+Ormai dovresti saperlo.
+
+81
+00:06:55,623 --> 00:06:59,001
+Non sono più la persona che ero.
+
+82
+00:07:00,628 --> 00:07:02,713
+La prossima volta che li vedrò,
+
+83
+00:07:02,797 --> 00:07:08,594
+li distruggerò,
+li farò a pezzi e li mangerò.
+
+84
+00:07:12,682 --> 00:07:16,185
+<i>L'antidoto che ho nascosto</i>
+<i>nel mio dente mi è tornato utile.</i>
+
+85
+00:07:16,269 --> 00:07:19,230
+<i>Ma riuscivo a malapena</i>
+<i>a trascinarmi per terra.</i>
+
+86
+00:07:19,313 --> 00:07:22,608
+<i>Per ora, dovrò nascondermi qui.</i>
+
+87
+00:07:23,818 --> 00:07:26,779
+<i>Ma che succede?</i>
+
+88
+00:07:26,863 --> 00:07:29,240
+<i>Come può una formichimera usare il Nen?</i>
+
+89
+00:07:30,867 --> 00:07:33,327
+Puoi controllare di nuovo?
+
+90
+00:07:33,411 --> 00:07:35,496
+Dai, piantala.
+
+91
+00:07:36,038 --> 00:07:38,374
+Ho già abbastanza da fare.
+
+92
+00:07:38,458 --> 00:07:42,753
+Non mi hai sentito dire
+che la Regina ha molto appetito ora?
+
+93
+00:07:43,337 --> 00:07:46,174
+Lo so bene.
+
+94
+00:07:46,257 --> 00:07:48,968
+Non so niente di queste cose "rare",
+
+95
+00:07:49,051 --> 00:07:51,554
+ma perché ne sei così ossessionato?
+
+96
+00:07:51,637 --> 00:07:53,890
+Vorrei farle qualche domanda.
+
+97
+00:07:54,390 --> 00:07:59,395
+Non vedi la luce
+che circonda il suo corpo?
+
+98
+00:07:59,979 --> 00:08:01,731
+Luce?
+
+99
+00:08:02,315 --> 00:08:03,858
+No, non vedo niente.
+
+100
+00:08:04,442 --> 00:08:05,818
+Capisco.
+
+101
+00:08:05,902 --> 00:08:09,780
+Allora è vero che solo alcuni
+possono identificare questo potere.
+
+102
+00:08:09,864 --> 00:08:11,657
+Significa che è un talento.
+
+103
+00:08:14,035 --> 00:08:15,495
+<i>Esatto.</i>
+
+104
+00:08:15,578 --> 00:08:19,457
+<i>Questo talento è il mio destino,</i>
+<i>donatomi dal cielo.</i>
+
+105
+00:08:19,540 --> 00:08:22,293
+<i>Il potere dei prescelti.</i>
+
+106
+00:08:22,376 --> 00:08:27,882
+<i>Se padroneggio questo potere,</i>
+<i>posso diventare il re!</i>
+
+107
+00:08:29,050 --> 00:08:30,551
+<i>Sarò il Re!</i>
+
+108
+00:08:54,116 --> 00:08:56,369
+<i>Ritirata!</i>
+
+109
+00:08:57,620 --> 00:08:58,955
+<i>Che succede, Flutter?</i>
+
+110
+00:09:11,884 --> 00:09:13,261
+Cos'è?
+
+111
+00:09:57,138 --> 00:09:58,556
+È bellissimo!
+
+112
+00:09:59,098 --> 00:10:00,641
+Andiamo via.
+
+113
+00:10:01,809 --> 00:10:03,269
+E il banchetto?
+
+114
+00:10:22,371 --> 00:10:25,291
+Riuscì a capire
+di essere stato surclassato
+
+115
+00:10:25,374 --> 00:10:27,877
+e si ritirò immediatamente.
+
+116
+00:10:28,919 --> 00:10:31,714
+Molto probabilmente,
+era un capo squadrone.
+
+117
+00:10:37,386 --> 00:10:40,181
+<i>Ho sempre creduto che il mondo girasse</i>
+
+118
+00:10:41,974 --> 00:10:45,269
+<i>intorno ai miei artigli e alle mie zanne.</i>
+
+119
+00:10:45,978 --> 00:10:48,689
+<i>Che brandendoli,</i>
+
+120
+00:10:48,773 --> 00:10:52,193
+<i>potessi togliere la vita</i>
+<i>a qualsiasi altra creatura</i>
+
+121
+00:10:52,902 --> 00:10:56,489
+<i>e soddisfare sempre la mia fame.</i>
+
+122
+00:10:56,572 --> 00:10:59,408
+<i>E che ero davvero fortunato.</i>
+
+123
+00:11:02,078 --> 00:11:05,456
+<i>Ma non era così.</i>
+
+124
+00:11:05,539 --> 00:11:10,503
+<i>Altri erano più forti,</i>
+<i>quindi non avrei mai potuto governare.</i>
+
+125
+00:11:11,003 --> 00:11:13,714
+<i>La morte mi ha insegnato questa lezione.</i>
+
+126
+00:11:13,798 --> 00:11:16,092
+<i>Ma ora sono più forte.</i>
+
+127
+00:11:29,689 --> 00:11:33,484
+Al momento, potremmo non essere
+abbastanza forti da sconfiggerli.
+
+128
+00:11:36,237 --> 00:11:40,950
+Ma ora abbiamo la capacità di imparare.
+
+129
+00:11:47,665 --> 00:11:49,125
+Li stiamo seguendo.
+
+130
+00:11:50,167 --> 00:11:52,086
+Il loro nido dev'essere vicino.
+
+131
+00:11:53,337 --> 00:11:56,632
+Se li seguiamo, troveremo la Regina.
+
+132
+00:12:13,023 --> 00:12:14,442
+Cos'è?
+
+133
+00:12:16,193 --> 00:12:18,988
+Sta arrivando qualcosa!
+
+134
+00:12:33,961 --> 00:12:36,714
+È stata una conversazione affascinante.
+
+135
+00:12:37,381 --> 00:12:39,842
+Hai parlato di talento.
+
+136
+00:12:41,886 --> 00:12:45,055
+Permettimi di partecipare.
+
+137
+00:12:51,395 --> 00:12:55,900
+Una delle Guardie Reali della Regina!
+
+138
+00:12:59,779 --> 00:13:05,159
+<i>Se padroneggio questo potere,</i>
+<i>posso diventare il re!</i>
+
+139
+00:13:06,368 --> 00:13:08,412
+<i>Sarò il Re!</i>
+
+140
+00:13:12,041 --> 00:13:16,420
+<i>Un sogno breve e sciocco.</i>
+
+141
+00:13:35,397 --> 00:13:37,107
+<i>Mi ha totalmente surclassato.</i>
+
+142
+00:13:41,779 --> 00:13:46,992
+<i>Non potrò mai sfuggire</i>
+<i>alla posizione in cui sono nato.</i>
+
+143
+00:14:05,094 --> 00:14:06,846
+Puoi rilassarti.
+
+144
+00:14:09,974 --> 00:14:11,851
+Parliamo laggiù.
+
+145
+00:14:14,270 --> 00:14:15,479
+Sì!
+
+146
+00:14:17,773 --> 00:14:21,193
+<i>Questo potere non è per me.</i>
+
+147
+00:14:21,986 --> 00:14:23,612
+<i>Ma per questa Guardia Reale</i>
+
+148
+00:14:24,530 --> 00:14:27,491
+<i>e per il Re che serve!</i>
+
+149
+00:14:29,535 --> 00:14:31,745
+<i>Questo potere è per servirli!</i>
+
+150
+00:14:43,299 --> 00:14:44,842
+<i>Impossibile.</i>
+
+151
+00:14:46,927 --> 00:14:52,516
+<i>Cos'è quell'aura malvagia?</i>
+
+152
+00:14:58,355 --> 00:15:00,399
+- A proposito…
+- Sì?
+
+153
+00:15:01,442 --> 00:15:04,862
+Perché sotto quelle ossa
+c'è un umano vivo?
+
+154
+00:15:40,022 --> 00:15:41,065
+Capisco.
+
+155
+00:15:42,107 --> 00:15:44,151
+Cosa leggi?
+
+156
+00:15:44,234 --> 00:15:47,655
+Sto imparando qualcosa
+su quei rari umani di cui parlavi.
+
+157
+00:15:47,738 --> 00:15:52,534
+Ho provato a studiarli molte volte,
+ma non era scritto in nessun libro.
+
+158
+00:15:52,618 --> 00:15:56,163
+Chiedere a uno di loro
+è più veloce che sfogliare i libri.
+
+159
+00:15:56,705 --> 00:16:00,459
+Non era per questo che lo cercavi?
+
+160
+00:16:00,542 --> 00:16:03,337
+Proprio così.
+
+161
+00:16:03,420 --> 00:16:04,797
+Ci siamo.
+
+162
+00:16:06,048 --> 00:16:07,591
+Capisco.
+
+163
+00:16:07,675 --> 00:16:12,471
+"I nuovi ricordi
+sono immagazzinati nell'ippocampo,
+
+164
+00:16:12,554 --> 00:16:15,933
+mentre i vecchi sono conservati
+nella corteccia cerebrale.
+
+165
+00:16:16,517 --> 00:16:18,686
+Per evocare quei ricordi…"
+
+166
+00:16:20,479 --> 00:16:22,022
+Capisco.
+
+167
+00:16:26,485 --> 00:16:28,320
+Tu. Vieni qui.
+
+168
+00:16:39,873 --> 00:16:44,712
+<i>Lo Hatsu è una tecnica</i>
+<i>per manipolare l'aura a piacimento.</i>
+
+169
+00:16:46,714 --> 00:16:49,925
+<i>Per riassumere le categorie</i>
+<i>di utilizzatori di Nen…</i>
+
+170
+00:16:50,759 --> 00:16:54,138
+<i>Ci sono Potenziatori…</i>
+
+171
+00:16:55,681 --> 00:16:57,391
+<i>Trasformatori…</i>
+
+172
+00:16:58,017 --> 00:16:59,727
+<i>Materializzatori…</i>
+
+173
+00:17:00,853 --> 00:17:01,979
+<i>Emettitori…</i>
+
+174
+00:17:02,938 --> 00:17:04,356
+<i>Manipolatori…</i>
+
+175
+00:17:05,774 --> 00:17:07,234
+<i>e gli Specialisti.</i>
+
+176
+00:17:07,317 --> 00:17:11,405
+<i>Ci sono sei categorie.</i>
+
+177
+00:17:14,533 --> 00:17:15,576
+Categorie?
+
+178
+00:17:20,706 --> 00:17:24,626
+Ogni utilizzatore di Nen
+appartiene a uno di questi.
+
+179
+00:17:26,962 --> 00:17:29,214
+Volete aumentare la quantità di aura,
+
+180
+00:17:30,340 --> 00:17:33,302
+così come la velocità del suo flusso.
+
+181
+00:17:35,971 --> 00:17:41,769
+La maggior parte dell'addestramento
+di base sarà dedicato a questi compiti.
+
+182
+00:17:43,979 --> 00:17:47,691
+In una battaglia tra utilizzatori di Nen,
+
+183
+00:17:49,401 --> 00:17:51,779
+Questi sono i fattori che…
+
+184
+00:17:53,155 --> 00:17:54,114
+Che…
+
+185
+00:17:58,786 --> 00:18:01,663
+sono fondamentali
+
+186
+00:18:02,247 --> 00:18:05,751
+nel determinare il vincitore.
+
+187
+00:18:06,585 --> 00:18:08,337
+Capisco.
+
+188
+00:18:09,379 --> 00:18:16,303
+Oltre alle abilità di base
+di Nen, Zetsu e Ren,
+
+189
+00:18:19,306 --> 00:18:23,560
+ci sono anche tecniche uniche
+che riflettono l'individualità
+
+190
+00:18:24,561 --> 00:18:27,481
+di chi usa i Nen.
+
+191
+00:18:30,317 --> 00:18:32,820
+Se sviluppi una tecnica che si sincronizza
+
+192
+00:18:32,903 --> 00:18:34,446
+con stile e categoria Nen,
+
+193
+00:18:37,449 --> 00:18:41,954
+la manifestazione della tua abilità
+ha maggiori chance di essere più forte.
+
+194
+00:18:47,251 --> 00:18:51,380
+E come si fa a identificare
+a quale categoria Nen appartieni?
+
+195
+00:18:53,507 --> 00:18:55,008
+Test dell'acqua.
+
+196
+00:18:55,884 --> 00:19:02,599
+È il metodo più semplice e più usato.
+
+197
+00:19:05,978 --> 00:19:07,396
+Test dell'acqua?
+
+198
+00:19:16,029 --> 00:19:18,448
+Provaci, Rammot.
+
+199
+00:19:18,532 --> 00:19:19,825
+Ok.
+
+200
+00:19:33,755 --> 00:19:36,800
+Visto che l'acqua è straripante,
+
+201
+00:19:36,884 --> 00:19:38,385
+sei un Potenziatore.
+
+202
+00:19:38,468 --> 00:19:39,761
+Un Potenziatore?
+
+203
+00:19:39,845 --> 00:19:45,225
+Questo conferma che Rammot fa uso di Nen?
+
+204
+00:19:45,309 --> 00:19:46,560
+Sembra di sì.
+
+205
+00:19:48,020 --> 00:19:48,896
+Sì.
+
+206
+00:19:49,688 --> 00:19:53,150
+Non hai detto che hai combattuto
+con un umano raro?
+
+207
+00:19:53,233 --> 00:19:54,860
+Sì.
+
+208
+00:19:55,611 --> 00:19:59,072
+L'impatto del suo attacco
+ha aperto i tuoi pori…
+
+209
+00:19:59,156 --> 00:20:01,491
+- e ha liberato la tua aura.
+- Pori?
+
+210
+00:20:03,911 --> 00:20:07,247
+<i>A quanto pare,</i>
+<i>sono piccoli fori su tutto il corpo.</i>
+
+211
+00:20:07,789 --> 00:20:10,834
+<i>Se sono sigillati,</i>
+<i>l'aura non può essere rilasciata.</i>
+
+212
+00:20:11,543 --> 00:20:13,128
+<i>Capisco.</i>
+
+213
+00:20:13,754 --> 00:20:16,882
+<i>Colt pensava anche</i>
+<i>che il cambiamento di Rammot</i>
+
+214
+00:20:16,965 --> 00:20:20,344
+<i>fosse dovuto alla sua lotta</i>
+<i>con gli umani rari.</i>
+
+215
+00:20:21,220 --> 00:20:23,639
+<i>Sembra che avesse ragione.</i>
+
+216
+00:20:24,640 --> 00:20:27,643
+Quindi, se Rammot
+è un utilizzatore di Nen adesso,
+
+217
+00:20:27,726 --> 00:20:31,063
+possiamo usarlo
+per aprire i pori di tutti?
+
+218
+00:20:31,563 --> 00:20:33,649
+Certo, suona bene.
+
+219
+00:20:35,067 --> 00:20:38,278
+Credo che ci proverò.
+
+220
+00:20:50,123 --> 00:20:51,750
+La foglia appassisce.
+
+221
+00:20:52,501 --> 00:20:56,505
+<i>Incredibile.</i>
+<i>Uno di noi è nato con l'abilità Nen</i>
+
+222
+00:20:57,547 --> 00:20:59,925
+<i>senza dover combattere un umano raro!</i>
+
+223
+00:21:01,510 --> 00:21:05,597
+Allora, Comandante,
+questo fa di lei uno specialista
+
+224
+00:21:05,681 --> 00:21:09,017
+che non appartiene a un'altra categoria?
+
+225
+00:21:09,810 --> 00:21:11,270
+Neferpitou.
+
+226
+00:21:11,353 --> 00:21:12,229
+Come?
+
+227
+00:21:12,312 --> 00:21:15,148
+È il nome che mi ha dato la Regina.
+
+228
+00:21:16,358 --> 00:21:19,236
+D'ora in poi, chiamami Neferpitou.
+
+229
+00:21:20,112 --> 00:21:21,488
+- Ok.
+- Ok.
+
+230
+00:21:21,571 --> 00:21:23,365
+Non mi serve più.
+
+231
+00:21:23,448 --> 00:21:25,200
+Dallo in pasto alla Regina.
+
+232
+00:21:25,284 --> 00:21:26,285
+- Ok.
+- Ok.
+
+233
+00:21:40,507 --> 00:21:45,470
+<i>Fin dalla nascita, Neferpitou</i>
+<i>possedeva già un potere incredibile.</i>
+
+234
+00:21:46,471 --> 00:21:51,143
+<i>Questa presenza</i>
+<i>getta un'ombra oscura sul destino</i>
+
+235
+00:21:51,226 --> 00:21:53,645
+<i>di Gon e dei suoi amici.</i>
+
+236
+00:23:18,688 --> 00:23:20,941
+<i>Prossimo episodio. "Luce e Oscurità."</i>
+
+237
+00:23:22,984 --> 00:23:24,694
+<i>Svegliati! Forza, è mattina.</i>
+
+238
+00:23:24,778 --> 00:23:26,405
+<i>Sono le 10:55.</i>
+
+239
+00:23:26,488 --> 00:23:28,156
+<i>Ti ammazzo!</i>
+
+240
+00:23:28,240 --> 00:23:29,783
+Sottotitoli: Paolo Manieri

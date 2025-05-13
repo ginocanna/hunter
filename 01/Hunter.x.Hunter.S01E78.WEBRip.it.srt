@@ -1,0 +1,1326 @@
+1
+00:00:01,251 --> 00:00:04,212
+<i>Guida tutti i soldati in missione</i>
+
+2
+00:00:04,295 --> 00:00:06,464
+<i>per procurarmi il cibo.</i>
+
+3
+00:00:06,548 --> 00:00:10,969
+<i>Catturare altri organismi</i>
+<i>altamente nutrienti per me.</i>
+
+4
+00:00:11,052 --> 00:00:11,970
+<i>Subito!</i>
+
+5
+00:00:15,223 --> 00:00:18,977
+SCRITTO DA YOSHIHIRO TOGASHI
+
+6
+00:01:33,510 --> 00:01:37,972
+{\an8}RIPRODUZIONE RAPIDA
+
+7
+00:01:39,808 --> 00:01:43,269
+<i>Insetti in quarantena di prima classe</i>
+
+8
+00:01:43,353 --> 00:01:47,273
+<i>e insaziabili carnivori,</i>
+<i>sono le formichimere.</i>
+
+9
+00:01:47,357 --> 00:01:51,694
+<i>Una volta che si sono evolute</i>
+<i>oltre i due metri di lunghezza,</i>
+
+10
+00:01:51,778 --> 00:01:53,905
+<i>gli umani non hanno più possibilità.</i>
+
+11
+00:02:06,751 --> 00:02:08,795
+Ehi, cos'è quella<i>?</i>
+
+12
+00:02:16,386 --> 00:02:17,512
+Mostri!
+
+13
+00:02:18,555 --> 00:02:19,681
+<i>Ascoltatemi bene!</i>
+
+14
+00:02:19,764 --> 00:02:22,976
+<i>Puntate agli adulti.</i>
+<i>Forniranno il massimo nutrimento.</i>
+
+15
+00:02:23,059 --> 00:02:23,935
+<i>Ora andate!</i>
+
+16
+00:02:57,135 --> 00:02:58,845
+<i>Una formichimera regina</i>
+
+17
+00:02:58,928 --> 00:03:02,265
+<i>si sposta</i>
+<i>finché non trova un posto che le piace.</i>
+
+18
+00:03:02,348 --> 00:03:08,021
+<i>E intanto dà alla luce altre formiche</i>
+<i>soldato per formare il suo esercito.</i>
+
+19
+00:03:09,480 --> 00:03:11,191
+<i>Una volta scelta la location,</i>
+
+20
+00:03:11,274 --> 00:03:13,526
+<i>partorisce molte formiche carpentiere</i>
+
+21
+00:03:13,610 --> 00:03:16,362
+<i>che realizzano il suo castello</i>
+<i>a gran velocità.</i>
+
+22
+00:03:16,446 --> 00:03:20,575
+<i>Da quel momento in poi, la Regina</i>
+<i>rimane nel castello fino alla morte.</i>
+
+23
+00:03:22,660 --> 00:03:27,332
+<i>Quindi, se una regina cresce</i>
+<i>fino ai due metri,</i>
+
+24
+00:03:27,415 --> 00:03:29,751
+<i>e prende di mira gli umani,</i>
+
+25
+00:03:29,834 --> 00:03:35,423
+<i>dovrebbero esserci interi villaggi</i>
+<i>con persone scomparse.</i>
+
+26
+00:03:37,300 --> 00:03:38,551
+Non trovo niente.
+
+27
+00:03:38,635 --> 00:03:41,554
+Ho controllato gli ultimi sei mesi
+
+28
+00:03:41,638 --> 00:03:44,098
+e il gruppo più numeroso era di dieci.
+
+29
+00:03:44,182 --> 00:03:47,602
+Possiamo cercare
+le persone scomparse individualmente?
+
+30
+00:03:47,685 --> 00:03:49,312
+Non dire sciocchezze.
+
+31
+00:03:49,395 --> 00:03:52,941
+Sai quante persone scompaiono nel mondo?
+
+32
+00:03:53,024 --> 00:03:57,028
+Dovremmo essere in grado di vedere
+quali sono le aree più popolate.
+
+33
+00:03:57,111 --> 00:03:58,988
+Beh…
+
+34
+00:03:59,697 --> 00:04:02,283
+Non va bene.
+I dati sono vecchi di due anni.
+
+35
+00:04:03,243 --> 00:04:06,037
+Forse dovremmo iniziare
+dagli avvistamenti.
+
+36
+00:04:06,120 --> 00:04:08,081
+Chiunque veda un insetto di due metri,
+
+37
+00:04:08,164 --> 00:04:09,582
+farebbe un gran casino.
+
+38
+00:04:09,666 --> 00:04:11,292
+Ci abbiamo già provato.
+
+39
+00:04:11,376 --> 00:04:14,170
+Non abbiamo trovato nulla.
+
+40
+00:04:14,254 --> 00:04:17,006
+Forse ci stiamo agitando per niente.
+
+41
+00:04:17,090 --> 00:04:18,800
+Sì.
+
+42
+00:04:19,884 --> 00:04:23,972
+Metti i dati delle maree del giorno
+in cui è stato trovato il braccio.
+
+43
+00:04:25,348 --> 00:04:28,309
+{\an8}Il braccio è stato scoperto qui.
+
+44
+00:04:30,144 --> 00:04:32,939
+Torna indietro di dieci giorni.
+
+45
+00:04:33,022 --> 00:04:34,816
+Localizza le correnti
+
+46
+00:04:34,899 --> 00:04:38,945
+che potrebbero aver portato
+il braccio in quel punto.
+
+47
+00:04:39,028 --> 00:04:40,905
+Cosa vuoi dire?
+
+48
+00:04:40,989 --> 00:04:43,491
+È possibile che il braccio
+
+49
+00:04:43,574 --> 00:04:47,120
+sia stato reciso
+dopo l'atterraggio della Formichimera.
+
+50
+00:04:47,203 --> 00:04:48,955
+Ha senso.
+
+51
+00:04:52,125 --> 00:04:54,836
+Potrebbe provenire
+da qualsiasi isola di Balsa.
+
+52
+00:04:54,919 --> 00:04:58,047
+Compresa l'Unione Mitene.
+
+53
+00:04:58,548 --> 00:05:00,341
+L'Unione di Mitene…
+
+54
+00:05:00,425 --> 00:05:03,261
+È dove si trova
+la regione autonoma di NGL.
+
+55
+00:05:03,344 --> 00:05:06,597
+Sì, così come East Gorteau.
+
+56
+00:05:06,681 --> 00:05:10,059
+Non puoi ottenere informazioni
+da quei due paesi.
+
+57
+00:05:10,143 --> 00:05:11,019
+Cos'è NGL?
+
+58
+00:05:11,102 --> 00:05:14,355
+È un acronimo che sta per Neo Green Life.
+
+59
+00:05:14,439 --> 00:05:17,984
+È un paese fondato da gente
+che voleva vivere nella natura
+
+60
+00:05:18,067 --> 00:05:20,653
+e lontano dalla civiltà delle macchine.
+
+61
+00:05:20,737 --> 00:05:21,863
+Ecco.
+
+62
+00:05:22,488 --> 00:05:23,865
+UNIONE MITENE
+
+63
+00:05:23,948 --> 00:05:26,409
+Comunicano principalmente per lettera.
+
+64
+00:05:26,492 --> 00:05:29,120
+Il mezzo di trasporto primario
+è il cavallo.
+
+65
+00:05:29,203 --> 00:05:33,166
+Chiunque introduca la tecnologia nel paese
+è soggetto a esecuzione.
+
+66
+00:05:33,791 --> 00:05:34,959
+Nel 1987,
+
+67
+00:05:35,043 --> 00:05:38,671
+una troupe televisiva di tre uomini
+è stata catturata.
+
+68
+00:05:38,755 --> 00:05:42,175
+Uno è stato giustiziato
+e gli altri due sono in prigione.
+
+69
+00:05:42,717 --> 00:05:44,802
+Dei suoi 2,17 milioni di abitanti
+
+70
+00:05:44,886 --> 00:05:48,139
+il 99% appartiene
+al partito Neo-Green Life,
+
+71
+00:05:48,222 --> 00:05:50,516
+e il resto sono volontari di supporto.
+
+72
+00:05:50,600 --> 00:05:54,103
+Se la formichimera fosse sbarcata lì,
+
+73
+00:05:54,854 --> 00:05:57,690
+come avrebbero reagito
+i cittadini di NGL?
+
+74
+00:05:58,900 --> 00:06:01,402
+Probabilmente non farebbero niente.
+
+75
+00:06:01,486 --> 00:06:04,364
+Quando un'epidemia mortale
+si diffuse nell'area,
+
+76
+00:06:04,447 --> 00:06:07,075
+lasciarono che la natura
+facesse il suo corso
+
+77
+00:06:07,158 --> 00:06:10,703
+e si rifiutarono
+di riconoscere i medici internazionali.
+
+78
+00:06:10,787 --> 00:06:13,498
+E anche se avessero contattato
+il mondo esterno
+
+79
+00:06:13,581 --> 00:06:16,459
+sarebbe stato troppo tardi
+all'arrivo della notizia.
+
+80
+00:06:16,542 --> 00:06:20,713
+Se quel braccio apparteneva
+alla regina delle formichimere,
+
+81
+00:06:20,797 --> 00:06:24,717
+potrebbe aver già iniziato
+a costruire il suo nido.
+
+82
+00:06:29,347 --> 00:06:33,017
+- Una gara?
+- Sì. Tra me e te.
+
+83
+00:06:33,101 --> 00:06:37,188
+Vediamo chi può portare
+altri umani alla Regina.
+
+84
+00:06:37,271 --> 00:06:38,564
+Ti sfido!
+
+85
+00:06:39,732 --> 00:06:41,734
+Cosa? Stai scappando?
+
+86
+00:06:41,818 --> 00:06:44,946
+- Ehi, accetta la mia sfida!
+- Accettare?
+
+87
+00:06:46,656 --> 00:06:48,157
+Stai dando un ordine?
+
+88
+00:06:49,951 --> 00:06:53,204
+Perché dovrei seguire un tuo ordine?
+
+89
+00:06:54,455 --> 00:06:57,375
+Posso solo eseguire
+gli ordini della Regina.
+
+90
+00:06:57,458 --> 00:06:59,919
+{\an8}Hai solo paura di perdere.
+
+91
+00:07:00,002 --> 00:07:02,880
+{\an8}Il mio squadrone è composto
+da soldati scelti.
+
+92
+00:07:02,964 --> 00:07:06,134
+{\an8}Posso battere
+qualsiasi squadrone del castello!
+
+93
+00:07:06,217 --> 00:07:07,510
+Lo so.
+
+94
+00:07:07,593 --> 00:07:11,681
+Dovrei coinvolgere gli altri capisquadra.
+
+95
+00:07:12,223 --> 00:07:15,268
+Se gareggiamo tutti,
+cattureremo più prede.
+
+96
+00:07:15,351 --> 00:07:16,936
+Più prede?
+
+97
+00:07:17,019 --> 00:07:20,356
+Capisco. Sono d'accordo.
+
+98
+00:07:20,440 --> 00:07:24,277
+Se raccogliamo altre prede,
+la Regina sarà contenta.
+
+99
+00:07:24,360 --> 00:07:26,320
+Ok, perfetto allora.
+
+100
+00:07:26,404 --> 00:07:29,699
+Ma credo che anche
+la qualità della preda sia importante.
+
+101
+00:07:29,782 --> 00:07:34,328
+Dobbiamo assicurarci che la Regina mangi
+esseri umani altamente nutrienti.
+
+102
+00:07:34,412 --> 00:07:37,707
+Quel tizio è così rigido.
+
+103
+00:07:37,790 --> 00:07:40,334
+È questo che lo rende tenero.
+
+104
+00:07:40,418 --> 00:07:43,671
+È devoto e leale.
+
+105
+00:07:43,754 --> 00:07:48,718
+Immagino che anche l'umano da cui è
+stato creato fosse molto serio.
+
+106
+00:08:20,791 --> 00:08:24,670
+Ehi, aspetta!
+Non dovevi riposarti un po'?
+
+107
+00:08:25,379 --> 00:08:27,131
+La riporterò qui.
+
+108
+00:08:27,215 --> 00:08:29,175
+Non servirà a niente.
+
+109
+00:08:29,258 --> 00:08:35,014
+Ma va nella foresta ogni mattina
+e passa tutto il giorno a cercare.
+
+110
+00:08:35,097 --> 00:08:38,851
+Giusto, probabilmente collasserà presto.
+
+111
+00:08:38,935 --> 00:08:42,146
+Ma non riesce a smettere di cercare.
+
+112
+00:08:42,772 --> 00:08:45,900
+Ecco cosa significa essere genitori.
+
+113
+00:08:46,817 --> 00:08:51,739
+Quanti giorni sono passati
+da quando Kurt e Reina sono spariti?
+
+114
+00:08:52,323 --> 00:08:55,034
+È come se gli spiriti
+li avessero portati via.
+
+115
+00:09:02,041 --> 00:09:04,502
+- Grossi insetti.
+- Cosa?
+
+116
+00:09:09,465 --> 00:09:11,801
+Non abbiamo ancora razziato quest'area.
+
+117
+00:09:43,874 --> 00:09:45,793
+Mamma!
+
+118
+00:09:47,461 --> 00:09:48,796
+Devono essere loro.
+
+119
+00:09:48,879 --> 00:09:53,676
+Quei mostri
+devono aver rubato i tuoi figli!
+
+120
+00:10:11,652 --> 00:10:12,778
+Perfetto.
+
+121
+00:10:12,862 --> 00:10:16,574
+Questi dovrebbero bastare
+per compiacere la Regina.
+
+122
+00:10:28,044 --> 00:10:30,254
+Cosa sta succedendo?
+
+123
+00:10:30,338 --> 00:10:32,715
+Sterminate gli insetti in fretta.
+
+124
+00:10:32,798 --> 00:10:35,301
+È l'ordine di Gyro.
+
+125
+00:10:35,801 --> 00:10:37,970
+Gyro? Cos'è?
+
+126
+00:10:38,054 --> 00:10:40,348
+Il nome del nostro re!
+
+127
+00:10:48,064 --> 00:10:49,607
+{\an8}Accidenti!
+
+128
+00:10:54,111 --> 00:10:57,615
+Ho comprato i biglietti
+per l'unione Mitene.
+
+129
+00:10:58,240 --> 00:10:59,784
+Ma per raggiungere NGL,
+
+130
+00:10:59,867 --> 00:11:04,705
+dobbiamo prendere un'aeronave
+per la vicina repubblica di Rokario
+
+131
+00:11:04,789 --> 00:11:07,124
+e viaggiare via terra da lì.
+
+132
+00:11:07,208 --> 00:11:10,586
+Non è facile entrare in un paese
+con queste brutte voci.
+
+133
+00:11:10,670 --> 00:11:11,671
+Scherzavo.
+
+134
+00:11:14,006 --> 00:11:16,050
+- Brutte voci?
+- Che vuoi dire?
+
+135
+00:11:18,552 --> 00:11:21,806
+- Hai mai sentito parlare di D²?
+- D²?
+
+136
+00:11:21,889 --> 00:11:24,725
+È una droga ingeribile
+che si sta diffondendo
+
+137
+00:11:24,809 --> 00:11:27,311
+nelle aree urbane di tutto il mondo.
+
+138
+00:11:28,104 --> 00:11:31,982
+È presa dall'albero di Bila,
+originario dell'Unione Mitene.
+
+139
+00:11:33,234 --> 00:11:35,152
+E dicono che
+
+140
+00:11:35,945 --> 00:11:41,075
+oltre l'80% degli alberi di Bila del mondo
+si trovano a NGL.
+
+141
+00:11:41,158 --> 00:11:45,579
+Quindi le brutte  voci dicono
+che realizzano la droga a NGL?
+
+142
+00:11:45,663 --> 00:11:47,456
+Sono solo voci.
+
+143
+00:11:47,540 --> 00:11:50,292
+Nessuno l'ha dimostrato pubblicamente.
+
+144
+00:11:51,168 --> 00:11:53,087
+In fondo il paese è chiuso.
+
+145
+00:11:53,170 --> 00:11:57,591
+Quando la gente si intrufola a indagare
+viene giustiziata.
+
+146
+00:11:57,675 --> 00:11:58,926
+Giustiziata…
+
+147
+00:12:01,637 --> 00:12:03,097
+Non è stato giustiziato?
+
+148
+00:12:04,557 --> 00:12:09,687
+No, se fosse stato catturato mentre
+cercava di scoprire i segreti di NGL,
+
+149
+00:12:09,770 --> 00:12:13,733
+sarebbe stato giustiziato come gli uomini
+della troupe televisiva.
+
+150
+00:12:13,816 --> 00:12:16,736
+Ma questo giornalista indossava
+un microfono,
+
+151
+00:12:16,819 --> 00:12:20,364
+da cui abbiamo intercettato
+il messaggio finale.
+
+152
+00:12:20,448 --> 00:12:22,825
+Quando il messaggio è stato riprodotto…
+
+153
+00:12:23,451 --> 00:12:27,037
+<i>Mostri. Insetti giganti!</i>
+
+154
+00:12:29,081 --> 00:12:31,375
+Insetti giganti?
+
+155
+00:12:32,501 --> 00:12:33,753
+Cosa ne pensi?
+
+156
+00:12:35,212 --> 00:12:38,507
+Le informazioni non sono sufficienti
+per essere sicuri.
+
+157
+00:12:41,218 --> 00:12:45,639
+In quanto Hunter di Bestie Magiche,
+dovrò vedere con i miei occhi.
+
+158
+00:12:45,723 --> 00:12:47,475
+Allora siamo a posto.
+
+159
+00:12:47,558 --> 00:12:49,894
+Prendo tre biglietti.
+
+160
+00:12:49,977 --> 00:12:51,520
+Facciamo quattro.
+
+161
+00:12:52,480 --> 00:12:54,857
+- Ponzu.
+- Vengo con te.
+
+162
+00:12:54,940 --> 00:12:57,610
+Non puoi. È troppo pericoloso.
+
+163
+00:12:57,693 --> 00:13:00,196
+E non hai ancora
+una licenza professionale.
+
+164
+00:13:00,279 --> 00:13:02,406
+E stiamo parlando di NGL…
+
+165
+00:13:02,490 --> 00:13:04,033
+Ecco perché dovrei venire.
+
+166
+00:13:04,116 --> 00:13:07,286
+Non ti è permesso portare
+la tecnologia a NGL.
+
+167
+00:13:07,369 --> 00:13:10,664
+Se ti scoprono con i cellulari
+o i comunicatori wireless,
+
+168
+00:13:10,748 --> 00:13:13,042
+ti arresteranno subito.
+
+169
+00:13:13,125 --> 00:13:16,337
+Se c'è qualche problema,
+avrai bisogno di me.
+
+170
+00:13:16,879 --> 00:13:20,382
+O meglio, ti serviranno loro.
+
+171
+00:13:25,846 --> 00:13:28,682
+Possono portare una lettera ovunque.
+
+172
+00:13:30,810 --> 00:13:34,063
+Capisco. Saranno sicuramente utili.
+
+173
+00:13:45,950 --> 00:13:50,454
+Forse è un po' tardi per chiederlo,
+ma siete sicuri di voler venire?
+
+174
+00:13:50,538 --> 00:13:51,664
+Ma certo!
+
+175
+00:13:51,747 --> 00:13:53,958
+Non scherzavi sull'ultima parte.
+
+176
+00:13:54,041 --> 00:13:58,212
+Non abbiamo idea di quale sia
+la situazione all'interno di NGL.
+
+177
+00:13:59,839 --> 00:14:03,050
+Potrebbe già esserci uno sciame
+di formichimere giganti
+
+178
+00:14:03,133 --> 00:14:05,135
+che dà la caccia agli umani.
+
+179
+00:14:06,095 --> 00:14:08,973
+Se sarà così,
+
+180
+00:14:09,807 --> 00:14:12,226
+la mia priorità sarà salvarli.
+
+181
+00:14:12,309 --> 00:14:14,979
+Quindi potrei non essere in grado
+di aiutarvi.
+
+182
+00:14:15,062 --> 00:14:17,523
+Dovete essere in grado di proteggervi.
+
+183
+00:14:17,606 --> 00:14:19,859
+Se volete venire, è necessario.
+
+184
+00:14:19,942 --> 00:14:22,194
+- Ok, ho capito.
+- Andrà tutto bene.
+
+185
+00:14:23,696 --> 00:14:26,991
+E se sono io quello in pericolo,
+
+186
+00:14:27,741 --> 00:14:29,535
+dovreste scappare senza di me.
+
+187
+00:14:32,329 --> 00:14:33,455
+Intesi?
+
+188
+00:14:52,057 --> 00:14:54,101
+È un bel bottino.
+
+189
+00:14:55,102 --> 00:14:59,398
+Ma non è neanche la metà di ciò
+che ha consegnato il mio squadrone.
+
+190
+00:15:00,649 --> 00:15:04,904
+Il mio obiettivo era la qualità.
+E non ero in competizione con te.
+
+191
+00:15:05,988 --> 00:15:07,281
+Non importa.
+
+192
+00:15:07,364 --> 00:15:08,782
+Comunque, hai sentito?
+
+193
+00:15:08,866 --> 00:15:12,411
+Quel tizio tartaruga si è scontrato
+con la resistenza umana.
+
+194
+00:15:13,329 --> 00:15:14,163
+Resistenza?
+
+195
+00:15:17,249 --> 00:15:20,044
+Probabilmente erano pistole.
+
+196
+00:15:20,127 --> 00:15:21,462
+Pistole?
+
+197
+00:15:21,545 --> 00:15:25,382
+In breve, è un barile
+che lancia proiettili di metallo
+
+198
+00:15:25,466 --> 00:15:28,469
+usando la forza esplosiva
+della polvere da sparo.
+
+199
+00:15:29,053 --> 00:15:31,889
+È una delle armi umane più usate.
+
+200
+00:15:31,972 --> 00:15:35,184
+Non ho idea di cosa tu stia parlando.
+
+201
+00:15:35,267 --> 00:15:37,561
+Se vuoi i dettagli, leggi dei libri.
+
+202
+00:15:37,645 --> 00:15:38,896
+Sono meravigliosi.
+
+203
+00:15:38,979 --> 00:15:41,815
+Puoi imparare come queste
+creature umane pensano,
+
+204
+00:15:41,899 --> 00:15:45,986
+si comportano
+e come funzionano in società.
+
+205
+00:15:46,070 --> 00:15:48,364
+Può rispondere alla mia domanda?
+
+206
+00:15:48,447 --> 00:15:50,991
+Anche gli umani hanno degli eserciti?
+
+207
+00:15:51,075 --> 00:15:52,242
+Eserciti?
+
+208
+00:15:52,326 --> 00:15:56,080
+Sì, era un esercito.
+
+209
+00:15:56,580 --> 00:15:58,958
+<i>Appartengono a un corpo militare</i>
+
+210
+00:15:59,041 --> 00:16:01,377
+<i>guidato da una figura autorevole,</i>
+
+211
+00:16:01,460 --> 00:16:04,338
+<i>proprio come noi!</i>
+
+212
+00:16:05,464 --> 00:16:08,342
+Ho un'altra domanda.
+
+213
+00:16:08,425 --> 00:16:11,220
+Hanno parlato di un nome.
+
+214
+00:16:11,303 --> 00:16:12,554
+Un nome?
+
+215
+00:16:12,638 --> 00:16:15,099
+Non posso biasimarti per non aver capito.
+
+216
+00:16:16,350 --> 00:16:19,853
+Perché è un'idea umana che non usiamo.
+
+217
+00:16:19,937 --> 00:16:22,439
+Per dirla in parole povere…
+
+218
+00:16:23,941 --> 00:16:29,780
+Sembra che gli umani siano capaci
+di più che correre e piangere.
+
+219
+00:16:32,199 --> 00:16:34,368
+Non so perché dovrebbe sorprenderti.
+
+220
+00:16:35,077 --> 00:16:37,621
+Visto quanto siamo diversi io e te,
+
+221
+00:16:37,705 --> 00:16:41,083
+è naturale che anche i singoli umani
+abbiano tratti unici.
+
+222
+00:16:42,751 --> 00:16:46,296
+Dopotutto, il loro sangue
+scorre dentro di noi.
+
+223
+00:16:52,136 --> 00:16:54,680
+<i>Radunatevi, capisquadra!</i>
+
+224
+00:16:57,891 --> 00:17:01,145
+<i>Radunatevi, capisquadra!</i>
+
+225
+00:17:02,021 --> 00:17:03,814
+La Regina ci sta convocando.
+
+226
+00:17:04,398 --> 00:17:06,734
+<i>Radunatevi, capisquadra!</i>
+
+227
+00:17:08,068 --> 00:17:11,405
+Ti viene il mal di testa
+quando la Regina ci chiama?
+
+228
+00:17:12,239 --> 00:17:15,075
+Sì, mi fischiano le orecchie.
+
+229
+00:17:15,159 --> 00:17:20,080
+Peccato che la Regina
+non possa parlare come noi.
+
+230
+00:17:26,503 --> 00:17:30,591
+<i>Ora inizierò i preparativi</i>
+<i>per la nascita del Re.</i>
+
+231
+00:17:31,341 --> 00:17:36,555
+<i>Procuratemi 50 umani al giorno.</i>
+
+232
+00:17:37,056 --> 00:17:38,474
+<i>Sì, Sua Maestà!</i>
+
+233
+00:17:40,059 --> 00:17:43,604
+<i>Sua Maestà, posso fare una domanda?</i>
+
+234
+00:17:43,687 --> 00:17:44,980
+<i>Accordato. Parla.</i>
+
+235
+00:17:46,190 --> 00:17:49,026
+<i>Tra gli umani, ci sono soldati come noi,</i>
+
+236
+00:17:49,109 --> 00:17:52,112
+<i>con armi che usano contro di noi.</i>
+
+237
+00:17:52,863 --> 00:17:56,617
+<i>Dobbiamo fortificare le nostre difese</i>
+
+238
+00:17:56,700 --> 00:18:00,370
+<i>per prepararci a qualsiasi attacco.</i>
+
+239
+00:18:00,454 --> 00:18:04,583
+<i>Ho qualche idea. Vuole ascoltarle?</i>
+
+240
+00:18:05,292 --> 00:18:07,461
+<i>Lascerò a te decidere la rotta.</i>
+
+241
+00:18:07,544 --> 00:18:11,381
+<i>Devo concentrarmi su mio figlio.</i>
+
+242
+00:18:11,882 --> 00:18:15,177
+<i>Sì. E un'altra cosa…</i>
+
+243
+00:18:15,260 --> 00:18:19,640
+<i>Ci permetterà di avere dei nomi?</i>
+
+244
+00:18:20,307 --> 00:18:21,642
+<i>Cos'è un nome?</i>
+
+245
+00:18:21,725 --> 00:18:24,520
+<i>È come un codice che può essere usato</i>
+
+246
+00:18:24,603 --> 00:18:27,815
+<i>per identificare ognuno di noi.</i>
+
+247
+00:18:29,608 --> 00:18:31,693
+<i>Molto bene, fate come volete.</i>
+
+248
+00:18:31,777 --> 00:18:34,696
+<i>Le sono davvero grato!</i>
+
+249
+00:18:38,909 --> 00:18:40,911
+<i>Che strano.</i>
+
+250
+00:18:40,994 --> 00:18:44,581
+<i>Dicono quello che pensano</i>
+<i>e chiedono di usare questi nomi.</i>
+
+251
+00:18:44,665 --> 00:18:48,669
+<i>Mentre migliorano la razza,</i>
+<i>competono per la gloria,</i>
+
+252
+00:18:48,752 --> 00:18:51,505
+<i>portando a un più forte</i>
+<i>senso di individualità.</i>
+
+253
+00:18:55,759 --> 00:19:00,139
+<i>Suppongo che anch'io sia strana nel trovar</i>
+<i>questo cambiamento affascinante.</i>
+
+254
+00:19:00,806 --> 00:19:06,562
+<i>Forse ho tracce</i>
+<i>di sangue umano dentro di me.</i>
+
+255
+00:19:09,273 --> 00:19:13,652
+<i>In ogni caso,</i>
+<i>ora mi sento abbastanza sicura.</i>
+
+256
+00:19:14,611 --> 00:19:17,698
+<i>Ti vedo già</i>
+
+257
+00:19:17,781 --> 00:19:20,951
+<i>come se stessi rievocando</i>
+<i>un ricordo del mio passato.</i>
+
+258
+00:19:22,202 --> 00:19:23,954
+<i>Mio Re…</i>
+
+259
+00:19:24,037 --> 00:19:27,833
+<i>Arriverai in cima al mondo!</i>
+
+260
+00:19:36,925 --> 00:19:39,970
+<i>Nomi. È divertente.</i>
+
+261
+00:19:41,847 --> 00:19:44,349
+<i>Le tre guardie reali del re.</i>
+
+262
+00:19:44,433 --> 00:19:47,686
+<i>Vi darò un nome personalmente.</i>
+
+263
+00:19:53,650 --> 00:19:55,736
+Cos'hai deciso?
+
+264
+00:19:55,819 --> 00:19:58,572
+Ricordi cos'ha detto Kaito
+prima di partire?
+
+265
+00:19:58,655 --> 00:20:01,658
+Che dovremmo fuggire
+senza di lui, se è in pericolo.
+
+266
+00:20:01,742 --> 00:20:04,953
+Sì, non credo avessimo scelta.
+
+267
+00:20:05,037 --> 00:20:05,871
+Sì.
+
+268
+00:20:06,830 --> 00:20:10,000
+Per questo nessuno di noi due
+ha detto niente.
+
+269
+00:20:11,168 --> 00:20:13,503
+Ma ci ho pensato.
+
+270
+00:20:13,587 --> 00:20:17,216
+È possibile per Kaito,
+che si è guadagnato il rispeto di Ging,
+
+271
+00:20:17,299 --> 00:20:20,052
+trovarsi in pericolo?
+
+272
+00:20:21,094 --> 00:20:26,600
+Hai detto che Ging aveva un motivo
+per far incontrare Kaito e me.
+
+273
+00:20:26,683 --> 00:20:28,101
+Sì.
+
+274
+00:20:28,602 --> 00:20:31,021
+Forse hai ragione.
+
+275
+00:20:31,772 --> 00:20:33,899
+Non so perché,
+
+276
+00:20:33,982 --> 00:20:37,736
+ma non posso arrendermi ora,
+qualunque cosa succeda.
+
+277
+00:20:38,320 --> 00:20:40,739
+Altrimenti deluderò Ging.
+
+278
+00:20:41,281 --> 00:20:44,243
+E ovviamente non mi perdonerei mai.
+
+279
+00:20:44,534 --> 00:20:46,119
+Quindi non scapperò.
+
+280
+00:20:46,203 --> 00:20:48,038
+È quello che ho deciso.
+
+281
+00:20:51,375 --> 00:20:54,920
+Cavolo, avevi un'espressione molto seria,
+
+282
+00:20:55,003 --> 00:20:57,381
+quindi mi aspettavo qualcosa di grosso.
+
+283
+00:20:57,464 --> 00:20:59,216
+Ma è tutto come al solito.
+
+284
+00:20:59,299 --> 00:21:01,635
+Cosa? Ci ho pensato tanto.
+
+285
+00:21:01,718 --> 00:21:04,805
+Ho anche fatto delle simulazioni mentali.
+
+286
+00:21:04,888 --> 00:21:07,516
+Pensa quanto vuoi,
+ma sarai sempre Gon.
+
+287
+00:21:07,599 --> 00:21:12,145
+Se qualcuno ti dicesse di abbandonarlo,
+non lo faresti mai.
+
+288
+00:21:12,229 --> 00:21:16,566
+Fai sembrare
+come se avessi perso tempo a pensarci.
+
+289
+00:21:17,150 --> 00:21:19,069
+E tu?
+
+290
+00:21:20,028 --> 00:21:23,407
+Sono un tipo spontaneo,
+ci penserò quando sarà il momento.
+
+291
+00:21:23,490 --> 00:21:25,409
+Vuoi dire che potresti scappare?
+
+292
+00:21:25,492 --> 00:21:27,160
+Dipende.
+
+293
+00:21:27,244 --> 00:21:30,330
+Non posso dirlo
+finché non succederà davvero.
+
+294
+00:21:30,414 --> 00:21:31,832
+Diciamo che…
+
+295
+00:21:31,915 --> 00:21:35,127
+non so dirti cosa farei
+in una situazione ipotetica.
+
+296
+00:21:35,210 --> 00:21:37,629
+Non decido finché non è il momento.
+
+297
+00:21:41,258 --> 00:21:43,510
+<i>Il dirigibile che trasporta il gruppo</i>
+
+298
+00:21:43,593 --> 00:21:46,805
+<i>si dirige verso l'Unione Mitene.</i>
+
+299
+00:21:47,639 --> 00:21:53,353
+<i>Non sanno ancora</i>
+<i>del destino crudele che li aspetta.</i>
+
+300
+00:23:19,898 --> 00:23:22,401
+<i>Prossimo episodio. "Oscurità su NGL."</i>
+
+301
+00:23:22,484 --> 00:23:24,111
+<i>Pronti, via!</i>
+
+302
+00:23:24,194 --> 00:23:26,321
+<i>Significa che la Regina non è…</i>
+
+303
+00:23:26,405 --> 00:23:28,031
+<i>Ecco la scena tagliata!</i>
+
+304
+00:23:28,115 --> 00:23:29,658
+Sottotitoli: Paolo Manieri
