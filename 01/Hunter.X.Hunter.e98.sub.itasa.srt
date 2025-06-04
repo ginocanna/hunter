@@ -1,0 +1,1208 @@
+1
+00:00:03,750 --> 00:00:05,644
+<i>Per diventare Re e Regine,</i>
+
+2
+00:00:06,148 --> 00:00:09,140
+<i>le Formichimere si sono dirette
+in ogni parte del mondo,</i>
+
+3
+00:00:09,150 --> 00:00:12,280
+<i>commettendo atti di estrema
+atrocita' dovunque andassero.</i>
+
+4
+00:00:18,609 --> 00:00:21,149
+<i>Temendo che la situazione
+peggiorasse ulteriormente,</i>
+
+5
+00:00:21,159 --> 00:00:24,381
+<i>il governo ha chiesto all'Associazione
+degli Hunter di eliminare le Formichimere.</i>
+
+6
+00:00:24,974 --> 00:00:28,001
+<i>Finalmente, l'Associazione
+degli Hunter si muove.</i>
+
+7
+00:01:31,861 --> 00:01:34,168
+Ah, tutto qui?
+
+8
+00:01:59,161 --> 00:02:02,647
+<b>::Italian x Subs x Addicted::
+[www.italiansubs.net]</b>
+
+9
+00:02:17,856 --> 00:02:22,625
+<b>Revisione: mezzi</b>
+
+10
+00:02:17,856 --> 00:02:22,627
+{\an8}<b>Traduzione:
+Geodefender x SantaRuga x Gwintroc</b>
+
+11
+00:02:23,546 --> 00:02:26,628
+<b>Hunter x Hunter
+Episodio 98</b>
+
+12
+00:03:18,991 --> 00:03:23,983
+<b>Infiltrazione x E x Selezione</b>
+
+13
+00:04:02,715 --> 00:04:05,015
+Entrare di nascosto e' stato facile.
+
+14
+00:04:05,101 --> 00:04:08,951
+Ma la domanda e': come faremo
+ad avvicinarci abbastanza al nemico?
+
+15
+00:04:09,372 --> 00:04:13,108
+E oltretutto non possiamo
+farci vedere da nessuno.
+
+16
+00:04:13,544 --> 00:04:18,538
+{\an8}INFORMATORI
+
+17
+00:04:15,698 --> 00:04:18,719
+<i>Questo paese ha un forte sistema regolatore
+delle informazioni che opera in segreto,</i>
+
+18
+00:04:18,729 --> 00:04:19,897
+<i>usando gruppi di informatori.</i>
+
+19
+00:04:20,238 --> 00:04:21,338
+Informatori?
+
+20
+00:04:21,379 --> 00:04:22,379
+Si'.
+
+21
+00:04:22,409 --> 00:04:24,898
+Se scopri una spia nemica,
+ricevi una ricompensa.
+
+22
+00:04:25,357 --> 00:04:28,001
+Se scopri delle prove di insubordinazione,
+ricevi una ricompensa.
+
+23
+00:04:28,011 --> 00:04:30,687
+Se impedisci a qualcuno di scappare
+dal paese, ricevi una ricompensa.
+
+24
+00:04:30,697 --> 00:04:33,904
+Quindi la gente farebbe qualsiasi cosa
+pur di ricevere quella ricompensa.
+
+25
+00:04:34,500 --> 00:04:36,672
+E non sono solo i soldi
+che gli interessano.
+
+26
+00:04:36,682 --> 00:04:41,307
+Dopo aver accumulato abbastanza punti da
+informatore, l'intero gruppo viene promosso.
+
+27
+00:04:41,317 --> 00:04:45,725
+Ma se qualcuno fornisce informazioni false
+o se un membro commette un crimine,
+
+28
+00:04:45,735 --> 00:04:48,140
+viene punito tutto il gruppo.
+
+29
+00:04:49,120 --> 00:04:50,970
+Il bastone e la carota, eh?
+
+30
+00:04:51,213 --> 00:04:52,901
+E' una faccenda piuttosto brutta.
+
+31
+00:04:53,780 --> 00:04:56,925
+<i>I membri della stessa famiglia
+vengono messi in gruppi diversi.</i>
+
+32
+00:04:57,096 --> 00:04:59,418
+<i>Percio', se un intero gruppo
+tenta la fuga,</i>
+
+33
+00:04:59,714 --> 00:05:03,564
+<i>i loro familiari possono essere
+giustiziati o imprigionati a vita.</i>
+
+34
+00:05:04,324 --> 00:05:07,472
+<i>Se un'intera famiglia viene
+scoperta a tentare la fuga,</i>
+
+35
+00:05:07,502 --> 00:05:09,830
+<i>vengono giustiziati,
+senza fare domande.</i>
+
+36
+00:05:10,965 --> 00:05:14,319
+Perche' l'elite di questo paese
+possa vivere una vita agiata,
+
+37
+00:05:14,329 --> 00:05:16,322
+il resto dei cittadini
+deve sacrificarsi.
+
+38
+00:05:16,706 --> 00:05:21,406
+Ma anche i media diffondono delle bugie.
+Per esempio, dicono che negli altri paesi
+
+39
+00:05:21,559 --> 00:05:24,676
+la meta' della gente muore
+di fame prima dei 10 anni.
+
+40
+00:05:24,686 --> 00:05:27,671
+Che gli aiuti esteri
+non arrivano mai ai bisognosi.
+
+41
+00:05:27,681 --> 00:05:30,611
+E che invece vengono spesi
+per auto, gioielli e missili.
+
+42
+00:05:31,373 --> 00:05:33,925
+Dicono anche che il Gorteau dell'Est
+spenda i soldi delle sovvenzioni
+
+43
+00:05:33,935 --> 00:05:37,371
+per sviluppare armi nucleari da usare
+come moneta di scambio nelle negoziazioni
+
+44
+00:05:37,381 --> 00:05:40,781
+per ricevere aumenti degli
+aiuti esteri senza precedenti.
+
+45
+00:05:42,111 --> 00:05:44,028
+Ehi, non surriscaldarti!
+
+46
+00:05:44,704 --> 00:05:46,870
+Sto... sto bene...
+
+47
+00:05:47,362 --> 00:05:49,662
+E' solo che e' davvero complicato...
+
+48
+00:05:51,502 --> 00:05:54,145
+Certo che tu sai davvero
+molto a riguardo.
+
+49
+00:05:54,155 --> 00:05:56,057
+Mi ha detto tutto mio fratello.
+
+50
+00:05:56,067 --> 00:05:58,372
+E lui probabilmente
+l'ha sentito dal nonno.
+
+51
+00:05:58,721 --> 00:05:59,826
+Da tuo nonno?
+
+52
+00:05:59,836 --> 00:06:00,836
+Gia'.
+
+53
+00:06:00,866 --> 00:06:04,760
+Tanto tempo fa, si e' introdotto di nascosto
+in questo paese per un lavoro.
+
+54
+00:06:05,738 --> 00:06:09,088
+E io ho visto informazioni
+simili sul sito degli Hunter.
+
+55
+00:06:09,439 --> 00:06:12,170
+Probabilmente usano ancora
+questo sistema.
+
+56
+00:06:25,614 --> 00:06:26,634
+Un villaggio.
+
+57
+00:06:26,644 --> 00:06:28,544
+Gia'... non e' molto grande.
+
+58
+00:06:28,664 --> 00:06:29,750
+Che facciamo?
+
+59
+00:06:29,760 --> 00:06:31,221
+Ci entriamo di nascosto.
+
+60
+00:06:31,231 --> 00:06:32,990
+Sicuro sia una buona idea?
+
+61
+00:06:33,648 --> 00:06:35,379
+Abbiamo bisogno
+di informazioni aggiornate.
+
+62
+00:06:35,956 --> 00:06:40,920
+Sapere come vestono o come identificare
+il grado delle persone ci sara' utile.
+
+63
+00:06:41,470 --> 00:06:45,725
+Potrebbero avere dei sistemi
+per stanare le spie.
+
+64
+00:06:46,973 --> 00:06:49,323
+Piu' informazioni abbiamo, meglio e'.
+
+65
+00:06:50,146 --> 00:06:51,246
+Aspetta qui.
+
+66
+00:07:27,156 --> 00:07:29,006
+E' completamente deserto...
+
+67
+00:07:29,025 --> 00:07:31,970
+Forse sono gia' andati tutti a Bechino?
+
+68
+00:07:32,581 --> 00:07:34,458
+No, qui e' successo qualcosa.
+
+69
+00:07:36,692 --> 00:07:37,973
+E qualcuno ha cercato di nasconderlo.
+
+70
+00:07:41,893 --> 00:07:43,724
+Hanno fatto un lavoro frettoloso.
+
+71
+00:08:03,295 --> 00:08:07,067
+Non hanno scavato abbastanza a fondo e quindi
+i cani selvaggi sono arrivati ai corpi.
+
+72
+00:08:07,077 --> 00:08:09,760
+Suppongo che l'intero
+villaggio sia sepolto qui.
+
+73
+00:08:10,273 --> 00:08:11,723
+Che sta succedendo?
+
+74
+00:08:12,436 --> 00:08:15,286
+E' questo il vero scopo
+della festa nazionale.
+
+75
+00:08:15,477 --> 00:08:19,214
+E' una scusa per far sparire
+la popolazione di interi villaggi e citta'
+
+76
+00:08:19,224 --> 00:08:20,736
+senza destare sospetti.
+
+77
+00:08:22,603 --> 00:08:24,603
+La selezione e' gia' iniziata.
+
+78
+00:08:26,723 --> 00:08:27,754
+Ripensandoci,
+
+79
+00:08:28,281 --> 00:08:30,953
+sarebbe difficile far arrivare
+tutta la popolazione alla capitale
+
+80
+00:08:30,963 --> 00:08:33,069
+ed effettuare la selezione
+cosi' in fretta.
+
+81
+00:08:33,079 --> 00:08:35,929
+Questa nazione ha circa
+5 milioni di abitanti.
+
+82
+00:08:36,430 --> 00:08:39,970
+<i>Ripulire un paese o una citta'
+alla volta e' piu' efficace.</i>
+
+83
+00:08:40,711 --> 00:08:45,183
+In questo caso, la loro unica preoccupazione
+sarebbero i colleghi o i familiari...
+
+84
+00:08:45,193 --> 00:08:48,039
+che alzano un polverone
+cercando le persone scomparse.
+
+85
+00:08:48,914 --> 00:08:51,479
+<i>Ma con il pretesto
+della festa nazionale,</i>
+
+86
+00:08:51,635 --> 00:08:55,735
+nessuno trovera' strano il fatto
+di non riuscire a contattare qualcuno.
+
+87
+00:08:57,697 --> 00:08:59,918
+In questa nazione
+non sono permessi i cellulari,
+
+88
+00:08:59,928 --> 00:09:02,203
+quindi se pensano che l'altra
+persona sia in viaggio
+
+89
+00:09:02,213 --> 00:09:04,863
+e' normale che non
+riescano a contattarla.
+
+90
+00:09:05,889 --> 00:09:08,289
+La selezione procedera' senza intoppi.
+
+91
+00:09:09,944 --> 00:09:13,294
+<i>La capitale, Bechino,
+si trova nell'angolo sudorientale.</i>
+
+92
+00:09:13,743 --> 00:09:16,812
+<i>Devono solo cominciare ad attaccare le citta'
+piu' lontane e poi procedere verso est.</i>
+
+93
+00:09:17,842 --> 00:09:20,382
+Se agli abitanti
+di ogni citta' viene detto
+
+94
+00:09:20,392 --> 00:09:23,547
+che il governo gli comunichera'
+un orario preciso per partire,
+
+95
+00:09:23,950 --> 00:09:28,500
+non ci sara' nessun problema dovuto
+alle comunicazioni tra una citta' e l'altra.
+
+96
+00:09:28,587 --> 00:09:33,287
+Quindi, impedendo alla gente che viene
+da citta' diverse di incontrarsi in viaggio,
+
+97
+00:09:33,377 --> 00:09:36,066
+eliminano ogni causa
+di potenziale disturbo.
+
+98
+00:09:36,556 --> 00:09:37,556
+Pero'...
+
+99
+00:09:38,324 --> 00:09:41,470
+questo significa che devono
+percorrere tutta la nazione
+
+100
+00:09:41,480 --> 00:09:43,575
+per attaccare tutti i cinque
+milioni di cittadini.
+
+101
+00:09:43,585 --> 00:09:44,585
+Esatto.
+
+102
+00:09:44,879 --> 00:09:46,945
+Se ne sopravvive l'un percento,
+
+103
+00:09:47,056 --> 00:09:49,506
+loro otterranno
+cinquantamila soldati.
+
+104
+00:09:50,095 --> 00:09:52,590
+No, intendo prima di quello.
+
+105
+00:09:53,297 --> 00:09:56,703
+Sono rimasti dieci...
+anzi, nove giorni.
+
+106
+00:09:57,061 --> 00:10:00,197
+Se si volessero controllare cinque milioni
+di persone in questo lasso di tempo,
+
+107
+00:10:00,207 --> 00:10:03,087
+servirebbe parecchio aiuto.
+
+108
+00:10:03,516 --> 00:10:06,075
+Supponendo che un solo
+utilizzatore di Nen
+
+109
+00:10:06,085 --> 00:10:09,635
+possa controllare
+diecimila cittadini in dieci giorni...
+
+110
+00:10:13,789 --> 00:10:16,103
+- Cinquecento utilizzatori di Nen.
+- Esattamente!
+
+111
+00:10:16,825 --> 00:10:18,837
+Stai per dirmi
+che non ci possono essere
+
+112
+00:10:18,847 --> 00:10:21,119
+tutte quelle Formichimere
+in grado di usare il Nen?
+
+113
+00:10:21,129 --> 00:10:22,329
+Proprio cosi'.
+
+114
+00:10:22,537 --> 00:10:23,887
+Sono d'accordo...
+
+115
+00:10:24,017 --> 00:10:25,981
+ma probabilmente
+non e' cosi' difficile.
+
+116
+00:10:25,991 --> 00:10:29,233
+Non hanno bisogno di utilizzatori
+di Nen per controllare chiunque.
+
+117
+00:10:29,243 --> 00:10:30,630
+Eh? Perche' no?
+
+118
+00:10:31,669 --> 00:10:32,773
+Possono usare la manipolazione.
+
+119
+00:10:47,937 --> 00:10:50,008
+Il potere che quella
+Formichimera ha usato...
+
+120
+00:10:51,075 --> 00:10:53,189
+<i>credo che si possa usare
+per automatizzare le vittime,</i>
+
+121
+00:10:53,199 --> 00:10:57,949
+<i>oppure, come il potere di Genthru, per
+controllare svariate persone simultaneamente.</i>
+
+122
+00:10:59,161 --> 00:11:02,743
+<i>Anche i comuni umani hanno l'aura,
+quindi il manipolatore...</i>
+
+123
+00:11:03,037 --> 00:11:05,945
+<i>potrebbe forzare l'aura della vittima
+a concentrarsi nel suo pugno.</i>
+
+124
+00:11:05,955 --> 00:11:07,570
+<i>Un singolo pugno...</i>
+
+125
+00:11:07,959 --> 00:11:10,732
+<i>potrebbe creare
+un esercito di cinquantamila.</i>
+
+126
+00:11:11,469 --> 00:11:14,769
+<i>Lasciando quattro milioni
+e 950.000 morti sul percorso.</i>
+
+127
+00:11:20,886 --> 00:11:23,420
+Beh, non sono solo cattive notizie.
+
+128
+00:11:23,991 --> 00:11:25,320
+Se la mia teoria e' corretta,
+
+129
+00:11:25,883 --> 00:11:29,995
+creare confusione per bloccare
+la loro selezione sara' semplice.
+
+130
+00:11:31,580 --> 00:11:33,637
+<i>Dobbiamo solo saltare
+fuori all'improvviso,</i>
+
+131
+00:11:33,647 --> 00:11:37,147
+<i>eliminare chiunque sia sotto controllo
+e creare scompiglio.</i>
+
+132
+00:11:39,483 --> 00:11:41,240
+Poi dobbiamo solo incoraggiare...
+
+133
+00:11:41,250 --> 00:11:44,405
+la gente che scappa
+ad avvisare le citta' vicine.
+
+134
+00:11:45,430 --> 00:11:49,354
+Se le Formichimere hanno mandato fantocci
+controllati, e non veri utilizzatori di Nen,
+
+135
+00:11:49,637 --> 00:11:51,507
+sconfiggerli sara' uno scherzo.
+
+136
+00:11:51,517 --> 00:11:55,006
+Corriamo semplicemente in giro, abbattendone
+uno dopo l'altro e creando confusione.
+
+137
+00:11:55,016 --> 00:11:56,016
+Si'.
+
+138
+00:11:56,605 --> 00:11:59,555
+Il problema e' che
+ci individueranno facilmente.
+
+139
+00:12:01,609 --> 00:12:03,726
+Una volta fatta la nostra mossa,
+sapranno che siamo qui.
+
+140
+00:12:04,624 --> 00:12:07,060
+Se volessimo seguire
+il piano del vecchio,
+
+141
+00:12:07,070 --> 00:12:09,183
+dovremmo stare nascosti.
+
+142
+00:12:14,665 --> 00:12:15,865
+Cosa ne pensi?
+
+143
+00:12:24,169 --> 00:12:25,219
+Facciamolo!
+
+144
+00:12:25,868 --> 00:12:28,018
+Se la selezione e' gia' iniziata,
+
+145
+00:12:28,328 --> 00:12:30,478
+non possiamo starcene a guardare.
+
+146
+00:12:33,813 --> 00:12:35,541
+Ok, facciamolo.
+
+147
+00:12:35,865 --> 00:12:38,472
+- Ok!
+- Ma lo faro' da solo.
+
+148
+00:12:38,885 --> 00:12:40,785
+- Cosa?
+- Tu stai nascosto.
+
+149
+00:12:41,028 --> 00:12:43,295
+Perche'? Andra' meglio se entrambi...
+
+150
+00:12:43,571 --> 00:12:45,529
+Non dimenticare la nostra
+missione principale!
+
+151
+00:12:46,710 --> 00:12:48,280
+<i>Sconfiggere quella Formichimera.</i>
+
+152
+00:12:49,742 --> 00:12:52,292
+Questo dovrebbe essere
+il tuo obiettivo.
+
+153
+00:12:53,834 --> 00:12:56,119
+Lascia che mi occupi io
+di tutto il resto.
+
+154
+00:12:56,129 --> 00:12:57,729
+Smuovero' io le acque.
+
+155
+00:12:58,635 --> 00:13:00,730
+E senza offesa...
+
+156
+00:13:01,059 --> 00:13:03,040
+ma lavoro piu' facilmente da solo.
+
+157
+00:13:03,050 --> 00:13:04,789
+Mamma mia... D'accordo, ho capito.
+
+158
+00:13:06,857 --> 00:13:07,857
+Davvero?
+
+159
+00:13:11,537 --> 00:13:12,987
+Davvero hai capito?
+
+160
+00:13:13,926 --> 00:13:14,926
+Killua...
+
+161
+00:13:17,641 --> 00:13:19,924
+Promettimi che non muoverai un dito!
+
+162
+00:13:20,569 --> 00:13:23,927
+Nemmeno se qualcuno viene
+ucciso proprio di fronte a te!
+
+163
+00:13:24,919 --> 00:13:25,930
+Promettilo!
+
+164
+00:13:43,699 --> 00:13:45,230
+Ti mandero' dei messaggi.
+
+165
+00:13:46,015 --> 00:13:49,373
+I nostri cellulari dovrebbero ancora
+funzionare in questa zona.
+
+166
+00:13:49,383 --> 00:13:50,383
+Killua...
+
+167
+00:13:51,585 --> 00:13:52,585
+Scusa...
+
+168
+00:13:52,974 --> 00:13:54,174
+non e' niente!
+
+169
+00:13:54,551 --> 00:13:56,301
+Sono solo un po' nervoso.
+
+170
+00:14:05,495 --> 00:14:06,700
+<i>E questi?</i>
+
+171
+00:14:07,931 --> 00:14:10,831
+<i>Non sono cittadini di questo paese.</i>
+
+172
+00:14:11,783 --> 00:14:14,864
+<i>Due ragazzini,
+direi che sono delle spie ma...</i>
+
+173
+00:14:15,703 --> 00:14:17,403
+<i>sono davvero fortissimi.</i>
+
+174
+00:14:17,429 --> 00:14:18,882
+<i>Sono assassini?</i>
+
+175
+00:14:20,374 --> 00:14:22,844
+<i>Sono qui per dare la caccia al Re?</i>
+
+176
+00:14:23,957 --> 00:14:26,627
+<i>In questo caso non posso ignorarli,</i>
+
+177
+00:14:26,772 --> 00:14:29,859
+<i>ma non voglio combattere
+contro tutti e due insieme.</i>
+
+178
+00:14:30,266 --> 00:14:33,987
+<i>Di sicuro non voglio combattere contro
+quello a sinistra con i capelli argentati.</i>
+
+179
+00:14:33,997 --> 00:14:36,513
+<i>Solo a guardarlo camminare,
+posso dire con certezza che e' forte.</i>
+
+180
+00:14:36,523 --> 00:14:39,590
+<i>Direi che ha lo stesso potenziale
+di un caposquadra...</i>
+
+181
+00:14:43,983 --> 00:14:46,433
+<i>Quel ragazzo e' decisamente speciale...</i>
+
+182
+00:14:46,997 --> 00:14:51,247
+<i>Mi ero nascosto alla perfezione,
+ma ha comunque percepito la mia presenza.</i>
+
+183
+00:15:04,984 --> 00:15:06,810
+<i>Ah, perfetto.</i>
+
+184
+00:15:20,132 --> 00:15:22,304
+<i>Ne siete certi?</i>
+
+185
+00:15:23,449 --> 00:15:27,360
+Potete davvero trasferire me
+e la mia famiglia in un altro paese?
+
+186
+00:15:28,182 --> 00:15:29,782
+Non deve preoccuparsi.
+
+187
+00:15:30,086 --> 00:15:35,069
+Abbiamo ricevuto l'approvazione ufficiale
+e i documenti necessari sono pronti.
+
+188
+00:15:35,754 --> 00:15:39,191
+Deve solo firmarli.
+
+189
+00:15:40,012 --> 00:15:44,930
+Tuttavia, in cambio della sua liberta',
+dovra' dirci tutto quello che sa
+
+190
+00:15:44,960 --> 00:15:47,202
+sull'organizzazione delle
+forze armate del paese.
+
+191
+00:15:47,212 --> 00:15:49,320
+Come le abbiamo gia' detto,
+
+192
+00:15:49,460 --> 00:15:52,590
+se non rispettera'
+la sua parte dell'accordo...
+
+193
+00:15:53,270 --> 00:15:56,599
+ci mettera' entrambi in una situazione
+molto imbarazzante.
+
+194
+00:15:56,932 --> 00:15:58,630
+Non sara' un problema.
+
+195
+00:15:59,380 --> 00:16:00,630
+Vi diro' tutto.
+
+196
+00:16:04,256 --> 00:16:06,921
+Tutto quello che so...
+
+197
+00:16:07,628 --> 00:16:10,350
+sui crimini contro l'umanita'
+commessi da Diego.
+
+198
+00:16:10,802 --> 00:16:12,352
+Le siamo molto grati.
+
+199
+00:16:12,443 --> 00:16:15,370
+Le nostre vite dipendono da questo.
+
+200
+00:16:17,548 --> 00:16:19,048
+<i>"Commessi da Diego"?</i>
+
+201
+00:16:19,379 --> 00:16:21,397
+<i>Lo dice come se lui
+non c'entrasse nulla.</i>
+
+202
+00:16:22,035 --> 00:16:25,685
+<i>Il vino che sta bevendo
+e questa stanza in cui siamo seduti...</i>
+
+203
+00:16:25,862 --> 00:16:28,450
+<i>li ha avuti grazie a quel bastardo.</i>
+
+204
+00:16:30,486 --> 00:16:34,186
+<i>Dovevi dire "che abbiamo commesso",
+bastardo che non sei altro.</i>
+
+205
+00:16:37,630 --> 00:16:40,590
+<i>No, non devo farmi
+prendere dalla rabbia.</i>
+
+206
+00:16:42,009 --> 00:16:43,381
+Quindi, Marcos-san...
+
+207
+00:16:44,393 --> 00:16:46,980
+continui a comportarsi normalmente.
+
+208
+00:16:48,294 --> 00:16:52,944
+Tra due settimane, lei e la sua famiglia
+sarete a godervi il sole su una spiaggia.
+
+209
+00:16:54,990 --> 00:16:56,540
+<i>Non posso accettarlo!</i>
+
+210
+00:17:00,574 --> 00:17:05,066
+Dovrei rimanere seduto ad aspettare mentre
+delle persone innocenti vengono uccise?
+
+211
+00:17:05,076 --> 00:17:06,326
+Che fai, dormi?
+
+212
+00:17:06,336 --> 00:17:08,486
+Vuoi che ti canti la ninna-nanna?
+
+213
+00:17:08,919 --> 00:17:10,700
+Calmati.
+
+214
+00:17:11,898 --> 00:17:15,123
+Vogliono controllare cinque milioni
+di persone in dieci giorni.
+
+215
+00:17:15,133 --> 00:17:17,430
+Sarebbero cinquecentomila al giorno.
+
+216
+00:17:17,440 --> 00:17:19,990
+Di cui solo l'un percento
+sopravvivera'.
+
+217
+00:17:20,319 --> 00:17:21,319
+E quindi?
+
+218
+00:17:21,679 --> 00:17:25,550
+Vuol dire che oggi
+495.000 Persone sono morte!
+
+219
+00:17:25,695 --> 00:17:27,795
+Come fai a rimanere cosi' calmo?
+
+220
+00:17:27,816 --> 00:17:32,570
+Perche' so che, se perdiamo la calma,
+ne moriranno molte di piu'.
+
+221
+00:17:36,387 --> 00:17:39,237
+Se il piano fallira',
+sara' la fine per tutti.
+
+222
+00:17:39,305 --> 00:17:42,397
+Se non riusciamo ad attirare
+le Guardie Reali lontano dal Re,
+
+223
+00:17:42,407 --> 00:17:44,843
+neanche il Presidente
+sara' in grado di sconfiggerlo.
+
+224
+00:17:45,488 --> 00:17:48,850
+Quindi non possiamo
+venire allo scoperto,
+
+225
+00:17:48,880 --> 00:17:51,216
+se non quando sara' il momento.
+
+226
+00:17:51,873 --> 00:17:56,300
+Altrimenti, aumenteranno
+ulteriormente le misure di sicurezza.
+
+227
+00:17:58,272 --> 00:17:59,353
+Dovrai sopportarlo.
+
+228
+00:18:02,518 --> 00:18:06,110
+Stai dicendo che dobbiamo sacrificare cinque
+milioni di persone per salvare l'umanita'?
+
+229
+00:18:06,796 --> 00:18:07,796
+E' cosi'.
+
+230
+00:18:10,070 --> 00:18:13,170
+Se prendertela con me
+ti fa stare meglio, fa' pure.
+
+231
+00:18:13,652 --> 00:18:18,358
+Ma, a meno che tu non abbia un'idea
+migliore, smettila di fare l'indignato.
+
+232
+00:18:20,914 --> 00:18:21,990
+Dannazione.
+
+233
+00:18:24,195 --> 00:18:26,345
+Non c'e' altro che possiamo fare.
+
+234
+00:18:26,896 --> 00:18:29,346
+Metteremo in pericolo la nostra vita...
+
+235
+00:18:29,706 --> 00:18:31,498
+per compiere il nostro dovere.
+
+236
+00:18:34,351 --> 00:18:35,351
+Si'.
+
+237
+00:18:48,345 --> 00:18:49,794
+<i>Killua stara' bene?</i>
+
+238
+00:18:50,484 --> 00:18:52,434
+<i>Si comportava in modo strano.</i>
+
+239
+00:18:52,965 --> 00:18:55,880
+<i>Forse sarei dovuto rimanere con lui.</i>
+
+240
+00:18:56,455 --> 00:18:59,820
+<i>Ma, se lo avessi seguito,
+si sarebbe infuriato.</i>
+
+241
+00:19:25,146 --> 00:19:27,230
+Sei stai bravo a evitare
+il mio attacco!
+
+242
+00:19:27,240 --> 00:19:28,990
+Ma che ne dici di questo?
+
+243
+00:19:49,322 --> 00:19:53,722
+Uso la mia coda come una molla,
+per spostarmi velocemente tra gli alberi.
+
+244
+00:19:54,420 --> 00:19:57,550
+Seguire i miei movimenti
+al buio e' impossibile!
+
+245
+00:20:03,018 --> 00:20:04,632
+Ti ho preso!
+
+246
+00:20:05,393 --> 00:20:08,670
+E ora ti schiaccero' come un verme!
+
+247
+00:20:13,122 --> 00:20:14,670
+Non ci riuscirai!
+
+248
+00:20:17,833 --> 00:20:21,330
+Sono io che ti faro' a pezzi!
+
+249
+00:20:30,274 --> 00:20:32,669
+<i>Sembra avere parte
+del DNA di un serpente,</i>
+
+250
+00:20:33,020 --> 00:20:37,120
+<i>quindi puo' sopravvivere
+per dieci giorni prima di morire di fame.</i>
+
+251
+00:20:40,300 --> 00:20:42,950
+<i>Come pensavo, e' molto forte.</i>
+
+252
+00:20:44,016 --> 00:20:46,965
+<i>Continuero' a seguirlo.</i>
+
+253
+00:20:50,201 --> 00:20:52,080
+<i>Mi hanno gia' trovato.</i>
+
+254
+00:20:52,693 --> 00:20:54,393
+<i>Devo nascondermi meglio.</i>
+
+255
+00:20:55,794 --> 00:20:57,050
+<i>Ma e' strano.</i>
+
+256
+00:20:57,434 --> 00:21:00,990
+<i>Che ci fanno dei soldati qui,
+se la selezione e' gia' finita?</i>
+
+257
+00:21:02,002 --> 00:21:06,102
+<i>Forse ci sono piu' guardie del normale
+perche' siamo vicini al confine.</i>
+
+258
+00:21:21,390 --> 00:21:23,150
+<i>Un gufo e un pipistrello?</i>
+
+259
+00:21:37,479 --> 00:21:39,379
+<i>Stavolta e' solo contro due.</i>
+
+260
+00:21:41,476 --> 00:21:42,940
+<i>Come se la cavera'?</i>
+
+261
+00:21:48,519 --> 00:21:52,285
+<i>Le Formichimere stanno attaccando
+Gon sfruttando l'oscurita'.</i>
+
+262
+00:21:53,672 --> 00:21:57,733
+<i>E perche' Meleoron lo sta seguendo?</i>
+
+263
+00:23:24,634 --> 00:23:27,330
+<i>Nella prossima puntata:
+Combinazioni x E x Evoluzione.</i>
+
+264
+00:23:27,340 --> 00:23:28,936
+<i>Avvicinatevi tutti, gente!</i>
+
+265
+00:23:28,946 --> 00:23:30,948
+<i>E' una normale scatola,
+non e' stata modificata.</i>
+
+266
+00:23:30,958 --> 00:23:34,220
+<i>- Uno, due, tre!
+- Quella era un'illusione.</i>
+
+267
+00:23:34,306 --> 00:23:37,137
+<b>::Italian x Subs x Addicted::
+[www.italiansubs.net]</b>
