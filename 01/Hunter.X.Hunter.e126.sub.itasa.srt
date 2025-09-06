@@ -1,0 +1,983 @@
+1
+00:00:02,002 --> 00:00:03,815
+Questa e' una tomba.
+
+2
+00:00:08,984 --> 00:00:10,231
+La tua tomba.
+
+3
+00:00:29,653 --> 00:00:31,240
+<i>Sono davvero grato.</i>
+
+4
+00:00:40,245 --> 00:00:41,895
+<i>Grato per tutto cio'...</i>
+
+5
+00:00:43,245 --> 00:00:45,845
+<i>che ha reso possibile
+il nostro incontro!</i>
+
+6
+00:00:49,104 --> 00:00:52,590
+<b>::Italian x Subs x Addicted::
+[www.italiansubs.net]</b>
+
+7
+00:01:07,799 --> 00:01:12,568
+<b>Revisione: mezzi</b>
+
+8
+00:01:07,799 --> 00:01:12,570
+{\an8}<b>Traduzione:
+Onizuka20 x Black_Crystal x Gwintroc</b>
+
+9
+00:01:13,489 --> 00:01:16,571
+<b>Hunter x Hunter
+Episodio 126</b>
+
+10
+00:02:09,004 --> 00:02:13,978
+<b>Zero x E x Rosa</b>
+
+11
+00:03:16,658 --> 00:03:17,658
+<i>Il Re...</i>
+
+12
+00:03:18,047 --> 00:03:20,781
+<i>mentre il suo tempo veniva
+ridotto al limite estremo...</i>
+
+13
+00:03:20,791 --> 00:03:23,186
+<i>e la sua coscienza riusciva
+a malapena a seguire...</i>
+
+14
+00:03:23,196 --> 00:03:25,996
+<i>l'immagine residua
+dei movimenti di Netero...</i>
+
+15
+00:03:27,025 --> 00:03:30,375
+<i>scopriva che una singola emozione
+regnava dentro di lui:</i>
+
+16
+00:03:37,807 --> 00:03:41,095
+<i>completa e assoluta
+ammirazione per il suo nemico.</i>
+
+17
+00:03:59,342 --> 00:04:00,342
+<i>Ecco.</i>
+
+18
+00:04:01,966 --> 00:04:06,550
+<i>Unisce le mani per dare inizio
+a un attacco.</i>
+
+19
+00:04:07,162 --> 00:04:10,690
+<i>E' l'unico suo movimento che surclassa
+di parecchio la mia velocita'.</i>
+
+20
+00:04:14,182 --> 00:04:15,924
+<i>Movimenti inutili come quello...</i>
+
+21
+00:04:15,934 --> 00:04:19,034
+<i>potrebbero costare la vita
+in uno scontro simile...</i>
+
+22
+00:04:19,469 --> 00:04:22,700
+<i>ma adesso funzionano come un'arma
+che potrebbe permettergli di sconfiggermi.</i>
+
+23
+00:04:23,536 --> 00:04:27,242
+<i>Cercare di indovinare cosa l'abbia
+spinto a fare una cosa simile...</i>
+
+24
+00:04:27,252 --> 00:04:28,950
+<i>e' completamente inutile.</i>
+
+25
+00:04:30,036 --> 00:04:34,191
+<i>Sicuramente avra' dovuto percorrere
+una strada che sfida ogni logica.</i>
+
+26
+00:04:35,370 --> 00:04:40,056
+<i>Presumo che a un certo momento
+fosse sul punto di impazzire...</i>
+
+27
+00:04:42,602 --> 00:04:43,802
+<i>Cinque anni...</i>
+
+28
+00:04:44,153 --> 00:04:45,806
+<i>forse dieci anni...</i>
+
+29
+00:04:51,526 --> 00:04:53,980
+<i>E per tutto quel tempo
+si e' concentrato solo su questo.</i>
+
+30
+00:05:16,937 --> 00:05:18,037
+Riconosco...
+
+31
+00:05:20,325 --> 00:05:24,806
+che hai dedicato un'incredibile
+quantita' di tempo...
+
+32
+00:05:25,233 --> 00:05:28,537
+al raggiungimento della
+forza che hai dimostrato.
+
+33
+00:05:30,342 --> 00:05:33,282
+<i>Dopo tutto questo,
+ne e' uscito a malapena graffiato.</i>
+
+34
+00:05:33,292 --> 00:05:35,542
+<i>Non che mi aspettassi il contrario.</i>
+
+35
+00:05:38,900 --> 00:05:40,100
+Una persona...
+
+36
+00:05:42,432 --> 00:05:46,069
+raggiunge il suo limite
+dopo un duro allenamento.
+
+37
+00:05:46,621 --> 00:05:50,040
+Tu sei un raro esempio di una persona
+che ha superato tale limite.
+
+38
+00:05:53,165 --> 00:05:54,265
+Complimenti.
+
+39
+00:05:54,995 --> 00:05:56,648
+Ti sei guadagnato le mie lodi.
+
+40
+00:05:58,577 --> 00:05:59,851
+<i>Un insetto...</i>
+
+41
+00:06:01,743 --> 00:06:05,672
+<i>non dovrebbe parlare agli esseri
+umani con tanta superiorita'!</i>
+
+42
+00:06:22,695 --> 00:06:26,054
+<i>La strategia del Re
+era piuttosto semplice.</i>
+
+43
+00:06:26,840 --> 00:06:28,545
+<i>Continuare ad attaccare.</i>
+
+44
+00:06:29,195 --> 00:06:34,084
+<i>Se l'unico attacco in grado di sconfiggerlo,
+Bodhisattva Avalokitesvara Dei Cento Colpi...</i>
+
+45
+00:06:34,216 --> 00:06:36,752
+<i>non gli faceva quasi niente...</i>
+
+46
+00:06:36,991 --> 00:06:38,846
+<i>il Re non aveva nulla
+di cui aver paura.</i>
+
+47
+00:06:41,486 --> 00:06:43,936
+<i>Quelle non sono altro che mani fasulle.</i>
+
+48
+00:06:44,064 --> 00:06:46,593
+<i>Possono muoversi solo
+in schemi predefiniti.</i>
+
+49
+00:06:47,070 --> 00:06:51,584
+<i>Se lo attacco da un'angolazione che non e' in
+grado di parare con una mossa gia' usata...</i>
+
+50
+00:06:51,850 --> 00:06:55,000
+<i>non avra' altra scelta
+che rivelare una nuova mossa.</i>
+
+51
+00:06:57,518 --> 00:07:00,671
+<i>Una volta verificate
+tutte le possibili combinazioni...</i>
+
+52
+00:07:00,681 --> 00:07:01,871
+<i>potro' trovare...</i>
+
+53
+00:07:02,205 --> 00:07:05,725
+<i>l'angolo d'attacco
+che lo costringera'...</i>
+
+54
+00:07:05,980 --> 00:07:07,860
+<i>a rivelare un'altra nuova mossa.</i>
+
+55
+00:07:11,422 --> 00:07:15,182
+<i>Tuttavia, benche' possa avere
+un limitato numero di schemi d'attacco...</i>
+
+56
+00:07:15,192 --> 00:07:17,766
+<i>il numero di combinazioni
+che possono essere usate...</i>
+
+57
+00:07:17,776 --> 00:07:20,108
+<i>potrebbe essere infinito.</i>
+
+58
+00:07:24,320 --> 00:07:25,320
+<i>Ma...</i>
+
+59
+00:07:25,581 --> 00:07:28,380
+<i>ogni persona ha un ritmo.</i>
+
+60
+00:07:29,234 --> 00:07:33,184
+<i>Ci sara' una inconscia predilezione
+e un rifiuto per certi schemi...</i>
+
+61
+00:07:33,423 --> 00:07:36,723
+<i>e questa predilezione forma
+l'identita' di una persona.</i>
+
+62
+00:07:37,637 --> 00:07:40,464
+<i>Se riesco a identificare
+il suo ritmo personale...</i>
+
+63
+00:07:40,474 --> 00:07:44,901
+<i>ho una buona possibilita'
+di indovinare...</i>
+
+64
+00:07:45,202 --> 00:07:46,650
+<i>quali schemi scegliera'.</i>
+
+65
+00:07:47,694 --> 00:07:50,287
+<i>Scoprire il giusto ago...</i>
+
+66
+00:07:50,483 --> 00:07:52,456
+<i>in mezzo a diversi milioni...</i>
+
+67
+00:07:52,486 --> 00:07:55,736
+<i>e riuscire accuratamente
+a infilarci dentro il filo...</i>
+
+68
+00:07:56,959 --> 00:07:59,736
+<i>e' cio' che ci vuole
+per penetrare il mio obiettivo.</i>
+
+69
+00:07:59,746 --> 00:08:01,889
+<i>Sara' anche difficile...</i>
+
+70
+00:08:05,640 --> 00:08:06,940
+<i>ma ci riusciro'.</i>
+
+71
+00:08:08,361 --> 00:08:09,561
+<i>Posso farcela!</i>
+
+72
+00:08:11,077 --> 00:08:13,614
+<i>Vecchio guerriero, ti prego...</i>
+
+73
+00:08:15,053 --> 00:08:19,184
+<i>non perdere la vita
+prima che ci sia riuscito!</i>
+
+74
+00:08:23,039 --> 00:08:24,460
+<i>Sta ridendo?</i>
+
+75
+00:08:25,237 --> 00:08:27,067
+<i>Beh, anch'io mi sto divertendo...</i>
+
+76
+00:08:27,510 --> 00:08:29,380
+<i>quindi non posso biasimarlo.</i>
+
+77
+00:08:29,892 --> 00:08:32,035
+<i>Non importa la traiettoria
+del mio attacco.</i>
+
+78
+00:08:33,020 --> 00:08:35,590
+<i>Si riprende immediatamente...</i>
+
+79
+00:08:35,910 --> 00:08:37,800
+<i>e si sposta in contrattacco.</i>
+
+80
+00:08:38,845 --> 00:08:40,444
+<i>Se faccio una mossa sbagliata,</i>
+
+81
+00:08:40,635 --> 00:08:45,084
+<i>la sua velocita' non mi permettera'
+di scatenare la prossima Mano.</i>
+
+82
+00:08:46,711 --> 00:08:50,272
+<i>Se perdo la concentrazione,
+mi fara' a pezzi...</i>
+
+83
+00:08:50,733 --> 00:08:52,771
+<i>prima che me ne accorga.</i>
+
+84
+00:08:55,096 --> 00:08:58,560
+<i>E' una gara di resistenza,</i>
+
+85
+00:08:58,730 --> 00:09:01,295
+<i>in cui devo continuare
+a decidere nel modo giusto.</i>
+
+86
+00:09:01,305 --> 00:09:02,760
+<i>Se sbaglio...</i>
+
+87
+00:09:03,501 --> 00:09:05,564
+<i>tu vinci.</i>
+
+88
+00:09:08,426 --> 00:09:11,083
+<i>Questo e' quello che
+probabilmente stai pensando...</i>
+
+89
+00:09:11,093 --> 00:09:12,375
+<i>Re Formichimera!</i>
+
+90
+00:09:13,211 --> 00:09:14,311
+Non importa.
+
+91
+00:09:14,341 --> 00:09:16,485
+Ti daro' scacco matto in un attimo.
+
+92
+00:09:17,346 --> 00:09:20,160
+<i>Dammi scacco matto, se ci riesci.</i>
+
+93
+00:09:21,256 --> 00:09:24,010
+<i>Ti mostrero' la mia Mano Zero!</i>
+
+94
+00:09:52,430 --> 00:09:55,172
+<i>Dopo centinaia di migliaia di colpi,</i>
+
+95
+00:09:55,867 --> 00:09:57,504
+<i>il Re stava cominciando...</i>
+
+96
+00:09:57,514 --> 00:10:01,214
+<i>a provare dei minimi e leggeri
+accenni di dolore nel suo corpo.</i>
+
+97
+00:10:02,708 --> 00:10:03,758
+<i>Tuttavia...</i>
+
+98
+00:10:17,341 --> 00:10:18,741
+Ferma l'emorragia.
+
+99
+00:10:19,349 --> 00:10:21,260
+E poi dimmi il mio nome.
+
+100
+00:10:22,082 --> 00:10:23,658
+Sei stato bravo...
+
+101
+00:10:24,383 --> 00:10:25,883
+per essere un umano.
+
+102
+00:10:36,082 --> 00:10:37,332
+Cosa ti prende?
+
+103
+00:10:37,537 --> 00:10:40,030
+Se non fai qualcosa,
+morirai dissanguato.
+
+104
+00:10:42,252 --> 00:10:43,530
+Non farmi ridere.
+
+105
+00:10:55,095 --> 00:10:57,022
+Io moriro'?
+
+106
+00:10:57,773 --> 00:11:00,725
+Non dovresti montarti la testa
+per aver messo a segno un colpo fortunato...
+
+107
+00:11:00,735 --> 00:11:02,312
+La battaglia e' appena cominciata!
+
+108
+00:11:03,661 --> 00:11:06,461
+Ti sei davvero guadagnato
+la mia ammirazione.
+
+109
+00:11:06,677 --> 00:11:10,060
+Sono stupito che il tuo spirito
+non sia stato colpito.
+
+110
+00:11:11,090 --> 00:11:13,566
+Pero', perdere la tua gamba...
+
+111
+00:11:13,985 --> 00:11:15,913
+era praticamente inevitabile.
+
+112
+00:11:15,923 --> 00:11:17,798
+E' la conseguenza
+dell'usare una difesa che,
+
+113
+00:11:17,808 --> 00:11:20,504
+anche se non e' male,
+non e' la scelta migliore.
+
+114
+00:11:22,844 --> 00:11:24,894
+<i>Dopo aver giocato contro Komugi...</i>
+
+115
+00:11:24,904 --> 00:11:28,080
+<i>ho imparato l'arte di anticipare
+le mosse del nemico.</i>
+
+116
+00:11:29,173 --> 00:11:31,558
+Le tue predilezioni inconsce...
+
+117
+00:11:32,347 --> 00:11:33,959
+verso certi schemi...
+
+118
+00:11:34,205 --> 00:11:38,092
+mi danno una visione delle opzioni
+altrimenti illimitate che avresti.
+
+119
+00:11:41,395 --> 00:11:42,895
+La prossima volta...
+
+120
+00:11:42,912 --> 00:11:44,584
+prendero' il tuo braccio sinistro.
+
+121
+00:11:50,657 --> 00:11:52,303
+<i>Il combattimento conseguente...</i>
+
+122
+00:11:52,949 --> 00:11:55,859
+<i>non duro' nemmeno un minuto.</i>
+
+123
+00:11:58,841 --> 00:11:59,844
+<i>Questo e'...</i>
+
+124
+00:12:01,272 --> 00:12:03,222
+<i>l'atto finale della mia vita!</i>
+
+125
+00:12:04,307 --> 00:12:07,880
+<i>Una volta scagliati i suoi Cento
+Colpi, la risolutezza di Netero...</i>
+
+126
+00:12:07,890 --> 00:12:11,882
+<i>aveva acuito i suoi
+sensi fisici e mentali...</i>
+
+127
+00:12:16,096 --> 00:12:19,546
+<i>risultando in uno scambio
+di piu' di un migliaio di pugni,</i>
+
+128
+00:12:21,562 --> 00:12:24,870
+<i>e facendo scoppiare innumerevoli scintille
+ed esplosioni tra i combattenti.</i>
+
+129
+00:12:28,170 --> 00:12:29,170
+<i>E poi...</i>
+
+130
+00:12:29,625 --> 00:12:32,282
+<i>arrivo' il momento.</i>
+
+131
+00:12:34,736 --> 00:12:37,730
+<i>I suoi attacchi cominciavano
+a mostrare una lieve inclinazione,</i>
+
+132
+00:12:37,740 --> 00:12:39,435
+<i>una non abbastanza significativa...</i>
+
+133
+00:12:39,445 --> 00:12:42,860
+<i>da essere chiamata
+abitudine o predilezione.</i>
+
+134
+00:12:43,944 --> 00:12:48,444
+<i>Dopo aver usato il suo corpo per sopportare
+l'impatto degli attacchi di Netero,</i>
+
+135
+00:12:48,682 --> 00:12:53,090
+<i>il Re era stato in grado di trovare
+la tenue luce al di la'...</i>
+
+136
+00:12:55,301 --> 00:12:56,801
+<i>e l'aveva raggiunta.</i>
+
+137
+00:13:13,364 --> 00:13:14,364
+Sei...
+
+138
+00:13:14,850 --> 00:13:16,400
+soddisfatto ora?
+
+139
+00:13:19,044 --> 00:13:20,183
+Adesso...
+
+140
+00:13:21,212 --> 00:13:22,610
+dimmi il mio nome.
+
+141
+00:13:31,791 --> 00:13:32,989
+Re Formichimera...
+
+142
+00:13:35,275 --> 00:13:38,250
+credi che non possa pregare
+con un braccio solo?
+
+143
+00:13:41,592 --> 00:13:42,660
+<i>Una preghiera...</i>
+
+144
+00:13:43,379 --> 00:13:44,791
+<i>viene dal cuore.</i>
+
+145
+00:13:53,656 --> 00:13:57,206
+<i>Se il cuore raggiunge la forma corretta,
+diventa emozione...</i>
+
+146
+00:13:57,599 --> 00:14:00,199
+<i>e le emozioni possono
+essere manifestate.</i>
+
+147
+00:14:04,535 --> 00:14:07,436
+<i>La Mano Zero del Bodhisattva
+Avalokitesvara dei Cento Colpi...</i>
+
+148
+00:14:07,446 --> 00:14:10,196
+<i>era un Buddha che appariva
+dietro al nemico.</i>
+
+149
+00:14:12,661 --> 00:14:15,785
+<i>Avvolgendo dolcemente il bersaglio...</i>
+
+150
+00:14:16,315 --> 00:14:18,862
+<i>nell'amore indiscriminato.</i>
+
+151
+00:14:27,154 --> 00:14:32,064
+<i>In precedenza, Killua aveva percepito le sue
+capacita' omicide da chilometri di distanza.</i>
+
+152
+00:14:32,074 --> 00:14:33,319
+<i>Non da quella parte!</i>
+
+153
+00:14:34,821 --> 00:14:39,750
+<i>E lo avevano impressionato cosi' tanto
+da spingerlo a cambiare direzione.</i>
+
+154
+00:14:41,429 --> 00:14:43,989
+<i>Tutta l'aura di Netero...</i>
+
+155
+00:14:45,943 --> 00:14:50,643
+<i>era stata trasformata in luce, accecante
+come quella di una stella, e rilasciata...</i>
+
+156
+00:14:52,410 --> 00:14:54,180
+<i>con un rombo assordante.</i>
+
+157
+00:16:30,083 --> 00:16:32,860
+<i>Il pinnacolo della forza
+di un individuo.</i>
+
+158
+00:16:51,624 --> 00:16:53,980
+E' stato un magnifico attacco.
+
+159
+00:16:55,571 --> 00:16:57,921
+<i>Neanche la Zero e' stata sufficiente?</i>
+
+160
+00:17:00,225 --> 00:17:03,225
+Sono nato per diventare
+il Re delle Formichimere.
+
+161
+00:17:03,396 --> 00:17:06,330
+Per regnare su tutte
+le altre forme di vita.
+
+162
+00:17:08,445 --> 00:17:12,801
+Sono l'incarnazione della speranza che la
+mia specie ha nutrito per cosi' tanto tempo.
+
+163
+00:17:12,811 --> 00:17:16,111
+Una specie che ha continuato
+a evolversi per creare me.
+
+164
+00:17:17,216 --> 00:17:20,366
+<i>E ora sono qui, il premio...</i>
+
+165
+00:17:21,065 --> 00:17:23,188
+<i>per la totale devozione
+della mia razza.</i>
+
+166
+00:17:24,853 --> 00:17:28,130
+Tu sei solo un uomo, non un Re.
+
+167
+00:17:28,756 --> 00:17:32,356
+Io sono il Re che porta il peso
+della sua razza sulle spalle.
+
+168
+00:17:33,111 --> 00:17:35,661
+Ecco la differenza,
+in questa battaglia.
+
+169
+00:17:37,197 --> 00:17:39,367
+<i>L'intera evoluzione...</i>
+
+170
+00:17:39,803 --> 00:17:44,259
+<i>della razza delle Formichimere
+ha avuto come risultato me.</i>
+
+171
+00:17:46,290 --> 00:17:49,750
+<i>Un'impresa che la razza umana,
+con tutta la sua individualita',</i>
+
+172
+00:17:49,760 --> 00:17:51,706
+<i>non potra' mai ripetere.</i>
+
+173
+00:17:52,511 --> 00:17:53,561
+Tuttavia...
+
+174
+00:17:53,764 --> 00:17:57,223
+gli umani non saranno piu' utilizzati
+per propagare la nostra specie.
+
+175
+00:17:58,051 --> 00:18:00,007
+<i>Abbiamo capito che...</i>
+
+176
+00:18:00,097 --> 00:18:04,225
+<i>l'ego degli umani distrugge
+il legame tra le Formichimere.</i>
+
+177
+00:18:05,674 --> 00:18:07,236
+Come segno di rispetto
+per i tuoi sforzi,
+
+178
+00:18:08,005 --> 00:18:12,005
+permettero' agli umani di sopravvivere,
+in una zona a loro riservata.
+
+179
+00:18:12,623 --> 00:18:14,323
+Dovremo riconsiderare...
+
+180
+00:18:14,901 --> 00:18:18,240
+la qualita' e la quantita' degli
+umani che usiamo come cibo.
+
+181
+00:18:20,586 --> 00:18:22,774
+La tua battaglia solitaria...
+
+182
+00:18:23,218 --> 00:18:24,990
+non e' stata vana.
+
+183
+00:18:31,015 --> 00:18:34,400
+Te lo chiedo per l'ultima volta.
+
+184
+00:18:35,835 --> 00:18:37,260
+Dimmi il mio nome.
+
+185
+00:18:52,686 --> 00:18:54,054
+Io non...
+
+186
+00:18:55,373 --> 00:18:57,242
+sono solo!
+
+187
+00:19:06,635 --> 00:19:10,540
+<i>Non sottovalutare
+la razza umana, Meruem.</i>
+
+188
+00:19:12,234 --> 00:19:15,738
+Meruem, e' questo il tuo nome.
+
+189
+00:19:20,225 --> 00:19:22,813
+<i>Dopo che Netero gli ebbe
+rivelato il suo nome,</i>
+
+190
+00:19:24,310 --> 00:19:27,210
+<i>il Re non ebbe nemmeno
+il tempo di assaporarlo,</i>
+
+191
+00:19:27,823 --> 00:19:31,223
+<i>mentre guardava il vecchio
+che avrebbe dovuto arrendersi.</i>
+
+192
+00:19:32,491 --> 00:19:33,491
+<i>Che...</i>
+
+193
+00:19:33,934 --> 00:19:34,934
+<i>succede?</i>
+
+194
+00:19:45,438 --> 00:19:47,438
+Meruem, Re delle Formichimere,
+
+195
+00:19:48,497 --> 00:19:51,301
+non puoi comprendere...
+
+196
+00:19:59,213 --> 00:20:03,257
+<i>l'infinito potenziale
+evolutivo della razza umana!</i>
+
+197
+00:20:05,049 --> 00:20:06,599
+<i>Per la prima volta...</i>
+
+198
+00:20:06,701 --> 00:20:09,496
+<i>il Re aveva paura.</i>
+
+199
+00:20:10,868 --> 00:20:13,067
+<i>Uno sguardo al viso
+del vecchio sconfitto,</i>
+
+200
+00:20:13,077 --> 00:20:16,042
+<i>che avrebbe dovuto
+aspettare la morte...</i>
+
+201
+00:20:17,021 --> 00:20:21,242
+<i>gli fece capire che le sue parole
+apparentemente vuote...</i>
+
+202
+00:20:21,777 --> 00:20:24,146
+<i>non erano solo una mera vanteria.</i>
+
+203
+00:20:35,785 --> 00:20:40,380
+Quando il suo cuore smettera'
+di battere, il congegno si attivera'.
+
+204
+00:20:48,468 --> 00:20:52,164
+<i>Se l'Inferno esiste,
+ci rivedremo laggiu'.</i>
+
+205
+00:20:56,733 --> 00:20:57,733
+<i>Ho capito.</i>
+
+206
+00:20:58,975 --> 00:21:00,639
+<i>Si', ora ho capito.</i>
+
+207
+00:21:04,110 --> 00:21:06,060
+<i>Mi avevi dato scacco matto...</i>
+
+208
+00:21:07,378 --> 00:21:08,678
+<i>fin dall'inizio.</i>
+
+209
+00:21:29,026 --> 00:21:32,866
+<i>La bomba era piccola e poco costosa,</i>
+
+210
+00:21:33,583 --> 00:21:36,290
+<i>e tuttavia sorprendentemente letale.</i>
+
+211
+00:21:37,715 --> 00:21:40,020
+<i>Con la giusta tecnologia,</i>
+
+212
+00:21:40,674 --> 00:21:43,874
+<i>questo tipo di bombe poteva
+essere prodotto in massa.</i>
+
+213
+00:21:44,945 --> 00:21:47,325
+<i>Data la forma della nuvola
+di fumo che producevano...</i>
+
+214
+00:21:49,538 --> 00:21:53,238
+<i>erano state soprannominate
+"Piccola Rosa", o "Rosa dei poveri".</i>
+
+215
+00:21:53,813 --> 00:21:57,413
+<i>Erano molto popolari nei piccoli
+paesi a regime dittatoriale.</i>
+
+216
+00:23:24,766 --> 00:23:27,334
+<i>Nella prossima puntata:
+Ostilita' x E x Determinazione.</i>
+
+217
+00:23:27,344 --> 00:23:29,912
+<i>Qualunque cosa accada,
+non tradiro' i miei amici.</i>
+
+218
+00:23:29,922 --> 00:23:32,925
+<i>Qualunque cosa accada,
+avro' fiducia nei miei amici.</i>
+
+219
+00:23:32,935 --> 00:23:35,650
+<i><i>- Grazie, Presidente Netero.
+- Grazie, Presidente Netero.</i></i>
+
+220
+00:23:35,660 --> 00:23:38,421
+<b>::Italian x Subs x Addicted::
+[www.italiansubs.net]</b>
