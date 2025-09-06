@@ -45,3 +45,22 @@ msubtitles:
             episode: 74
           - path: Hunter.X.Hunter.e133.sub.itasa.srt
             episode: 75
+          - path: Hunter.X.Hunter.e134.sub.itasa.srt
+            episode: 76
+          - path: Hunter.X.Hunter.e135.sub.itasa.srt
+            episode: 77
+          - path: Hunter.X.Hunter.e136.sub.itasa.srt
+            episode: 78
+      - season: 3
+        items:
+          - path: Hunter.X.Hunter.e137.sub.itasa.srt
+            episode: 1
+          - path: Hunter.X.Hunter.e138.sub.itasa.srt
+            episode: 2
+          - path: Hunter.X.Hunter.e139.sub.itasa.srt
+            episode: 3
+          - path: Hunter.X.Hunter.e140.sub.itasa.srt
+            episode: 4
+          - path: Hunter.X.Hunter.e141.sub.itasa.srt
+            episode: 5
+
