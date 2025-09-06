@@ -1,1 +1,47 @@
-
+msubtitles:
+  - source: https://raw.githubusercontent.com/ginocanna/hunter/main/02/
+    subtitles:
+      - season: 2
+        items:
+          - path: Hunter.X.Hunter.e113.sub.itasa.srt
+            episode: 55
+          - path: Hunter.X.Hunter.e114.sub.itasa.srt
+            episode: 56
+          - path: Hunter.X.Hunter.e115.sub.itasa.srt
+            episode: 57
+          - path: Hunter.X.Hunter.e116.sub.itasa.srt
+            episode: 58
+          - path: Hunter.X.Hunter.e117.sub.itasa.srt
+            episode: 59
+          - path: Hunter.X.Hunter.e118.sub.itasa.srt
+            episode: 60
+          - path: Hunter.X.Hunter.e119.sub.itasa.srt
+            episode: 61
+          - path: Hunter.X.Hunter.e120.sub.itasa.srt
+            episode: 62
+          - path: Hunter.X.Hunter.e121.sub.itasa.srt
+            episode: 63
+          - path: Hunter.X.Hunter.e122.sub.itasa.srt
+            episode: 64
+          - path: Hunter.X.Hunter.e123.sub.itasa.srt
+            episode: 65
+          - path: Hunter.X.Hunter.e124.sub.itasa.srt
+            episode: 66
+          - path: Hunter.X.Hunter.e125.sub.itasa.srt
+            episode: 67
+          - path: Hunter.X.Hunter.e126.sub.itasa.srt
+            episode: 68
+          - path: Hunter.X.Hunter.e127.sub.itasa.srt
+            episode: 69
+          - path: Hunter.X.Hunter.e128.sub.itasa.srt
+            episode: 70
+          - path: Hunter.X.Hunter.e129.sub.itasa.srt
+            episode: 71
+          - path: Hunter.X.Hunter.e130.sub.itasa.srt
+            episode: 72
+          - path: Hunter.X.Hunter.e131.sub.itasa.srt
+            episode: 73
+          - path: Hunter.X.Hunter.e132.sub.itasa.srt
+            episode: 74
+          - path: Hunter.X.Hunter.e133.sub.itasa.srt
+            episode: 75
